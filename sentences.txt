@@ -442,7 +442,7 @@
 Он еще не восстановился от этой болезни;He hasn't recovered from this illness yet
 Он не видит никаких преиму ществ жизни за границей;He doesn't see any advantages of living abroad
 Какая была ее реакция на твои слова?;What was her reaction to your words?
-Он извинился пере до мной на следующий день;He apologised to me the next day
+Он извинился передо мной на следующий день;He apologised to me the next day
 Это очень эффективный способ изучения английского языка;It's a very effective way of learning English
 Это неправильный ответ на этот вопрос;It is an incorrect answer to this question
 Я еще не нашел отв ет на этот вопрос;I haven't found an answer to this question yet
@@ -1012,7 +1012,7 @@
 Когда я пришел туда, я заметил его отсутствие;When I came there, I noticed his absence
 Он сказал, что долго ждал этого;He said that he had been waiting for it for a long time
 Она учила английский весь день вчера;She was learning English all day yesterday
-Он печатал сообщение, когда он услыша звонок;He was typing a message when he heard a call
+Он печатал сообщение, когда он услышал звонок;He was typing a message when he heard a call
 Он сказал, что он ждал меня весь день;He said that he had been waiting for me all day
 Когда он пришел домой, дети начали играть с ним;When he came home, the kids started playing with him
 Когда они встретились, они решили сделать это немедленно;When they met, they decided to do it immediately
@@ -1412,7 +1412,7 @@
 Если погода будет хорошая, мы выйдем на улицу;If the weather is fine, we will go out
 Я не знал куда идти;I didn't know where to go
 Сколько дней ты читаешь эту книгу?;How many days have you been reading this book?
-Все покрыто снегом;Everything is covered with snow_
+Все покрыто снегом;Everything is covered with snow
 Дом был построен им;The house was built by him
 Он не очень любит музыку;He doesn't really like music
 Он увидел автомобильную аварию, когда он ехал на работу;He saw a car accident when he was driving to work
@@ -2614,7 +2614,7 @@
 Я решил задать ему более сложный вопрос;I decided to ask him a more difficult question
 Я бы хотел купить более удобную пару кроссовок;I'd like to buy a more comfortable pair of sneakers
 Его комната в два раза больше, чем ее;His room is twice larger than hers
-Как только ыто было сказано, мы также должны принять это во внимание;As it has just been said, we also need to take it into account
+Как только что было сказано, мы также должны принять это во внимание;As it has just been said, we also need to take it into account
 Дом довольно старый;The house is quite old
 Результат был довольно хорошим;The result was pretty good
 Я совсем этим не обеспокоен;I'm not worried about it at all
@@ -3033,7 +3033,7 @@
 Многие люди хотят иметь пассивный доход;Many people want to have a passive income
 Я сделал все необходимые приготовления;I made all the necessary arrangements
 В целом, он очень успешный бизнесмен;Overall, he is a very successful businessman
-Я думаю, это более хороший выход из этой ситуации;I think it is a better wat out of this situation
+Я думаю, это более хороший выход из этой ситуации;I think it is a better way out of this situation
 Они были убеждены, что она была невиновна;They were convinced that she was innocent
 Эта вещь не такая дорогая, как та;This thing isn't as expensive as that one
 Я сделал все необходимые приготовления;I made all the necessary arrangements
@@ -3218,3 +3218,15 @@
 Она чувствовала себя так неловко из-за этого;She felt so embarrassed because of it
 Ты пользуешься общественным транспортом?;Do you use public transport?
 Ты никто пока о тебе не говорят;You're nobody until you're talked about
+Какая была главная причина для того, чтобы сделать это?;What was the main reason for doing it?
+Я вижу, у тебя очень амбициозные планы на будущее;I see you have very ambitious plans for the future
+Он был слишком стеснительным, чтобы начать разговор с ней;He was too shy to start a conversation with her
+Это главная проблема для меня на данный момент;It's the main problem for me at the moment
+Я уверен, что это пустая трата времени;I'm sure that it's a complete waste of time
+Это очень распространенная проблема в нашем современном мире;It is a very common problem in our modern world
+Ты очень широко мыслящий человек;You are a very broad-minded person
+Я стараюсь делать это на регулярной основе, чтобы иметь максимальный результат;I try to do it on a regular basis to have the maximum result
+Такая ошибка очень характерна для начинающих;Such a mistake is very typical of beginners
+Наш директор решил нанять более компетентного сотрудника вместо него;Our director decided to hire a more competent employee instead of him
+Я знаю, что мне не хватает некоторіх практических навіков, но я думаю, что это вопрос времени;I know that I lack some practical skills but I think it's a matter of time
+Откровенно говоря, это совсем не оправдало моих ожиданий;To be frank, it didn't live up to my expectations at all
