@@ -1132,7 +1132,7 @@
 Я надеюсь, я смогу купить это;I hope I will be able to buy it
 Мне кажется, он не сможет сделать это;It seems to me that he will be unable to do it
 Я знаю, что она поймет это;I know that she will understand it
-Я думаю, что они не поймут этого;I think that they won't understand it;
+Я думаю, что они не поймут этого;I think that they won't understand it
 Я знаю, что это произойдет рано или поздно;I know that it will happen sooner or later
 Я верю, что он придет рано или поздно;I believe that he will come sooner or later
 Я верю, что это скоро произойдет;I believe that it will happen soon
@@ -2650,7 +2650,7 @@
 Когда все это закончится?;When will all this end?
 Нет ничего проще, чем смотреть на неудачи задним числом;There is nothing easier than looking at failures in hindsight
 Им казалось, что это продолжится вечно;It seems to them that this will last forever
-Как может исчезнуть то, что было всегда?How can something that has always existed just disappear?
+Как может исчезнуть то, что было всегда?;How can something that has always existed just disappear?
 Государство ничего от граждан не требует, кроме как спокойно сидеть на диване;The state does not require anything from citizens, except to sit quietly on the couch
 Каждый следующий год почти неотличим от предыдущего;Each next year is almost indistinguishable from previous one
 Давать прогнозы из точки неопределенности - полное безумие;Making predictions from a point of uncertainty is insane
@@ -2970,12 +2970,12 @@
 Они сидели в первом ряду;They sat in the first row
 Я думаю, что ты ошибался;I think that you were mistaken
 Я ошибаюсь?;Am I mistaken?
-Кого он боялся?Who was he afraid of?
+Кого он боялся?;Who was he afraid of?
 Каждый имеет определенные права;Everyone has certain rights
 У всех нас есть свои законные права;We all have our legal rights
 Конечно, я желаю, чтобы у меня было больше свободного времени;Of course, I wish I had more free time
 Он сыт по  горло постоянными ошибками;He's fed up with making constant mistakes
-Чем он любит заниматься в свободное время?What does he like doing in his free time?
+Чем он любит заниматься в свободное время?;What does he like doing in his free time?
 Очень неприятно видеть это;It is very unpleasant to see it
 Он чувствует себя очень мотивированным и готов работать сверхурочно;He feels very motivated and he is ready to work overtime
 В комнате не достаточно свежего воздуха;There isn't enough fresh air in the room
@@ -3023,7 +3023,7 @@
 Я хочу быть кратким;I want to be brief
 У него такое же мнение;He has the same opinion
 У него совершенно другая точка зрения;He has a completely different point of view
-Она желает нам помочь?Does she want to help us?
+Она желает нам помочь?;Does she want to help us?
 Он желает это сделать?;Is he willing to do it?
 Мне кажется, что в этом есть что-то плохое;It seems to me there is something bad about it
 Она говорит, что в этом не было ничего плохого;She says there was nothing bad about it
@@ -3230,6 +3230,18 @@
 Наш директор решил нанять более компетентного сотрудника вместо него;Our director decided to hire a more competent employee instead of him
 Я знаю, что мне не хватает некоторіх практических навіков, но я думаю, что это вопрос времени;I know that I lack some practical skills but I think it's a matter of time
 Откровенно говоря, это совсем не оправдало моих ожиданий;To be frank, it didn't live up to my expectations at all
+Мне нужно помыть посуду сейчас;I need to do the dishes now
+Ей приходится заниматься глажкой;She has to do the ironing
+Я делаю там курс английского языка;I am doing an English course there
+Он плохо сдал экзамен;He did badly in the exam
+Я сделал правильный выбор;I made the right choice
+Ты сделал правильную вещь;You did the right thing
+Ты все сделал правильно;You did everything right
+Я сделал два бутерброда на завтрак;I made two sandwiches for breakfast
+Он готовит завтрак;He is making breakfast
+Он постелил себе постель;He made his bed
+Ты проделал отличную работу!;You did an excellent job!
+Ты можешь сделать мне чашку чая?;Can you make me a cup of tea?
 Я готовлю обед сейчас;I am making lunch
 Она делает свою домашнюю работу каждый день;She does her homework every day
 Я вижу, у тебя очень амбициозные планы на будущее;I see you have very ambitious plans for the future
