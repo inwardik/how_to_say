@@ -16220,13 +16220,153 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "",
-        "en": "",
+        "ru": "Это ее обязанность - стирать белье",
+        "en": "It is her duty to do the laundry",
         "ua": ""
     },
     {
-        "ru": "",
-        "en": "",
+        "ru": "Если кто-то занимается бизнесом, это не обязательно означает, что они зарабатывают очень большие деньги",
+        "en": "If somebody does business, it doesn't necessarily mean that they make very big money",
         "ua": ""
-    }
+    },
+    {
+        "ru": "Она сказала, что она могла бы сделать исключение для нас",
+        "en": "She said that she could make an exception for us",
+        "ua": ""
+    },
+    {
+        "ru": "К сожалению, мы ничего не можем с этим поделать",
+        "en": "Unfortunately, we can't do anything  about it",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал бронь стола на восемь в моем любимом ресторане",
+        "en": "I made a reservation for eight at my favourite restaurant",
+        "ua": ""
+    },
+    {
+        "ru": "Его жена любит делать покупки",
+        "en": "His wife likes doing the shopping",
+        "ua": ""
+    },
+    {
+        "ru": "Мой друг хочет заниматься бизнесом и зарабатывать большие деньги",
+        "en": "My friend wants to do business and make big money",
+        "ua": ""
+    },
+    {
+        "ru": "Он тратит так много времени на выполнение домашних заданий",
+        "en": "He spends so much time on doing homework",
+        "ua": ""
+    },
+    {
+        "ru": "Она очень плохо сделала тест",
+        "en": "She did very badly in the test",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь сделать мне одолжение?",
+        "en": "Can you do me a favour?",
+        "ua": ""
+    },
+    {
+        "ru": "Он сделает для нас исключение",
+        "en": "He will make an exception for us",
+        "ua": ""
+    },
+    {
+        "ru": "Он проходит бизнес-курс в этом университете",
+        "en": "He is doing a business course at this university",
+        "ua": ""
+    },
+    {
+        "ru": "Она обычно занимается домашним хозяйством",
+        "en": "She usually does housework",
+        "ua": ""
+    },
+    {
+        "ru": "Я делаю ужин",
+        "en": "I am making dinner",
+        "ua": ""
+    },
+    {
+        "ru": "Она делает себе маникюр",
+        "en": "She is doing her nails",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь сделать мне сэндвич?",
+        "en": "Can you make me a sandwich?",
+        "ua": ""
+    },
+    {
+        "ru": "Ей нужно сделать прическу",
+        "en": "She needs to do her hair",
+        "ua": ""
+    },
+    {
+        "ru": "Ты все сделал должным образом",
+        "en": "You did everything properly",
+        "ua": ""
+    },
+    {
+        "ru": "Ты хорошо справился с собеседованием",
+        "en": "You did well in the interview",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал эту работу вовремя",
+        "en": "I did this work on time",
+        "ua": ""
+    },
+    {
+        "ru": "Я готовлю обед",
+        "en": "I am making lunch",
+        "ua": ""
+    },
+    {
+        "ru": "Ты приготовил очень вкусный салат",
+        "en": "You made a very tasty salad",
+        "ua": ""
+    },
+    {
+        "ru": "Она обычно гладит белье",
+        "en": "She usually does the ironing",
+        "ua": ""
+    },
+    {
+        "ru": "Ты проделал хорошую работу!",
+        "en": "You did a good job!",
+        "ua": ""
+    },
+    {
+        "ru": "Кто обычно делает покупки в твоей семье?",
+        "en": "Who usually does the shopping in your family?",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал бутерброд для него",
+        "en": "I made a sandwich for him",
+        "ua": ""
+    },
+    {
+        "ru": "Она постирала белье",
+        "en": "She did the laundry",
+        "ua": ""
+    },
+    {
+        "ru": "Он действительно плохо сдал экзамен",
+        "en": "He did really badly in the exam",
+        "ua": ""
+    },
+    {
+        "ru": "Я могу приготовить тебе чашку чая",
+        "en": "I can make you a cup of tea",
+        "ua": ""
+    },
+    {
+        "ru": "Нам нужно что-то сделать, чтобы изменить ситуацию",
+        "en": "We need to do something to change the situation",
+        "ua": ""
+    },
 ]
