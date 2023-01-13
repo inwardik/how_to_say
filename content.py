@@ -16369,4 +16369,259 @@ sentences = [
         "en": "We need to do something to change the situation",
         "ua": ""
     },
+    {
+        "ru": "Я думаю, правильный ответ был найден",
+        "en": "I think the right answer was found",
+        "ua": ""
+    },
+    {
+        "ru": "Я полагаю, правильный выбор был сделан",
+        "en": "I suppose the right choice was made",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделаю все возможное, чтобы получить эту работу",
+        "en": "I'll do my best to get this job",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделаю все возможное, чтобы заработать эти деньги",
+        "en": "I'll do my best to earn this money",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что мы можем что-то сделать с этим",
+        "en": "I think we can do something about it",
+        "ua": ""
+    },
+    {
+        "ru": "К сожалению, мы не можем принять правильное решение",
+        "en": "Unfortunately, we can't make the right decision",
+        "ua": ""
+    },
+    {
+        "ru": "Ее мама помогает ему делать его домашнее задание",
+        "en": "Her mother helps him do his homework",
+        "ua": ""
+    },
+    {
+        "ru": "Кто помогает тебе делать твое домашнее задание?",
+        "en": "Who helps you do your homework?",
+        "ua": ""
+    },
+    {
+        "ru": "Я только что сделала себе маникюр",
+        "en": "I have just done my nails",
+        "ua": ""
+    },
+    {
+        "ru": "Когда ты будешь делать себе маникюр?",
+        "en": "When will you do your nails?",
+        "ua": ""
+    },
+    {
+        "ru": "Это может нанести вред нашей окружающей среде",
+        "en": "It can do harm to our environment",
+        "ua": ""
+    },
+    {
+        "ru": "Это наносит вред нашему здоровью",
+        "en": "It does harm to our health",
+        "ua": ""
+    },
+    {
+        "ru": "Я только что сделал домашнее задание",
+        "en": "I have just done my homework",
+        "ua": ""
+    },
+    {
+        "ru": "Я только что приготовил обед",
+        "en": "I have just made lunch",
+        "ua": ""
+    },
+    {
+        "ru": "Продавая эти товары, он разбогател",
+        "en": "Selling these goods he made a fortune",
+        "ua": ""
+    },
+    {
+        "ru": "Занимаясь таким бизнесом, она разбогателя",
+        "en": "Doing such business she made a fortune",
+        "ua": ""
+    },
+    {
+        "ru": "Она сделала завтрак для всей семьи",
+        "en": "She made breakfast for the whole family",
+        "ua": ""
+    },
+    {
+        "ru": "Она сделала мне два бутерброда",
+        "en": "She made two sandwiches for me",
+        "ua": ""
+    },
+    {
+        "ru": "Важно делать физические упражнения на регулярной основе",
+        "en": "It is important to do physical exercises on a regular basis",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделаю все возможное, чтобы не разочаровать тебя",
+        "en": "I will do my best not to disappoint you",
+        "ua": ""
+    },
+    {
+        "ru": "Я уверен, что было принято правильное решение",
+        "en": "I am sure that the right decision was made",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу сказать вам, что вы все проделали фантастическую работу",
+        "en": "I want to tell you that you all did a fantastic job",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделаю все возможное, чтобы не упустить этот шанс",
+        "en": "I will do my best not to miss this chance",
+        "ua": ""
+    },
+    {
+        "ru": "Я уверен, что ты поступил правильно",
+        "en": "I am sure that you did the right thing",
+        "ua": ""
+    },
+    {
+        "ru": "Нам придется сделать специальные приготовления",
+        "en": "We will have to make special arrangements",
+        "ua": ""
+    },
+    {
+        "ru": "Нам придется сделать выбор",
+        "en": "We will have to make a choice",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу сказать, что ты проделал отличную работу",
+        "en": "I want to say that you did a great job",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, я принял правильное решение",
+        "en": "I think I made the right decision",
+        "ua": ""
+    },
+    {
+        "ru": "Я не думаю, что это сделает какую-либо большую разницу",
+        "en": "I don't think that it will make any big difference",
+        "ua": ""
+    },
+    {
+        "ru": "Я склонен думать, что это ничего не изменит",
+        "en": "I tend to think that it won't make a difference",
+        "ua": ""
+    },
+    {
+        "ru": "Я могу слушать эти видео, делая физические упражнения",
+        "en": "I can listen to these videos doing physical exercises",
+        "ua": ""
+    },
+    {
+        "ru": "Ты думаешь, ты принял правильное решение?",
+        "en": "Do you think you made the right decision?",
+        "ua": ""
+    },
+    {
+        "ru": "Она сказала, что она могла бы сделать исключение для нас",
+        "en": "She said that she could make an exception for us",
+        "ua": ""
+    },
+    {
+        "ru": "К сожалению, мы ничего не можем с этим поделать",
+        "en": "Unfortunately, we can't do anything about it",
+        "ua": ""
+    },
+    {
+        "ru": "Мне придется сделать кое-какую работу, прежде чем уйти из дома",
+        "en": "I will have to do some work before leaving home",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделаю все возможное, чтобы достичь следующего уровня как можно скорее",
+        "en": "I'll do my best to reach the next level as soon as possible",
+        "ua": ""
+    },
+    {
+        "ru": "Я уже зарезервировал столик в этом ресторане",
+        "en": "I have already made a reservation at this restaurant",
+        "ua": ""
+    },
+    {
+        "ru": "Некоторые эксперты склонны думать, что это совсем ничего не изменит",
+        "en": "Some experts tend to think that it won't make a difference at all",
+        "ua": ""
+    },
+    {
+        "ru": "Это может нанести вред нашей окружающей среде",
+        "en": "It can do harm to our environment",
+        "ua": ""
+    },
+    {
+        "ru": "Они делают такую вкусную еду в этом кафе",
+        "en": "They make such delicious food in this cafe",
+        "ua": ""
+    },
+    {
+        "ru": "Она делает торт",
+        "en": "She is making a cake",
+        "ua": ""
+    },
+    {
+        "ru": "Это также сделано в Китае",
+        "en": "It is also made in China",
+        "ua": ""
+    },
+    {
+        "ru": "Это действительно злит его",
+        "en": "It makes him really angry",
+        "ua": ""
+    },
+    {
+        "ru": "Это произвело на меня хорошее впечатление",
+        "en": "It made a good impression on me",
+        "ua": ""
+    },
+    {
+        "ru": "Ты совершил этот платеж?",
+        "en": "Did you make this payment?",
+        "ua": ""
+    },
+    {
+        "ru": "Покупатель подал жалобу",
+        "en": "The customer made a complaint",
+        "ua": ""
+    },
+    {
+        "ru": "Что было сделано вчера?",
+        "en": "What was done yesterday?",
+        "ua": ""
+    },
+    {
+        "ru": "Это может нанести вред нашей окружающей среде",
+        "en": "It can do harm to our environment",
+        "ua": ""
+    },
+    {
+        "ru": "Это наносит вред нашему здоровью",
+        "en": "It does harm to our health",
+        "ua": ""
+    },
+    {
+        "ru": "Я остался в городе, потому что мне нужно было сделать некоторые приготовления",
+        "en": "I stayed in the city because I had to make some arrangements",
+        "ua": ""
+    },
+    {
+        "ru": "Это ее обязанность - стирать белье",
+        "en": "It is her duty to do the laundry",
+        "ua": ""
+    },
 ]
