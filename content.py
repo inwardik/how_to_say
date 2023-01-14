@@ -16624,4 +16624,194 @@ sentences = [
         "en": "It is her duty to do the laundry",
         "ua": ""
     },
+    {
+        "ru": "Очень важное открытие было сделано этой группой ученых",
+        "en": "A very important discovery was made by this group of scientists",
+        "ua": ""
+    },
+    {
+        "ru": "Он произвел на нас очень благоприятное впечатление",
+        "en": "He made a very favourable impression on us",
+        "ua": ""
+    },
+    {
+        "ru": "Она помогает бездомным людям, потому что ей нравится делать хорошие дела",
+        "en": "She helps homeless people because she likes doing good things",
+        "ua": ""
+    },
+    {
+        "ru": "Эта машина производит много шума",
+        "en": "This machine makes a lot of noise",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу подружиться с людьми, которые живут за границей",
+        "en": "I want to make friends with people who live abroad",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хочу сделать предложение",
+        "en": "I just want to make a suggestion",
+        "ua": ""
+    },
+    {
+        "ru": "Аналитики сделали очень необычный прогноз",
+        "en": "The analysts made a very unusual prediction",
+        "ua": ""
+    },
+    {
+        "ru": "Он записался на прием к стоматологу",
+        "en": "He made an appointment with the dentist",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хочу внести ясность",
+        "en": "I just want to make it clear",
+        "ua": ""
+    },
+    {
+        "ru": "Он действительно ненавидит заниматься своей бумажной работой",
+        "en": "He really hates doing his paperwork",
+        "ua": ""
+    },
+    {
+        "ru": "Мы назначили встречу на семь часов",
+        "en": "We made an appointment for seven o'clock",
+        "ua": ""
+    },
+    {
+        "ru": "Ей действительно нравится заниматься садоводством",
+        "en": "She really likes doing gardening",
+        "ua": ""
+    },
+    {
+        "ru": "Мой друг хорошо справляется со своей новой работой",
+        "en": "My friend is doing well in his new job",
+        "ua": ""
+    },
+    {
+        "ru": "Кто подал жалобу?",
+        "en": "Who made a complaint?",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нужно сделать телефонный звонок",
+        "en": "I need to make a phone call",
+        "ua": ""
+    },
+    {
+        "ru": "Они сделали мне очень интересное предложение",
+        "en": "They made me a very interesting offer",
+        "ua": ""
+    },
+    {
+        "ru": "She is making a list of these sentences",
+        "en": "Она составляет список этих предложений",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал еще одну попытку",
+        "en": "I made one more attempt",
+        "ua": ""
+    },
+    {
+        "ru": "Что будет сделано завтра?",
+        "en": "What will be done tomorrow?",
+        "ua": ""
+    },
+    {
+        "ru": "Ты делаешь хороший прогресс",
+        "en": "You make good progress",
+        "ua": ""
+    },
+    {
+        "ru": "Докладчик сделал очень интересное замечание",
+        "en": "The reporter made a very interesting remark",
+        "ua": ""
+    },
+    {
+        "ru": "Они заключили специальное соглашение",
+        "en": "They made a special agreement",
+        "ua": ""
+    },
+    {
+        "ru": "Директор сделал очень интересное предложение",
+        "en": "The director made a very interesting suggestion",
+        "ua": ""
+    },
+    {
+        "ru": "Машина не производит никакого шума",
+        "en": "The machine doesn't make any noise",
+        "ua": ""
+    },
+    {
+        "ru": "Ему нужно было сделать телефонный звонок",
+        "en": "He needed to make a phone call",
+        "ua": ""
+    },
+    {
+        "ru": "Эта фабрика делает мебель",
+        "en": "This factory makes furniture",
+        "ua": ""
+    },
+    {
+        "ru": "Ей нужно помыть посуду",
+        "en": "She needs to do the dishes",
+        "ua": ""
+    },
+    {
+        "ru": "Они делают вкусную еду в этом ресторане",
+        "en": "They make tasty food in this restaurant",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нужно совершить этот платеж сейчас",
+        "en": "I need to make this payment now",
+        "ua": ""
+    },
+    {
+        "ru": "Он сделал такую большую ошибку",
+        "en": "He made such a big mistake",
+        "ua": ""
+    },
+    {
+        "ru": "Она делает много работы на выходных",
+        "en": "She does lots of work at the weekends",
+        "ua": ""
+    },
+    {
+        "ru": "Секретарь делает так много бумажной работы",
+        "en": "The secretary does so much paperwork",
+        "ua": ""
+    },
+    {
+        "ru": "Они делат такую вкусную еду в этом кафе",
+        "en": "They make such delicious food in this cafe",
+        "ua": ""
+    },
+    {
+        "ru": "Она делает торт",
+        "en": "She is making a cake",
+        "ua": ""
+    },
+    {
+        "ru": "Это также сделано в Китае",
+        "en": "It is also made in China",
+        "ua": ""
+    },
+    {
+        "ru": "Это действительно злит его",
+        "en": "It makes him really angry",
+        "ua": ""
+    },
+    {
+        "ru": "Это произвело на меня хорошее впечатление",
+        "en": "It made a good impression on me",
+        "ua": ""
+    },
+    {
+        "ru": "Ты совершил этот платеж?",
+        "en": "Did you make this payment?",
+        "ua": ""
+    },
 ]
