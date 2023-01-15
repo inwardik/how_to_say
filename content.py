@@ -16814,4 +16814,89 @@ sentences = [
         "en": "Did you make this payment?",
         "ua": ""
     },
+        {
+        "ru": "Он сидел на стуле и разгадывал кроссворд",
+        "en": "He was sitting on chair doing a crossword",
+        "ua": ""
+    },
+    {
+        "ru": "Недостаточно сделано, чтобы изменить эту ситуацию",
+        "en": "Not enough is done to change this situation",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хочу убедиться, что все правильно",
+        "en": "I just want to make sure that everything is correct",
+        "ua": ""
+    },
+    {
+        "ru": "Я не могу решить, что делать",
+        "en": "I can't make up my mind what to do",
+        "ua": ""
+    },
+    {
+        "ru": "Его девиз в том, что нам нужно поторопиться, чтобы делать добро",
+        "en": "is motto is that we need to hurry up to do good",
+        "ua": ""
+    },
+    {
+        "ru": "Нам нужно приложить усилие и сделать все возможное, чтобы помочь ей",
+        "en": "We need to make an effort and do our best to help her",
+        "ua": ""
+    },
+    {
+        "ru": "Лектор сделал несколько комментариев по этому вопросу",
+        "en": "The lecturer made several comments on this issue",
+        "ua": ""
+    },
+    {
+        "ru": "Ты знаешь, я сделал очень интересное наблюдение",
+        "en": "You know, I made a very interesting observation",
+        "ua": ""
+    },
+    {
+        "ru": "Они позволили ему сделать еще одну попытку",
+        "en": "They let him make one more attempt",
+        "ua": ""
+    },
+    {
+        "ru": "Буря нанесла большой ущерб зданию",
+        "en": "The storm did lots of damage to the building",
+        "ua": ""
+    },
+    {
+        "ru": "Ураган нанес большой ущерб этим зданиям",
+        "en": "The hurricane did great damage to these buildings",
+        "ua": ""
+    },
+    {
+        "ru": "Ее девиз в том, что мы должны поспешить, чтобы сделать столько хороших вещей в нашей жизни, сколько возможно",
+        "en": "Her motto is that we need to hurry up to do as many good things in our life as possible",
+        "ua": ""
+    },
+    {
+        "ru": "Я чувствую, что я делаю настоящий прогресс изучая английский здесь",
+        "en": "I feel that I make real progress learning English here",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно убедиться, что ты держишь это под контролем",
+        "en": "You need to make sure that you keep it under control",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно приложить усилие, если ты хочешь показать гораздо лучший результат",
+        "en": "You need to make an effort if you want to show a much better result",
+        "ua": ""
+    },
+    {
+        "ru": "Я решил продолжать работать здесь",
+        "en": "I made up my mind to continue working here",
+        "ua": ""
+    },
+    {
+        "ru": "Моя мечта - подружиться с несколькими людьми, живущими в англоязычных странах",
+        "en": "My dream is to make friends with some people living in English-speaking countries",
+        "ua": ""
+    },
 ]
