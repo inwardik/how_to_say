@@ -16814,7 +16814,7 @@ sentences = [
         "en": "Did you make this payment?",
         "ua": ""
     },
-        {
+    {
         "ru": "Он сидел на стуле и разгадывал кроссворд",
         "en": "He was sitting on chair doing a crossword",
         "ua": ""
@@ -16897,6 +16897,151 @@ sentences = [
     {
         "ru": "Моя мечта - подружиться с несколькими людьми, живущими в англоязычных странах",
         "en": "My dream is to make friends with some people living in English-speaking countries",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты пошел туда со мной",
+        "en": "I want you to go there with me",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы ты выучил английский",
+        "en": "I would like you to learn English",
+        "ua": ""
+    },
+    {
+        "ru": "Это уже было сделано",
+        "en": "It has already been done",
+        "ua": ""
+    },
+    {
+        "ru": "Это еще не было сделано",
+        "en": "It hasn't been done yet",
+        "ua": ""
+    },
+    {
+        "ru": "Это делается очень медленно",
+        "en": "It is done very slowly",
+        "ua": ""
+    },
+    {
+        "ru": "Это делается очень быстро",
+        "en": "It is done very quickly",
+        "ua": ""
+    },
+    {
+        "ru": "Это делается очень часто",
+        "en": "It is done very often",
+        "ua": ""
+    },
+    {
+        "ru": "Она уже помыла посуду",
+        "en": "She has already done the dishes",
+        "ua": ""
+    },
+    {
+        "ru": "Она еще не помыла посуду",
+        "en": "She hasn't done the dishes yet",
+        "ua": ""
+    },
+    {
+        "ru": "Пожалуйста, прекрати суетиться!",
+        "en": "Please, stop making a fuss!",
+        "ua": ""
+    },
+    {
+        "ru": "Не суетись!",
+        "en": "Don't make a fuss!",
+        "ua": ""
+    },
+    {
+        "ru": "Ты совершил этот платеж?",
+        "en": "Did you make this payment?",
+        "ua": ""
+    },
+    {
+        "ru": "Я совершил два платежа",
+        "en": "I made two payments",
+        "ua": ""
+    },
+    {
+        "ru": "Она считает, что разгадывание кроссвордов - пустая трата времени",
+        "en": "She thinks that doing crosswords is a waste of time",
+        "ua": ""
+    },
+    {
+        "ru": "Я наслаждаюсь разгадыванием кроссвордов",
+        "en": "I enjoy doing crosswords",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нравится разгадывать кроссворды?",
+        "en": "Do you like doing crosswords?",
+        "ua": ""
+    },
+    {
+        "ru": "Она произвела на него очень хорошее впечатление",
+        "en": "She made a very good impression on him",
+        "ua": ""
+    },
+    {
+        "ru": "Это произвело на тебя хорошее впечатление?",
+        "en": "Did it make a good impression on you?",
+        "ua": ""
+    },
+    {
+        "ru": "Они сделали действительно полезное открытие",
+        "en": "They made a really useful discovery",
+        "ua": ""
+    },
+    {
+        "ru": "Они сделали важное открытие?",
+        "en": "Did they make an important discovery?",
+        "ua": ""
+    },
+    {
+        "ru": "Он сделал такую большую ошибку",
+        "en": "He made such a big mistake",
+        "ua": ""
+    },
+    {
+        "ru": "Он сделал большую ошибку?",
+        "en": "Did he make a big mistake?",
+        "ua": ""
+    },
+    {
+        "ru": "Я внес некоторые изменения в эту программу",
+        "en": "I made some changes to this program",
+        "ua": ""
+    },
+    {
+        "ru": "Он внес несколько изменений в расписание",
+        "en": "He made several changes to the schedule",
+        "ua": ""
+    },
+    {
+        "ru": "Это такое приятное чувство, когда ты делаешь добро и делаешь других людей счастливыми",
+        "en": "It's such a pleasant feeling when you do good and make other people happy",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хотел убедиться, что это действительно там",
+        "en": "I just wanted to make sure that it was really there",
+        "ua": ""
+    },
+    {
+        "ru": "Мне было сделано очень интересное предложение",
+        "en": "A very interesting offer was made to me",
+        "ua": ""
+    },
+    {
+        "ru": "Он сидел на стуле и разгадывал кроссворд",
+        "en": "He was sitting on a chair doing a crossword",
+        "ua": ""
+    },
+    {
+        "ru": "Я не могу решить, что делать",
+        "en": "I can't make up my mind what to do",
         "ua": ""
     },
 ]
