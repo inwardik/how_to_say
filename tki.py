@@ -32,7 +32,7 @@ class HTS:
 
         self.window.configure(background=self.bg_color)
 
-        self.space_label = tk.Label(height=16, width=43, background=self.h_text_color)
+        self.space_label = tk.Label(height=16, width=43, background=self.bg_color)
         self.ru_label = tk.Label(height=4, width=43, text="[     -     ]", background=self.bg_color, fg=self.text_color)
         self.report_label = tk.Label(height=2, width=8, text="report", background=self.bg_color, fg=self.h_text_color)
         self.fav_label = tk.Label(height=2, width=8, text="favorite", background=self.bg_color, fg=self.h_text_color)
