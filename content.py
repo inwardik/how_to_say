@@ -17044,4 +17044,459 @@ sentences = [
         "en": "I can't make up my mind what to do",
         "ua": ""
     },
+    {
+        "ru": "Они не позволяют ей выходить так поздно",
+        "en": "They don't let her go out so late",
+        "ua": ""
+    },
+    {
+        "ru": "Он не позволил мне сделать это",
+        "en": "He didn't let me do it",
+        "ua": ""
+    },
+    {
+        "ru": "Я дам тебе мой контактный номер, чтобы ты мог связаться со мной позже",
+        "en": "I will give you my contact number so that you can contact me later",
+        "ua": ""
+    },
+    {
+        "ru": "Я пошел в офис, чтобы встретиться с ней",
+        "en": "I went to the office in order to meet her",
+        "ua": ""
+    },
+    {
+        "ru": "Я учу английский, чтобы найти лучшую работу",
+        "en": "I learn English in order to find a better job",
+        "ua": ""
+    },
+    {
+        "ru": "Я запишу это, чтобы мы могли обсудить это позже",
+        "en": "I will write it down so that we can discuss it later",
+        "ua": ""
+    },
+    {
+        "ru": "Я звоню ему, чтобы он знал о наших планах",
+        "en": "I call him so that he knows about our plans",
+        "ua": ""
+    },
+    {
+        "ru": "Я работал немного больше, чтобы закончить все",
+        "en": "I worked a little more in order to finish everything",
+        "ua": ""
+    },
+    {
+        "ru": "Я поехал туда на машине, чтобы я мог взять больше багажа",
+        "en": "I went there by car so that I could take more luggage",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы он понял эту вещь",
+        "en": "I want him to understand this thing",
+        "ua": ""
+    },
+    {
+        "ru": "Я не хочу, чтобы ты уходил",
+        "en": "I don't want you to leave",
+        "ua": ""
+    },
+    {
+        "ru": "Я поспешил, чтобы не опоздать",
+        "en": "I hurried up not to be late",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты поехала туда со мной",
+        "en": "I want you to go there with me",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты сказал мне эту вещь",
+        "en": "I want you to tell me this thing",
+        "ua": ""
+    },
+    {
+        "ru": "Я поеду туда на машине, чтобы я мог купить больше вещей",
+        "en": "I will go there by car so that I can buy more things",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты остался со мной",
+        "en": "I want you to stay with me",
+        "ua": ""
+    },
+    {
+        "ru": "Мы уехали рано, чтобы мы могли успеть на поезд",
+        "en": "We left early so that we could catch the train",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы ты это знал",
+        "en": "I'd like you to know it",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы у тебя был свой собственный дом",
+        "en": "I want you to have your own house",
+        "ua": ""
+    },
+    {
+        "ru": "Я ушел рано, чтобы не опоздать на поезд",
+        "en": "I left early in order not to miss the train",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты был моим другом",
+        "en": "I want you to be my friend",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты это понял",
+        "en": "I want you to understand it",
+        "ua": ""
+    },
+    {
+        "ru": "Я пошел в магазин, чтобы купить немного еды",
+        "en": "I went to the shop to buy some food",
+        "ua": ""
+    },
+    {
+        "ru": "Я не хочу, чтобы ты дальше продолжал этим заниматься",
+        "en": "I don't want you to continue doing it anymore",
+        "ua": ""
+    },
+    {
+        "ru": "Он поехал в Китай, чтобы выучить китайский",
+        "en": "He went to China to learn Chinese",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу, чтобы ты понял это",
+        "en": "I want you to understand it",
+        "ua": ""
+    },
+    {
+        "ru": "Я пошел в магазин, чтобы купить немного еды",
+        "en": "I went to the shop to buy some food",
+        "ua": ""
+    },
+    {
+        "ru": "Я пошел в офис, чтобы мы могли обсудить это наедине",
+        "en": "I went to the office so that we could discuss it in private",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы он изменил свое мнение об этом",
+        "en": "I would like him to change his opinion about it",
+        "ua": ""
+    },
+    {
+        "ru": "Я рано лег спать, чтобы не проспать",
+        "en": "I went to bed early so as not to oversleep",
+        "ua": ""
+    },
+    {
+        "ru": "Он хочет, чтобы она рассказала ему всю правду",
+        "en": "He wants her to tell him all the truth",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы ты поехал в то место вместе со мной",
+        "en": "I'd like you to go to that place with me",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы ты учил нас английскому",
+        "en": "I would like you to teach us English",
+        "ua": ""
+    },
+    {
+        "ru": "Он учит китайский, чтобы работать в Китае",
+        "en": "He learns Chinese to work in China",
+        "ua": ""
+    },
+    {
+        "ru": "Я делаю так много упражнений, чтобы моя английская речь была без ошибок",
+        "en": "I do so many exercises so that my English speech is without mistakes",
+        "ua": ""
+    },
+    {
+        "ru": "Я начну делать это сегодня, чтобы закончить к следующей неделе",
+        "en": "I'll start doing it today to finish it by next week",
+        "ua": ""
+    },
+    {
+        "ru": "Я начал там работать, чтобы сделать карьеру",
+        "en": "I started working there in order to make a career",
+        "ua": ""
+    },
+    {
+        "ru": "Я так усердно учусь на этой неделе, чтобы я смог сдать этот экзамен",
+        "en": "I am studying so hard this week so I can pass this exam",
+        "ua": ""
+    },
+    {
+        "ru": "Я учу английский, чтобы люди из других стран понимали меня",
+        "en": "I learn English so that people from other countries understand me",
+        "ua": ""
+    },
+    {
+        "ru": "Я начал этот курс английского для того, чтобы улучшить свой английский",
+        "en": "I started this English course in order to improve my English",
+        "ua": ""
+    },
+    {
+        "ru": "Я стараюсь расширить свой словарный запас, чтобы лучше понимать носителей языка",
+        "en": "I try to enlarge my vocabulary to understand native speakers better",
+        "ua": ""
+    },
+    {
+        "ru": "Я добавил эту страницу в свои закладки, чтобы потом найти ее гораздо быстрее",
+        "en": "I added this page to my bookmarks so that I could find it much faster later",
+        "ua": ""
+    },
+    {
+        "ru": "Пошли туда сейчас, чтобы вернуться до полудня",
+        "en": "Let's go there now so that we return before midday",
+        "ua": ""
+    },
+    {
+        "ru": "Я задал ей эти вопросы, чтобы выяснить, что она думала по этому поводу",
+        "en": "I asked her these questions in order to find out what she thought about it",
+        "ua": ""
+    },
+    {
+        "ru": "Я возьму свой ноутбук в загородный дом, чтобы я мог работать на расстоянии",
+        "en": "I will take my laptop to the country house so that I can work distantly",
+        "ua": ""
+    },
+    {
+        "ru": "Он ушел в отдельную комнату, чтобы никто его не беспокоил",
+        "en": "He went to a separate room so that no one disturbed him",
+        "ua": ""
+    },
+    {
+        "ru": "Она на цыпочках вошла в комнату, чтобы не разбудить малыша",
+        "en": "She tiptoed into the room in order not to wake up the baby",
+        "ua": ""
+    },
+    {
+        "ru": "Я дам тебе мой контактный номер, чтобы ты мог связаться со мной позже",
+        "en": "I will give you my contact number so that you can contact me later",
+        "ua": ""
+    },
+    {
+        "ru": "Я не хочу, чтобы ты уходил",
+        "en": "I don't want you to leave",
+        "ua": ""
+    },
+    {
+        "ru": "Я на цыпочках войду в комнату, чтобы ребенок не проснулся",
+        "en": "I will tiptoe into the room so that the baby doesn't wake up",
+        "ua": ""
+    },
+    {
+        "ru": "Я добавлю эту страницу в свои закладки, чтобы потом ее было гораздо легче найти",
+        "en": "I will add this page to my bookmarks so that I can find it much more easily later",
+        "ua": ""
+    },
+    {
+        "ru": "Я стараюсь расширить свой словарный запас, чтобы говорить по-английски более свободно",
+        "en": "I try to widen my vocabulary so that I can speak English more fluently",
+        "ua": ""
+    },
+    {
+        "ru": "Ей не разрешено выходить из дома",
+        "en": "She isn't allowed to leave home",
+        "ua": ""
+    },
+    {
+        "ru": "Она позвонила ему, чтобы он встретил ее",
+        "en": "She called him so that he would meet her",
+        "ua": ""
+    },
+    {
+        "ru": "Я взял свой ноутбук с собой, чтобы я мог там работать",
+        "en": "I took my laptop with me so that I could work there",
+        "ua": ""
+    },
+    {
+        "ru": "Я позвонил ей, чтобы она знала о нашем приезде",
+        "en": "I called her so that she knew about our arrival",
+        "ua": ""
+    },
+    {
+        "ru": "Ты хочешь, чтобы я пришел и помог тебе?",
+        "en": "Do you want me to come and help you?",
+        "ua": ""
+    },
+    {
+        "ru": "Кто заставляет их это делать?",
+        "en": "Who makes them do it?",
+        "ua": ""
+    },
+    {
+        "ru": "Ему не разрешено выходить из дома так поздно",
+        "en": "He isn't allowed to leave home so late",
+        "ua": ""
+    },
+    {
+        "ru": "Они заставили его сделать это",
+        "en": "They made him do it",
+        "ua": ""
+    },
+    {
+        "ru": "Она делает эти упражнения, чтобы немного похудеть",
+        "en": "She does this exercises to lose some weight",
+        "ua": ""
+    },
+    {
+        "ru": "Я добавлю эту страницу в закладки, чтобы просмотреть ее позже",
+        "en": "I will bookmark this page to view it later",
+        "ua": ""
+    },
+    {
+        "ru": "Я не хочу, чтобы ты рисковал своей жизнью",
+        "en": "I don't want you to risk your life",
+        "ua": ""
+    },
+    {
+        "ru": "Ты хочешь, чтобы это случилось?",
+        "en": "Do you want it to happen?",
+        "ua": ""
+    },
+    {
+        "ru": "Им не разрешено входить в здание",
+        "en": "They aren't allowed to enter the building",
+        "ua": ""
+    },
+    {
+        "ru": "Людям не разрешается делать фотографии внутри здания",
+        "en": "People aren't allowed to take photos inside the building",
+        "ua": ""
+    },
+    {
+        "ru": "Их заставляют делать много домашней работы",
+        "en": "They are made to do a lot of homework",
+        "ua": ""
+    },
+    {
+        "ru": "Его заставили сказать это публично",
+        "en": "He was made to say it publicly",
+        "ua": ""
+    },
+    {
+        "ru": "Ему не разрешено участвовать в выборах",
+        "en": "He isn't allowed to take part in the elections",
+        "ua": ""
+    },
+    {
+        "ru": "Я работаю так усердно, чтобы мы могли купить новую квартиру",
+        "en": "I work so hard so that we can buy a new apartment",
+        "ua": ""
+    },
+    {
+        "ru": "Их учитель заставляет их делать много домашних заданий",
+        "en": "Their teacher makes them do lots of homework",
+        "ua": ""
+    },
+    {
+        "ru": "Я поспешил, чтобы не опоздать",
+        "en": "I hurried up in order not to be late",
+        "ua": ""
+    },
+    {
+        "ru": "Я встал рано, чтобы добраться туда вовремя",
+        "en": "I got up early in order to get there on time",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно хочу, чтобы это произошло",
+        "en": "I really want it to happen",
+        "ua": ""
+    },
+    {
+        "ru": "Она хотела, чтобы это произошло?",
+        "en": "Did she want it to happen?",
+        "ua": ""
+    },
+    {
+        "ru": "Я прошу тебя не идти на такие риски",
+        "en": "I ask you not to take such risks",
+        "ua": ""
+    },
+    {
+        "ru": "Я не хочу, чтобы она рисковала",
+        "en": "I don't want her to take a risk",
+        "ua": ""
+    },
+    {
+        "ru": "Его заставили стать учителем",
+        "en": "He was made to become a teacher",
+        "ua": ""
+    },
+    {
+        "ru": "Его заставили играть в футбол",
+        "en": "He was made to play football",
+        "ua": ""
+    },
+    {
+        "ru": "Это заставляет меня чувствовать себя очень пессимистично",
+        "en": "It makes me feel very pessimistic",
+        "ua": ""
+    },
+    {
+        "ru": "Это заставит тебя чувствовать себя очень счастливым",
+        "en": "It will make you feel very happy",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы она работала с нами",
+        "en": "I would like her to work with us",
+        "ua": ""
+    },
+    {
+        "ru": "Мне бы не хотелось, чтобы он присоединился к нам",
+        "en": "I wouldn't like him to join us",
+        "ua": ""
+    },
+    {
+        "ru": "Я все еще хочу, чтобы это произошло",
+        "en": "I still want it to happen",
+        "ua": ""
+    },
+    {
+        "ru": "Она действительно хочет, чтобы это произошло?",
+        "en": "Does she really want it to happen?",
+        "ua": ""
+    },
+    {
+        "ru": "Ты бы хотел, чтобы я работал с тобой?",
+        "en": "Would you like me to work with you?",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы ты присоединился к нам",
+        "en": "I would like you to join us",
+        "ua": ""
+    },
+    {
+        "ru": "Они заставили меня подписать этот документ",
+        "en": "They made me sign this document",
+        "ua": ""
+    },
+    {
+        "ru": "Они заставили тебя подписать этот контракт?",
+        "en": "Did they make you sign this contract?",
+        "ua": ""
+    },
+    {
+        "ru": "Мне не разрешено это делать",
+        "en": "I am not allowed to do it",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе разрешено там жить?",
+        "en": "Are you allowed to live there?",
+        "ua": ""
+    },
 ]
