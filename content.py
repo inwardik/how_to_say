@@ -17499,4 +17499,494 @@ sentences = [
         "en": "Are you allowed to live there?",
         "ua": ""
     },
+    {
+        "ru": "Мне потребовалось некоторое время, чтобы привыкнуть жить с ним",
+        "en": "It took me some time to get used to living with him",
+        "ua": ""
+    },
+    {
+        "ru": "Ему понадобилось много времени, чтобы привыкнуть жить в этих условиях",
+        "en": "It took him much time to get used to living in these conditions",
+        "ua": ""
+    },
+    {
+        "ru": "Определенно, ты прав",
+        "en": "Definitely, you are right",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал это специально для тебя",
+        "en": "I did it specially for you",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу знать английский превосходно",
+        "en": "I want to know English perfectly",
+        "ua": ""
+    },
+    {
+        "ru": "Я все больше и больше привыкаю к этим условиям",
+        "en": "I am getting more and more used to these conditions",
+        "ua": ""
+    },
+    {
+        "ru": "Я все больше и больше привыкаю к моей новой стрижке",
+        "en": "I am getting more and more used to my new haircut",
+        "ua": ""
+    },
+    {
+        "ru": "Я стригусь раз в месяц",
+        "en": "I have my hair cut once a month",
+        "ua": ""
+    },
+    {
+        "ru": "Когда он обычно стрижется?",
+        "en": "When does he usually have his hair cut?",
+        "ua": ""
+    },
+    {
+        "ru": "Когда ты в последний раз стригся?",
+        "en": "When did you have your hair cut last time?",
+        "ua": ""
+    },
+    {
+        "ru": "Я подстригся на прошлой неделе",
+        "en": "I had my hair cut last week",
+        "ua": ""
+    },
+    {
+        "ru": "Где она подстриглась в прошлый раз?",
+        "en": "Where did she have her hair cut last time?",
+        "ua": ""
+    },
+    {
+        "ru": "Твой велосипед починили?",
+        "en": "Did you have your bike fixed?",
+        "ua": ""
+    },
+    {
+        "ru": "Ей починили ее велосипед",
+        "en": "She had her bike fixed",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел не говорить об этом",
+        "en": "I'd prefer not to talk about it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел не делать этого",
+        "en": "I'd prefer not to do it",
+        "ua": ""
+    },
+    {
+        "ru": "Я уже привык к этому",
+        "en": "I have already got accustomed to it",
+        "ua": ""
+    },
+    {
+        "ru": "Ты уже привык к этим условиям?",
+        "en": "Have you already got accustomed to these conditions?",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел не обращать на это слишком много внимания",
+        "en": "I'd prefer not to pay too much attention to it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел уделить этому больше внимания",
+        "en": "I'd prefer to pay more attention to it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел не обсуждать это",
+        "en": "I'd prefer not to discuss it",
+        "ua": ""
+    },
+    {
+        "ru": "Я починил часы",
+        "en": "I fixed my watch",
+        "ua": ""
+    },
+    {
+        "ru": "Мне починили мою машину",
+        "en": "I got my car repaired",
+        "ua": ""
+    },
+    {
+        "ru": "Ты бы лучше сыграл в теннис, чем в футбол",
+        "en": "You'd better play tennis than football",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы лучше поиграл в теннис с тобой",
+        "en": "I'd rather play tennis with you",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык слушать эти видео каждый день",
+        "en": "I am accustomed to listening to these videos every day",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы лучше погулял в парке, чем остался дома",
+        "en": "I'd rather walk in the park than stay at home",
+        "ua": ""
+    },
+    {
+        "ru": "Она уже привыкла делать это?",
+        "en": "Has she already got used to doing it?",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, тебе нужно немного времени, чтобы привыкнуть к этому",
+        "en": "I think you need some time to get used to it",
+        "ua": ""
+    },
+    {
+        "ru": "Раньше он был толстым, но сейчас у него спортивное тело",
+        "en": "He used to be fat but he has an athletic body now",
+        "ua": ""
+    },
+    {
+        "ru": "Она не привыкла к таким тяжелым условиям",
+        "en": "She wasn't used to such severe conditions",
+        "ua": ""
+    },
+    {
+        "ru": "Сколько времени тебе понадобилось, чтобы привыкнуть к этому?",
+        "en": "How long did it take you to get accustomed to it?",
+        "ua": ""
+    },
+    {
+        "ru": "Я еще не привык к этому",
+        "en": "I haven't got accustomed to it yet",
+        "ua": ""
+    },
+    {
+        "ru": "Он много курил, но перестал это делать",
+        "en": "He used to smoke a lot but then he stopped doing it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел пойти купаться, чем сидеть дома весь день",
+        "en": "I would prefer to go swimming than stay at home all day",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел не упоминать об этом",
+        "en": "I'd prefer not to mention it",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе починили твой велосипед?",
+        "en": "Did you have your bike fixed?",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе отремонтировали твою машину?",
+        "en": "Did you have your car repaired?",
+        "ua": ""
+    },
+    {
+        "ru": "Ему был не привычен такой суровый климат",
+        "en": "He wasn't accustomed to such a severe climate",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел остаться дома, чем выходить на улицу",
+        "en": "I'd prefer to stay at home rather than go out",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык гулять в парке каждую неделю",
+        "en": "I am used to walking in the park every week",
+        "ua": ""
+    },
+    {
+        "ru": "Мой папа раньше ходил в библиотеку очень часто, но он предпочитает использовать виртуальную библиотеку вместо нее",
+        "en": "My father used to go to the library very often but he prefers to use a virtual library instead",
+        "ua": ""
+    },
+    {
+        "ru": "У этой компании было много продаж, но сейчас она на грани банкротства",
+        "en": "This company used to have lots of sales but it is on the verge of bankruptcy now",
+        "ua": ""
+    },
+    {
+        "ru": "Он не привык спать в комнате без кондиционера",
+        "en": "He isn't accustomed to sleeping in a room without air conditioning",
+        "ua": ""
+    },
+    {
+        "ru": "Я не привык вставать так рано",
+        "en": "I am not used to getting up so early",
+        "ua": ""
+    },
+    {
+        "ru": "Раньше я тратил на это так много времени, но сейчас я так занят",
+        "en": "I used to spend so much time on it but I am so busy now",
+        "ua": ""
+    },
+    {
+        "ru": "Эта фирма была очень прибыльной, но в настоящее время она находится на грани банкротства",
+        "en": "This firm used to be very profitable but it's on the verge of bankruptcy nowadays",
+        "ua": ""
+    },
+    {
+        "ru": "Сколько времени ему понаобилось, чтобы привыкнуть к таким условиям?",
+        "en": "How long did it take him to get accustomed to such conditions?",
+        "ua": ""
+    },
+    {
+        "ru": "Мне починили мою обувь",
+        "en": "I got my shoes repaired",
+        "ua": ""
+    },
+    {
+        "ru": "Мне потребовалось некоторое время, чтобы привыкнуть делать это правильно",
+        "en": "It took me some time to get accustomed to doing it properly",
+        "ua": ""
+    },
+    {
+        "ru": "Я все больше и больше привыкаю к этому",
+        "en": "I am getting more and more accustomed to it",
+        "ua": ""
+    },
+    {
+        "ru": "Я вчера подстригся",
+        "en": "I had my hair cut yesterday",
+        "ua": ""
+    },
+    {
+        "ru": "Мне починили мой телефон",
+        "en": "I had my phone repaired",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык делать это",
+        "en": "I am accustomed to doing it",
+        "ua": ""
+    },
+    {
+        "ru": "Мне покрасили забор",
+        "en": "I had my fence painted",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел поехать туда на машине",
+        "en": "I'd prefer to go there by car",
+        "ua": ""
+    },
+    {
+        "ru": "Он жил в маленьком городке, когда был ребенком",
+        "en": "He used to live in a small town when he was a kid",
+        "ua": ""
+    },
+    {
+        "ru": "Он жил в деревне, когда был мальчиком",
+        "en": "He used to live in the country when he was a boy",
+        "ua": ""
+    },
+    {
+        "ru": "Взрослые привыкают к этому легче",
+        "en": "Adults get accustomed to it more easily",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы лучше немного подождал",
+        "en": "I'd rather wait for it a bit",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел присоединиться к тебе немного позже",
+        "en": "I would rather join to you a bit later",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык к этому очень быстро",
+        "en": "I got used to it very quickly",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нужно подстричься",
+        "en": "I need to have my hair cut",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе лучше остаться дома",
+        "en": "You'd better stay at home",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы лучше отложил это",
+        "en": "I'd rather postpone it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее согласился сделать это",
+        "en": "I would sooner agree to do it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы лучше заплатил за это заранее",
+        "en": "I would rather pay for it in advance",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее присоединился к тебе",
+        "en": "I'd sooner join you",
+        "ua": ""
+    },
+    {
+        "ru": "Я предпочел бы прочитать книгу",
+        "en": "I'd prefer to read a book",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык работать усердно",
+        "en": "I am accustomed to working hard",
+        "ua": ""
+    },
+    {
+        "ru": "Я не привык к такой жаре",
+        "en": "I am not used to such heat",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее остался дома",
+        "en": "I'd sooner stay at home",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык к этому",
+        "en": "I am used to it",
+        "ua": ""
+    },
+    {
+        "ru": "Я делал это, когда я был ребенком",
+        "en": "I used to do it when I was a child",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее занялся другим делом",
+        "en": "I'd sooner do another thing",
+        "ua": ""
+    },
+    {
+        "ru": "Мне починили машину",
+        "en": "I had my car repaired",
+        "ua": ""
+    },
+    {
+        "ru": "Ему помыли его машину",
+        "en": "He had his car washed",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы лучше поехал туда в понедельник",
+        "en": "I'd rather go there on Monday",
+        "ua": ""
+    },
+    {
+        "ru": "Ей навели порядок в доме",
+        "en": "She had her house cleaned",
+        "ua": ""
+    },
+    {
+        "ru": "Ты бы лучше сделал это чуть позже",
+        "en": "You'd better do it a bit later",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел погулять там",
+        "en": "I would prefer to walk there",
+        "ua": ""
+    },
+    {
+        "ru": "Мне наконец починили мои часы",
+        "en": "I had my watch repaired at last",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе лучше сказать все прямо",
+        "en": "You had better say everything directly",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык делать это",
+        "en": "I am used to doing it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы предпочел сегодня остаться дома",
+        "en": "I'd prefer to stay at home today",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык к этому",
+        "en": "I am accustomed to it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее все проверил",
+        "en": "I would sooner check everything",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее проверил это здесь",
+        "en": "I'd sooner check it here",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы скорее пошел туда на следующей неделе",
+        "en": "I would sooner go there next week",
+        "ua": ""
+    },
+    {
+        "ru": "Раньше она была толстой, но сейчас она очень худая",
+        "en": "She used to be fat but she is very slim now",
+        "ua": ""
+    },
+    {
+        "ru": "Раньше я ходил в библиотеку, но мне это больше не нужно",
+        "en": "I used to go to the library but I don't need it anymore",
+        "ua": ""
+    },
+    {
+        "ru": "Я починил свою машину",
+        "en": "I had my car repaired",
+        "ua": ""
+    },
+    {
+        "ru": "Я подстригся",
+        "en": "I had my hair cut",
+        "ua": ""
+    },
+    {
+        "ru": "Я пролистаю этот журнал, если ты не возражаешь",
+        "en": "I will flick through this magazine if you don't mind",
+        "ua": ""
+    },
+    {
+        "ru": "Я постараюсь компенсировать упущенное время",
+        "en": "I will try to make up for lost time",
+        "ua": ""
+    },
+    {
+        "ru": "Пожалуйста, разбуди меня в 7",
+        "en": "Please, wake me up at 7",
+        "ua": ""
+    },
+    {
+        "ru": "Она не может его понять",
+        "en": "She can't figure him out",
+        "ua": ""
+    },
+    {
+        "ru": "Они оменили ту игру",
+        "en": "They called off that game",
+        "ua": ""
+    },
 ]
