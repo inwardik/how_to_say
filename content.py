@@ -17989,4 +17989,434 @@ sentences = [
         "en": "They called off that game",
         "ua": ""
     },
+    {
+        "ru": "Я сделал это главным образом по этой причине",
+        "en": "I did it specially for this reason",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал это по другой причине",
+        "en": "I did it for another reason",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал это только по той причине",
+        "en": "I did it only for that reason",
+        "ua": ""
+    },
+    {
+        "ru": "Он сделал это главным образом по той причине",
+        "en": "He did it especially for that reason",
+        "ua": ""
+    },
+    {
+        "ru": "Они думают по-другому",
+        "en": "They think differently",
+        "ua": ""
+    },
+    {
+        "ru": "У них похожая точка зрения",
+        "en": "They have a similar point of view",
+        "ua": ""
+    },
+    {
+        "ru": "Надеюсь, они скоро поправятся",
+        "en": "Hopefully, they will recover soon",
+        "ua": ""
+    },
+    {
+        "ru": "Надеюсь, у тебя все будет хорошо",
+        "en": "Hopefully, you will be alright",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, это было сделано очень быстро",
+        "en": "I think it was done very quickly",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что это было сделано вовремя",
+        "en": "I think it was done on time",
+        "ua": ""
+    },
+    {
+        "ru": "У него такая же точка зрения",
+        "en": "He has the same point of view",
+        "ua": ""
+    },
+    {
+        "ru": "У него другая точка зрения",
+        "en": "He has a different point of view",
+        "ua": ""
+    },
+    {
+        "ru": "Это случилось очень необычным образом",
+        "en": "It happened in a very unusual way",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что это произошло действительно странным образом",
+        "en": "I think it happened in a really strange way",
+        "ua": ""
+    },
+    {
+        "ru": "Я надеюсь, он скоро поправится",
+        "en": "I hope he'll recover soon",
+        "ua": ""
+    },
+    {
+        "ru": "Надеюсь, он скоро вернется",
+        "en": "Hopefully, he'll return soon",
+        "ua": ""
+    },
+    {
+        "ru": "Она действительно интересуется наукой",
+        "en": "She is really interested in science",
+        "ua": ""
+    },
+    {
+        "ru": "Он в основном интересуется искусством",
+        "en": "He is mainly interested in art",
+        "ua": ""
+    },
+    {
+        "ru": "Определенно, ты не прав",
+        "en": "Definitely, you are wrong",
+        "ua": ""
+    },
+    {
+        "ru": "Ты определенно прав",
+        "en": "You are definitely right",
+        "ua": ""
+    },
+    {
+        "ru": "Мне кажется, что это делается намеренно",
+        "en": "It seems to me that it is done deliberately",
+        "ua": ""
+    },
+    {
+        "ru": "Это не обязательно означает, что ему больше это не нравится",
+        "en": "It doesn't necessarily mean that he doesn't like it anymore",
+        "ua": ""
+    },
+    {
+        "ru": "Честно говоря, я не знаю, как тебе ответить",
+        "en": "Honestly, I don't know how to answer you",
+        "ua": ""
+    },
+    {
+        "ru": "Надеюсь, тебе удастся решить эту проблему",
+        "en": "Hopefully, you'll manage to solve this problem",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен, что эти вещи могут выйти из-под контроля довольно легко",
+        "en": "I am absolutely sure that these things can get out of control quite easily",
+        "ua": ""
+    },
+    {
+        "ru": "Это определенно лучшее место для туристов",
+        "en": "It is definitely the best place for tourists",
+        "ua": ""
+    },
+    {
+        "ru": "У него в первую очередь финансовые проблемы",
+        "en": "He has primarily financial problems",
+        "ua": ""
+    },
+    {
+        "ru": "Она в основном интересуется модой",
+        "en": "She is mainly interested in fashion",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно постоянно знать об этом",
+        "en": "You need to be constantly aware of it",
+        "ua": ""
+    },
+    {
+        "ru": "Он объясняет все очень простым способом",
+        "en": "He explains everything in a very simple way",
+        "ua": ""
+    },
+    {
+        "ru": "Он вел себя очень странным образом",
+        "en": "He behaved in a very strange way",
+        "ua": ""
+    },
+    {
+        "ru": "Это относительно дешевая вещь",
+        "en": "It is a relatively cheap thing",
+        "ua": ""
+    },
+    {
+        "ru": "Я недавно был в Соединенных Штатах",
+        "en": "I have been to the United States recently",
+        "ua": ""
+    },
+    {
+        "ru": "Он был серьезно ранен в автомобильной аварии",
+        "en": "He was seriously injured in a car accident",
+        "ua": ""
+    },
+    {
+        "ru": "Это не обязательно означает, что будет так",
+        "en": "It doesn't necessarily mean that it will be so",
+        "ua": ""
+    },
+    {
+        "ru": "Это один из наиболее часто задаваемых вопросов",
+        "en": "It is one of the most frequently asked questions",
+        "ua": ""
+    },
+    {
+        "ru": "Это относительно недорогие часы",
+        "en": "It is a relatively inexpensive watch",
+        "ua": ""
+    },
+    {
+        "ru": "Я прекрасно осознаю, что он заботится только о своих личных интересах",
+        "en": "I perfectly realise that he only cares about his personal interests",
+        "ua": ""
+    },
+    {
+        "ru": "Это не обязательно означает, что он действительно прав",
+        "en": "It doesn't necessarily mean that he is really right",
+        "ua": ""
+    },
+    {
+        "ru": "Он может объяснить чрезвычайно сложные вещи очень просто",
+        "en": "He can explain extremely difficult things very simply",
+        "ua": ""
+    },
+    {
+        "ru": "Это не обязательно означает, что это произойдет рано или поздно",
+        "en": "It doesn't necessarily mean that it will happen sooner or later",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен, что эта ситуация может выйти из-под контроля довольно легко",
+        "en": "I am absolutely sure that this situation can get out of control pretty easily",
+        "ua": ""
+    },
+    {
+        "ru": "Я прекрасно осознаю, что мы не можем ничего изменить в такой ситуации",
+        "en": "I perfectly realise that we can't change anything in such a situation",
+        "ua": ""
+    },
+    {
+        "ru": "У нее есть талант объяснять сложные вещи очень простым способом",
+        "en": "She has a talent to explain difficult things in a very simple way",
+        "ua": ""
+    },
+    {
+        "ru": "Это не обязательно означает, что он сможет предотвратить эту опасность",
+        "en": "It doesn't necessarily mean that he will be able to prevent this danger",
+        "ua": ""
+    },
+    {
+        "ru": "Я прекрасно понимаю, что это ее совсем не волнует",
+        "en": "I perfectly understand that she doesn't care about it at all",
+        "ua": ""
+    },
+    {
+        "ru": "Это определенно самый эффективный способ изучения английского языка",
+        "en": "It is definitely the most effective way of learning English",
+        "ua": ""
+    },
+    {
+        "ru": "Я едва мог его понять",
+        "en": "I could hardly understand him",
+        "ua": ""
+    },
+    {
+        "ru": "Он успешно сдал тест",
+        "en": "He passed this test successfully",
+        "ua": ""
+    },
+    {
+        "ru": "Конечно, у нас еще есть время",
+        "en": "Certainly, we still have time",
+        "ua": ""
+    },
+    {
+        "ru": "Она так усердно работает, и все восхищаются ею",
+        "en": "She works so hard and everyone admires her",
+        "ua": ""
+    },
+    {
+        "ru": "Он слушает эту музыку довольно часто",
+        "en": "He listens to this music quite frequently",
+        "ua": ""
+    },
+    {
+        "ru": "Она прекрасно говорит по-английский",
+        "en": "She speaks English perfectly",
+        "ua": ""
+    },
+    {
+        "ru": "Я его прекрасно понимаю",
+        "en": "I perfectly understand him",
+        "ua": ""
+    },
+    {
+        "ru": "Эти вещи одинаково важны",
+        "en": "These things are equally important",
+        "ua": ""
+    },
+    {
+        "ru": "Я вижу его только изредка",
+        "en": "I see him only occasionally",
+        "ua": ""
+    },
+    {
+        "ru": "Ты так усердно работаешь",
+        "en": "You work so hard",
+        "ua": ""
+    },
+    {
+        "ru": "Это в первую очередь их задача",
+        "en": "It is primarily their task",
+        "ua": ""
+    },
+    {
+        "ru": "На самом деле, это не так",
+        "en": "Actually, it isn't so",
+        "ua": ""
+    },
+    {
+        "ru": "Это вряд ли работает",
+        "en": "It hardly works",
+        "ua": ""
+    },
+    {
+        "ru": "Я с трудом могу поверить этому",
+        "en": "I can hardly believe it",
+        "ua": ""
+    },
+    {
+        "ru": "Она постоянно нервная",
+        "en": "She is constantly nervous",
+        "ua": ""
+    },
+    {
+        "ru": "Он едва работает, и никому это не нравится",
+        "en": "He hardly works and no one likes it",
+        "ua": ""
+    },
+    {
+        "ru": "На самом деле, ты прав",
+        "en": "Actually, you are right",
+        "ua": ""
+    },
+    {
+        "ru": "Это список часто задаваемых вопросов",
+        "en": "This is a list of frequently asked questions",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен",
+        "en": "I am absolutely certain",
+        "ua": ""
+    },
+    {
+        "ru": "Она приготовила этот торт специально для нас",
+        "en": "She cooked this cake specially for us",
+        "ua": ""
+    },
+    {
+        "ru": "Это едва ли возможно",
+        "en": "It is hardly possible",
+        "ua": ""
+    },
+    {
+        "ru": "Короче говоря, это была полная катастрофа",
+        "en": "Briefly, it was a complete disaster",
+        "ua": ""
+    },
+    {
+        "ru": "Он абсолютно уверен",
+        "en": "He is absolutely sure",
+        "ua": ""
+    },
+    {
+        "ru": "У него в первую очередь финансовые проблемы",
+        "en": "He has primarily financial problems",
+        "ua": ""
+    },
+    {
+        "ru": "Ей нравятся разные цветы, особенно розы",
+        "en": "She likes different flowers, especially roses",
+        "ua": ""
+    },
+    {
+        "ru": "Я изредка ее вижу",
+        "en": "I see her occasionally",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу знать английский язык в совершенстве",
+        "en": "I want to know English perfectly",
+        "ua": ""
+    },
+    {
+        "ru": "Он серьезно болен",
+        "en": "He is seriously ill",
+        "ua": ""
+    },
+    {
+        "ru": "Она работает в основном по вечерам",
+        "en": "She works mostly in the evenings",
+        "ua": ""
+    },
+    {
+        "ru": "Он любит разные виды спорта, особенно футбол",
+        "en": "He likes different kinds of sport, especially football",
+        "ua": ""
+    },
+    {
+        "ru": "Он звонит ей только изредка",
+        "en": "He calls her only occasionally",
+        "ua": ""
+    },
+    {
+        "ru": "Я успешно завершил этот курс",
+        "en": "I successfully completed this course",
+        "ua": ""
+    },
+    {
+        "ru": "Я с ним абсолютно согласен",
+        "en": "I absolutely agree with him",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нравятся разные виды спорта, особенно бадминтон",
+        "en": "I like different kinds of sport, especially badminton",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен, что мы правы",
+        "en": "I am absolutely sure that we are right",
+        "ua": ""
+    },
+    {
+        "ru": "Я сделал это специально для тебя",
+        "en": "I did it specially for you",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно так не думаю",
+        "en": "I don't really think so",
+        "ua": ""
+    },
+    {
+        "ru": "Короче, это была настоящая катастрофа",
+        "en": "In short, it was a real disaster",
+        "ua": ""
+    },
+    {
+        "ru": "Я прекрасно понимаю важность этого решения",
+        "en": "I perfectly understand the importance of this decision",
+        "ua": ""
+    },
 ]
