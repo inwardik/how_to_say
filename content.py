@@ -275,11 +275,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я был действительно удивлен этим решением",
-        "en": "I was really surprised by this decision",
-        "ua": ""
-    },
-    {
         "ru": "Она не способна говорить неправду",
         "en": "She is incapable of telling a lie",
         "ua": ""
@@ -332,11 +327,6 @@ sentences = [
     {
         "ru": "Город славится своей ночной жизнью",
         "en": "The city is famous for its nightlife",
-        "ua": ""
-    },
-    {
-        "ru": "Очевидно, она была очень разочарована результатами конкурса",
-        "en": "Obviously, she was very disappointed by the results of the competition",
         "ua": ""
     },
     {
@@ -405,18 +395,8 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Она очень зла на него",
-        "en": "She is very angry with him",
-        "ua": ""
-    },
-    {
         "ru": "Он ужасно говорит по французски",
         "en": "Hi is terrible at speaking French",
-        "ua": ""
-    },
-    {
-        "ru": "Она не способна говорить неправду",
-        "en": "She is incapable of telling a lie",
         "ua": ""
     },
     {
@@ -1280,11 +1260,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Он боится неизвестности",
-        "en": "Hi's scared of the unknown",
-        "ua": ""
-    },
-    {
         "ru": "Эти материалы подходят для начинающих, а также для более высоких уровней",
         "en": "These materials are suitable for beginners and higher levels as well",
         "ua": ""
@@ -1745,11 +1720,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Как ты ответил на такой сложный вопрос?",
-        "en": "How did you answer such a difficult question?",
-        "ua": ""
-    },
-    {
         "ru": "Он прибыл на конференцию час спустя",
         "en": "He arrived at the conference an hour later",
         "ua": ""
@@ -2105,11 +2075,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Она не может его понять",
-        "en": "She can't figure him out",
-        "ua": ""
-    },
-    {
         "ru": "Пожалуйста, разбуди меня в 7",
         "en": "Please, wake me up at 7",
         "ua": ""
@@ -2300,16 +2265,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Это один из самых эффективных способов изучения иностранных языков",
-        "en": "It's one of the most effective ways of learning foreign languages",
-        "ua": ""
-    },
-    {
-        "ru": "Этот музей расположен на юге",
-        "en": "This museum is located in the south",
-        "ua": ""
-    },
-    {
         "ru": "Ты увидишь это на западе города",
         "en": "You will see it in the west of the city",
         "ua": ""
@@ -2397,11 +2352,6 @@ sentences = [
     {
         "ru": "Это в южной части этой области",
         "en": "It's in the southern part of this area",
-        "ua": ""
-    },
-    {
-        "ru": "Это в западной части страны",
-        "en": "It's in the western part of the country",
         "ua": ""
     },
     {
@@ -2592,11 +2542,6 @@ sentences = [
     {
         "ru": "Я думаю, я смогу сделать это в любом случае",
         "en": "I think I will be able to do it in any case",
-        "ua": ""
-    },
-    {
-        "ru": "Он согласен с этим в определенной степени",
-        "en": "H e agrees with it to a certain degree",
         "ua": ""
     },
     {
@@ -2960,11 +2905,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Другими словами, это может означать следующее",
-        "en": "In other words, it can mean the following",
-        "ua": ""
-    },
-    {
         "ru": "Никто не знает этого",
         "en": "No one knows it",
         "ua": ""
@@ -3032,11 +2972,6 @@ sentences = [
     {
         "ru": "Он никогда не ходит в это место",
         "en": "He never goes to this place",
-        "ua": ""
-    },
-    {
-        "ru": "Я часто думаю об этом",
-        "en": "I often think about it",
         "ua": ""
     },
     {
@@ -3202,11 +3137,6 @@ sentences = [
     {
         "ru": "Понял тебя",
         "en": "Got you",
-        "ua": ""
-    },
-    {
-        "ru": "Он пишет что-то на доске",
-        "en": "He is writing something on the blackboard",
         "ua": ""
     },
     {
@@ -3570,11 +3500,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я писал письмо, когда зазвонил телефон",
-        "en": "I was writing a letter when the phone rang",
-        "ua": ""
-    },
-    {
         "ru": "Температура была выше нуля весь день вчера",
         "en": "The temperature was above zero all day yesterday",
         "ua": ""
@@ -3717,11 +3642,6 @@ sentences = [
     {
         "ru": "Когда учитель объяснял этот предмет, никто не понимал это",
         "en": "When the teacher was explaining this subject, no one understood it",
-        "ua": ""
-    },
-    {
-        "ru": "Никто не слушал его, когда он пытался это объяснить",
-        "en": "No one was listening to him when he was trying to explain it",
         "ua": ""
     },
     {
@@ -4150,16 +4070,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Она всегда хотела стать учителем",
-        "en": "She has always wanted to become a teacher",
-        "ua": ""
-    },
-    {
-        "ru": "Твой друг еще не звонил тебе?",
-        "en": "Hasn't your friend called you yet?",
-        "ua": ""
-    },
-    {
         "ru": "Когда я добрался до дома прошлой ночью, я был чрезвычайно уставшим и пошел в кровать немедленно",
         "en": "When I got home last night, I was extremely tired and went to bed immediately",
         "ua": ""
@@ -4247,51 +4157,6 @@ sentences = [
     {
         "ru": "Кому это принадлежит?",
         "en": "Who does it belong to?",
-        "ua": ""
-    },
-    {
-        "ru": "Он увлекался игрой на гитаре",
-        "en": "He was keen on playing the guitar",
-        "ua": ""
-    },
-    {
-        "ru": "Когда я открыл глаза, я наконец увидел это",
-        "en": "When I opened my eyes, I saw it at last",
-        "ua": ""
-    },
-    {
-        "ru": "Когда она пришла домой, мы ужинали",
-        "en": "When she came home, we were having dinner",
-        "ua": ""
-    },
-    {
-        "ru": "Она купила очень просторную квартиру",
-        "en": "She bought a very spacious flat",
-        "ua": ""
-    },
-    {
-        "ru": "Весь день шел дождь",
-        "en": "It was raining all day",
-        "ua": ""
-    },
-    {
-        "ru": "Он готовился к экзамену весь вечер",
-        "en": "He was preparing for the exam all evening",
-        "ua": ""
-    },
-    {
-        "ru": "Мы ужинали вчера в 7 часов вечера",
-        "en": "We were having dinner yesterday at 7 p.m.",
-        "ua": ""
-    },
-    {
-        "ru": "Я решил связаться с менеджером",
-        "en": "I decided to contact the manager",
-        "ua": ""
-    },
-    {
-        "ru": "Он был очень истощен, когда он работал там",
-        "en": "He was extremely exhausted when he worked there",
         "ua": ""
     },
     {
@@ -4705,48 +4570,8 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Они еще не нашли решение этой проблемы",
-        "en": "They havn't found a solution to this problem yet",
-        "ua": ""
-    },
-    {
-        "ru": "Чем ты был занят в последнее время?",
-        "en": "What have you been busy with lately?",
-        "ua": ""
-    },
-    {
-        "ru": "Чем твой друг был занят в последнее время?",
-        "en": "What has your friend been busy with lately?",
-        "ua": ""
-    },
-    {
-        "ru": "Он играл в хоккей каждый раз, когда у него была эта возможность",
-        "en": "He played hockey every time he had this opportunity",
-        "ua": ""
-    },
-    {
-        "ru": "Чем ты интересовался в последнее время?",
-        "en": "What have you been interested in lately?",
-        "ua": ""
-    },
-    {
-        "ru": "Чем ты увлекался в последнее время?",
-        "en": "What have you been keen on lately?",
-        "ua": ""
-    },
-    {
-        "ru": "Они посетили этот собор во время их поездки в Италию",
-        "en": "They visited this cathedral during their trip to Italy",
-        "ua": ""
-    },
-    {
         "ru": "Что энн делает весь день?",
         "en": "What has Ann been doing all day?",
-        "ua": ""
-    },
-    {
-        "ru": "Я использую это приложение в течение полугода, и я считаю его действительно полезным",
-        "en": "I have been using this application for half a year an I find it really useful",
         "ua": ""
     },
     {
@@ -5097,11 +4922,6 @@ sentences = [
     {
         "ru": "Она ждала его звонка весь день",
         "en": "She has been waiting for his call all day",
-        "ua": ""
-    },
-    {
-        "ru": "Он сказал, что долго ждал этого",
-        "en": "He said that he had been waiting for it for a long time",
         "ua": ""
     },
     {
@@ -5502,11 +5322,6 @@ sentences = [
     {
         "ru": "Я ожидаю, что я заработаю эти деньги к концу года",
         "en": "I expect that I will have earned this money by the end of the year",
-        "ua": ""
-    },
-    {
-        "ru": "Я буду работать над этим проектом в течение двух недель ко вторнику",
-        "en": "I will have been working on this project for two weeks by Tuesday",
         "ua": ""
     },
     {
@@ -7135,16 +6950,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я ищу это весь вечер",
-        "en": "I have been looking for it the whole evening",
-        "ua": ""
-    },
-    {
-        "ru": "Это случилось с ним, когда ему пришлось покинуть город",
-        "en": "It happened to him when he had to leave the city",
-        "ua": ""
-    },
-    {
         "ru": "Мой друг ждет его целый день",
         "en": "My friend has been waiting for him the whole day",
         "ua": ""
@@ -7172,16 +6977,6 @@ sentences = [
     {
         "ru": "Мы не устали находиться вместе",
         "en": "We didn't get tired of staying together",
-        "ua": ""
-    },
-    {
-        "ru": "Я ищу это весь вечер",
-        "en": "I have been looking for it the whole evening",
-        "ua": ""
-    },
-    {
-        "ru": "Это случилось с ним, когда ему пришлось покинуть город",
-        "en": "It happened to him when he had to leave the city",
         "ua": ""
     },
     {
@@ -7762,11 +7557,6 @@ sentences = [
     {
         "ru": "Это был первый раз, когда я был в этом городе",
         "en": "It was the first time I had been to this city",
-        "ua": ""
-    },
-    {
-        "ru": "Это второй раз, когда я в Англии",
-        "en": "It is the second time I have been to England",
         "ua": ""
     },
     {
@@ -10035,11 +9825,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я не знаю, почему она опоздала в школу",
-        "en": "I don't know why she was late for school",
-        "ua": ""
-    },
-    {
         "ru": "Ты знаешь, кто автор этой книги?",
         "en": "Do you know who the author of this book is?",
         "ua": ""
@@ -10135,16 +9920,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Почему ты вчера отсутствовал?",
-        "en": "Why were you absent yesterday?",
-        "ua": ""
-    },
-    {
-        "ru": "Я не знаю, почему она опоздала в школу",
-        "en": "I don't know why she was late for school",
-        "ua": ""
-    },
-    {
         "ru": "Почему ты опоздал на работу?",
         "en": "Why were you late for work?",
         "ua": ""
@@ -10227,11 +10002,6 @@ sentences = [
     {
         "ru": "Я знаю, как долго продлится этот фильм",
         "en": "I know how long this movie will last",
-        "ua": ""
-    },
-    {
-        "ru": "Почему ты вчера отсутствовал?",
-        "en": "Why were you absent yesterday?",
         "ua": ""
     },
     {
@@ -10495,11 +10265,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Ты знаешь, живет ли она там?",
-        "en": "Do you know if she lives there?",
-        "ua": ""
-    },
-    {
         "ru": "Я не был вполне уверен, буду ли я там в день теста",
         "en": "I Wasn't quite sure if I would be there on the test day",
         "ua": ""
@@ -10522,11 +10287,6 @@ sentences = [
     {
         "ru": "Я не знаю, какая связь между этими двумя вещами",
         "en": "I don't know what the connection between these two things is",
-        "ua": ""
-    },
-    {
-        "ru": "Ты знаешь, живет ли она там?",
-        "en": "Do you know if she lives there?",
         "ua": ""
     },
     {
@@ -10760,11 +10520,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я рекомендую прочитать эту книгу",
-        "en": "I recommend reading this book",
-        "ua": ""
-    },
-    {
         "ru": "Он надеется сдать этот тест",
         "en": "He hopes to pass this test",
         "ua": ""
@@ -10787,11 +10542,6 @@ sentences = [
     {
         "ru": "Я не рекомендую покупать еду там",
         "en": "I don't recommend buying food there",
-        "ua": ""
-    },
-    {
-        "ru": "Я рекомендую прочитать эту книгу",
-        "en": "I recommend reading this book",
         "ua": ""
     },
     {
@@ -11155,11 +10905,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я практикую говорить по-английски ежедневно",
-        "en": "I practise speaking English daily",
-        "ua": ""
-    },
-    {
         "ru": "Он не может позволить себе купить машину в настоящее время",
         "en": "He can't afford to buy a car at present",
         "ua": ""
@@ -11177,11 +10922,6 @@ sentences = [
     {
         "ru": "Я планирую уехать в отпуск на следующей неделе",
         "en": "I'm planning to go on holiday next week",
-        "ua": ""
-    },
-    {
-        "ru": "Я постараюсь не забыть позвонить ему",
-        "en": "I will try not to forget to call him",
         "ua": ""
     },
     {
@@ -11207,11 +10947,6 @@ sentences = [
     {
         "ru": "Я  желаю посетить тот город в этом году",
         "en": "I wish to visit that city this year",
-        "ua": ""
-    },
-    {
-        "ru": "Я постараюсь не забыть позвонить ему",
-        "en": "I will try not to forget to call him",
         "ua": ""
     },
     {
@@ -11377,11 +11112,6 @@ sentences = [
     {
         "ru": "Он отложил возвращение в Соединенные Штаты",
         "en": "He postponed returning to the United States",
-        "ua": ""
-    },
-    {
-        "ru": "Я практикую говорить по-английски ежедневно",
-        "en": "I practise speaking English daily",
         "ua": ""
     },
     {
@@ -16420,11 +16150,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Это может нанести вред нашей окружающей среде",
-        "en": "It can do harm to our environment",
-        "ua": ""
-    },
-    {
         "ru": "Это наносит вред нашему здоровью",
         "en": "It does harm to our health",
         "ua": ""
@@ -16560,11 +16285,6 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Это может нанести вред нашей окружающей среде",
-        "en": "It can do harm to our environment",
-        "ua": ""
-    },
-    {
         "ru": "Они делают такую вкусную еду в этом кафе",
         "en": "They make such delicious food in this cafe",
         "ua": ""
@@ -16587,11 +16307,6 @@ sentences = [
     {
         "ru": "Это произвело на меня хорошее впечатление",
         "en": "It made a good impression on me",
-        "ua": ""
-    },
-    {
-        "ru": "Ты совершил этот платеж?",
-        "en": "Did you make this payment?",
         "ua": ""
     },
     {
@@ -16807,11 +16522,6 @@ sentences = [
     {
         "ru": "Это произвело на меня хорошее впечатление",
         "en": "It made a good impression on me",
-        "ua": ""
-    },
-    {
-        "ru": "Ты совершил этот платеж?",
-        "en": "Did you make this payment?",
         "ua": ""
     },
     {
@@ -17965,23 +17675,8 @@ sentences = [
         "ua": ""
     },
     {
-        "ru": "Я пролистаю этот журнал, если ты не возражаешь",
-        "en": "I will flick through this magazine if you don't mind",
-        "ua": ""
-    },
-    {
         "ru": "Я постараюсь компенсировать упущенное время",
         "en": "I will try to make up for lost time",
-        "ua": ""
-    },
-    {
-        "ru": "Пожалуйста, разбуди меня в 7",
-        "en": "Please, wake me up at 7",
-        "ua": ""
-    },
-    {
-        "ru": "Она не может его понять",
-        "en": "She can't figure him out",
         "ua": ""
     },
     {
@@ -18417,6 +18112,1216 @@ sentences = [
     {
         "ru": "Я прекрасно понимаю важность этого решения",
         "en": "I perfectly understand the importance of this decision",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен, что все будет хорошо",
+        "en": "I am absolutely sure that it will be alright",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно согласен, что это будет так",
+        "en": "I absolutely agree that it will be so",
+        "ua": ""
+    },
+    {
+        "ru": "Ты слышал эту новость?",
+        "en": "Did you hear this news?",
+        "ua": ""
+    },
+    {
+        "ru": "Ты уже читал эту новость?",
+        "en": "Have you already read this news?",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен, что с тобой все будет хорошо",
+        "en": "I am absolutely sure that you will be alright",
+        "ua": ""
+    },
+    {
+        "ru": "Я не уверен, что все будет хорошо",
+        "en": "I am not sure that everything will be alright",
+        "ua": ""
+    },
+    {
+        "ru": "Возможно, это не произойдет",
+        "en": "Possibly, it won't happen",
+        "ua": ""
+    },
+    {
+        "ru": "Возможно, это произойдет снова",
+        "en": "Possibly, it will happen again",
+        "ua": ""
+    },
+    {
+        "ru": "Короче говоря, все прошло очень хорошо",
+        "en": "To be short, everything went very well",
+        "ua": ""
+    },
+    {
+        "ru": "Короче говоря, все было хорошо",
+        "en": "To be short, everything was alright",
+        "ua": ""
+    },
+    {
+        "ru": "Эта услуга доступна сейчас",
+        "en": "This service is available now",
+        "ua": ""
+    },
+    {
+        "ru": "Этот сайт в настоящее время недоступен",
+        "en": "This website is currently unavailable",
+        "ua": ""
+    },
+    {
+        "ru": "Лично я предпочитаю другие вещи",
+        "en": "Personally, I prefer other things",
+        "ua": ""
+    },
+    {
+        "ru": "Лично мне нравится другая вещь",
+        "en": "Personally, I like another thing",
+        "ua": ""
+    },
+    {
+        "ru": "Возможно, я сделаю это однажды",
+        "en": "Probably, I will do it one day",
+        "ua": ""
+    },
+    {
+        "ru": "Возможно, я сделаю это завтра",
+        "en": "Probably, I will do it tomorrow",
+        "ua": ""
+    },
+    {
+        "ru": "Короче говоря, это не заняло у меням ного времени, чтобы сделать это",
+        "en": "Briefly speaking, it didn't take me much time to do it",
+        "ua": ""
+    },
+    {
+        "ru": "Я был довольно разочарован его ответом",
+        "en": "I was pretty disappointed with his answer",
+        "ua": ""
+    },
+    {
+        "ru": "Они неэффективно изучают английский, потому что у них недостаточно практики",
+        "en": "They learn English ineffectively because they don't have enough practice",
+        "ua": ""
+    },
+    {
+        "ru": "Если честно, он произвел на меня очень благоприятное впечатление",
+        "en": "To be honest, he made a very favourable impression on me",
+        "ua": ""
+    },
+    {
+        "ru": "Это такой неэффективный способ изучения иностранных языков",
+        "en": "It is such an ineffective way of learning foreign languages",
+        "ua": ""
+    },
+    {
+        "ru": "Естественно, что только богатые люди могут себе это позволить",
+        "en": "It is natural that only rich people can afford it",
+        "ua": ""
+    },
+    {
+        "ru": "Возможно, что такая ситуация повторится",
+        "en": "It is possible that such a situation will repeat",
+        "ua": ""
+    },
+    {
+        "ru": "Почему он так неосторожно водит машину?",
+        "en": "Why does he drive a car so carelessly?",
+        "ua": ""
+    },
+    {
+        "ru": "Откровенно говоря, я не мог поверить своим глазам сначала",
+        "en": "Frankly, I couldn't believe my eyes at first",
+        "ua": ""
+    },
+    {
+        "ru": "Конечно, это значительная сумма денег",
+        "en": "Of course, it is a significant sum of money",
+        "ua": ""
+    },
+    {
+        "ru": "Это не сильно поможет тебе в реальной жизни",
+        "en": "It won't help you much in real life",
+        "ua": ""
+    },
+    {
+        "ru": "Я не читаю ежедневные газеты",
+        "en": "I don't read daily newspapers",
+        "ua": ""
+    },
+    {
+        "ru": "Если ты хочешь результат лучше, тебе нужно делать это ежедневно",
+        "en": "If you want a better result, you need to do it daily",
+        "ua": ""
+    },
+    {
+        "ru": "Он такой неосторожный водитель, и я всегда беспокоюсь об этом",
+        "en": "He is such a careless driver and I am always worried about it",
+        "ua": ""
+    },
+    {
+        "ru": "Лично я думаю, что этот метод сильно отличается от того",
+        "en": "Personally, I think this method differs a lot from that one",
+        "ua": ""
+    },
+    {
+        "ru": "Лично я думаю, что качество этого образования недостаточно высокое",
+        "en": "Personally, I think that the quality of this education isn't high enough",
+        "ua": ""
+    },
+    {
+        "ru": "Я раньше учил английский очень неэффективно, но потом открыл этот метод",
+        "en": "I used to learn English very ineffectively but then I discovered this method",
+        "ua": ""
+    },
+    {
+        "ru": "Это естественно, что большинство людей не могут позволить себе купить это",
+        "en": "It is natural that mos people can't afford to buy it",
+        "ua": ""
+    },
+    {
+        "ru": "Несомненно, это стоит нашего внимания",
+        "en": "Undoubtedly, it's worth our attention",
+        "ua": ""
+    },
+    {
+        "ru": "Тем не менее, я смог сделать то, что хотел",
+        "en": "Nevertheless, I was able to do what I wanted",
+        "ua": ""
+    },
+    {
+        "ru": "Трудно поверить, что это может быть возможно",
+        "en": "It is hard to believe that it can be possible",
+        "ua": ""
+    },
+    {
+        "ru": "Несомненно, это была настоящая сенсация",
+        "en": "Undoubtedly, it was a real sensation",
+        "ua": ""
+    },
+    {
+        "ru": "Где ты был в последнее время?",
+        "en": "Where have you been lately?",
+        "ua": ""
+    },
+    {
+        "ru": "Несомненно, это играет очень важную роль в моей жизни",
+        "en": "Undoubtedly, it plays a very important role in my life",
+        "ua": ""
+    },
+    {
+        "ru": "Несомненно, это стоит нашего восхищения",
+        "en": "Undoubtedly, it's worth our admiration",
+        "ua": ""
+    },
+    {
+        "ru": "Только высокопрофессиональные преподаватели работают там",
+        "en": "Only highly professional teachers work there",
+        "ua": ""
+    },
+    {
+        "ru": "Она ищет высокооплачиваемую работу",
+        "en": "She is looking for a highly paid job",
+        "ua": ""
+    },
+    {
+        "ru": "Ответ правильный или нет?",
+        "en": "Is the answer correct of not?",
+        "ua": ""
+    },
+    {
+        "ru": "Она написала это правильно",
+        "en": "She wrote it correctly",
+        "ua": ""
+    },
+    {
+        "ru": "Это совершенно неправильное предложение",
+        "en": "It is a completely wrong sentence",
+        "ua": ""
+    },
+    {
+        "ru": "Он действительно был прав",
+        "en": "He was right indeed",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе не следует ехать так быстро",
+        "en": "You shouldn't drive so fast",
+        "ua": ""
+    },
+    {
+        "ru": "Я глубоко сожалею об этом",
+        "en": "I deeply regret it",
+        "ua": ""
+    },
+    {
+        "ru": "Была небольшая задержка",
+        "en": "There was a slight delay",
+        "ua": ""
+    },
+    {
+        "ru": "Она глубоко религиозный человек",
+        "en": "She is a deeply religious person",
+        "ua": ""
+    },
+    {
+        "ru": "He said it wrongly",
+        "en": "Он сказал это неправильно",
+        "ua": ""
+    },
+    {
+        "ru": "Здесь очень высоко",
+        "en": "It is very high here",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень глубокое озеро",
+        "en": "It is a very deep lake",
+        "ua": ""
+    },
+    {
+        "ru": "Я почти получил этот балл",
+        "en": "I nearly got this score",
+        "ua": ""
+    },
+    {
+        "ru": "Это рядом",
+        "en": "It is near",
+        "ua": ""
+    },
+    {
+        "ru": "Та еда очень плохо пахнет",
+        "en": "That food smells very bad",
+        "ua": ""
+    },
+    {
+        "ru": "Это правильно или нет?",
+        "en": "Is it right or not?",
+        "ua": ""
+    },
+    {
+        "ru": "Почему ты пришел так поздно?",
+        "en": "Why did you come so late?",
+        "ua": ""
+    },
+    {
+        "ru": "У нее небольшая зубная боль",
+        "en": "She has a slight toothache",
+        "ua": ""
+    },
+    {
+        "ru": "Здесь очень глубоко",
+        "en": "It is very deep here",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь сказать мне эту вещь напрямую",
+        "en": "You can tell me this thing directly",
+        "ua": ""
+    },
+    {
+        "ru": "Все было неправильно",
+        "en": "Everything was wrong",
+        "ua": ""
+    },
+    {
+        "ru": "У него была небольшая головная боль",
+        "en": "He had a slight headache",
+        "ua": ""
+    },
+    {
+        "ru": "Она сказала это неправильно",
+        "en": "She said it incorrectly",
+        "ua": ""
+    },
+    {
+        "ru": "Действительно, все может измениться очень быстро",
+        "en": "Indeed, everything can change very quickly",
+        "ua": ""
+    },
+    {
+        "ru": "Я почти достиг этой цели",
+        "en": "I nearly achieved this aim",
+        "ua": ""
+    },
+    {
+        "ru": "Ты говоришь по-английски очень естественно",
+        "en": "You speak English very naturally",
+        "ua": ""
+    },
+    {
+        "ru": "Его английский звучит очень естественно",
+        "en": "His English sounds very natural",
+        "ua": ""
+    },
+    {
+        "ru": "Это место совсем рядом",
+        "en": "This place is quite near",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу говорить по-английски быстро и правильно",
+        "en": "I want to speak English fast and correctly",
+        "ua": ""
+    },
+    {
+        "ru": "Это правильно или неправильно?",
+        "en": "Is it correct or incorrect? (Is it right or wrong?)",
+        "ua": ""
+    },
+    {
+        "ru": "Они немного повысили цену",
+        "en": "They increased the price slightly",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно был очень рад",
+        "en": "I was very glad indeed",
+        "ua": ""
+    },
+    {
+        "ru": "Кто сказал это правильно?",
+        "en": "Who said it right?",
+        "ua": ""
+    },
+    {
+        "ru": "Эти цветы очень хорошо пахнут",
+        "en": "These flowers smell very good",
+        "ua": ""
+    },
+    {
+        "ru": "Его английский звучит очень естественно",
+        "en": "His English sounds very natural",
+        "ua": ""
+    },
+    {
+        "ru": "Он почти сдал экзамен",
+        "en": "He nearly passed the exam",
+        "ua": ""
+    },
+    {
+        "ru": "Это высокооплачиваемая работа",
+        "en": "It is a highly paid job",
+        "ua": ""
+    },
+    {
+        "ru": "Это совершенно неправильно",
+        "en": "It is completely wrong",
+        "ua": ""
+    },
+    {
+        "ru": "Действительно, ты прав",
+        "en": "Indeed, you are right",
+        "ua": ""
+    },
+    {
+        "ru": "Это прямой рейс в Нью-Йорк",
+        "en": "It is a direct flight to New York",
+        "ua": ""
+    },
+    {
+        "ru": "Это место совсем рядом",
+        "en": "This place is quite near",
+        "ua": ""
+    },
+    {
+        "ru": "Откровенно говоря, я ожидал гораздо меньшего",
+        "en": "To be frank, I expected much less",
+        "ua": ""
+    },
+    {
+        "ru": "Откровенно говоря, я этого не ожидал",
+        "en": "To be frank, I didn't expect it",
+        "ua": ""
+    },
+    {
+        "ru": "Он опаздывает, как обычно",
+        "en": "He is late as usual",
+        "ua": ""
+    },
+    {
+        "ru": "Он очень опоздал, как всегда",
+        "en": "He was very late as always",
+        "ua": ""
+    },
+    {
+        "ru": "Что люди могут сделать в нынешней ситуации?",
+        "en": "What can people do in the current situation?",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что это такой неэффективный способ изучения иностранных языков",
+        "en": "I think it is such an ineffective way of learning foreign languages",
+        "ua": ""
+    },
+    {
+        "ru": "Нам нужно получить практические навыки, которые полезны в реальной жизни",
+        "en": "We need to get practical skills which are useful in real life",
+        "ua": ""
+    },
+    {
+        "ru": "Возможно, что такого рода вещи произойдут снова",
+        "en": "It is possible that this kind of things will happen again",
+        "ua": ""
+    },
+    {
+        "ru": "Я нахожоу эту книгу довольно скучной",
+        "en": "I find this book rather boring",
+        "ua": ""
+    },
+    {
+        "ru": "Все довольно ясно сейчас",
+        "en": "Everything is pretty clear now",
+        "ua": ""
+    },
+    {
+        "ru": "Это было довольно интересное открытие",
+        "en": "It was quite an interesting discovery",
+        "ua": ""
+    },
+    {
+        "ru": "Это настоящее достижение",
+        "en": "It's a real achievement",
+        "ua": ""
+    },
+    {
+        "ru": "Я решил все эти проблемы довольно легко",
+        "en": "I solved all these problems pretty easily",
+        "ua": ""
+    },
+    {
+        "ru": "Это настоящая проблема для очень многих людей в наше время",
+        "en": "It is a real problem for so many people nowadays",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь сказать ему эту вещь лично",
+        "en": "You can tell him this thing personally",
+        "ua": ""
+    },
+    {
+        "ru": "Это довольно дорого",
+        "en": "It is pretty expensive",
+        "ua": ""
+    },
+    {
+        "ru": "Он всегда осторожен с деньгами",
+        "en": "He is always careful with money",
+        "ua": ""
+    },
+    {
+        "ru": "Он довольно ленивый мальчик",
+        "en": "He is quite a lazy boy",
+        "ua": ""
+    },
+    {
+        "ru": "Это не настоящее его имя",
+        "en": "It isn't his real name",
+        "ua": ""
+    },
+    {
+        "ru": "Я нахожу ту вещь довольно дешевой",
+        "en": "I find that thing quite cheap",
+        "ua": ""
+    },
+    {
+        "ru": "Та идея звучит довольно странно",
+        "en": "That idea sounds pretty strange",
+        "ua": ""
+    },
+    {
+        "ru": "Я чувствую настоящий прогресс",
+        "en": "I feel real progress",
+        "ua": ""
+    },
+    {
+        "ru": "Ты действительно такой талантливый",
+        "en": "You are really so talented",
+        "ua": ""
+    },
+    {
+        "ru": "Это мое личное достижение",
+        "en": "It is my personal achievement",
+        "ua": ""
+    },
+    {
+        "ru": "Я хочу говорить по-английски более естественно",
+        "en": "I want to speak English more naturally",
+        "ua": ""
+    },
+    {
+        "ru": "Это довольно унылая история",
+        "en": "It is a rather dull story",
+        "ua": ""
+    },
+    {
+        "ru": "Эта идея довольно крутая",
+        "en": "This idea is pretty cool",
+        "ua": ""
+    },
+    {
+        "ru": "Я могу сделать это очень легко",
+        "en": "I can do it very easily",
+        "ua": ""
+    },
+    {
+        "ru": "Это вполне разумная цена",
+        "en": "It is quite a reasonable price",
+        "ua": ""
+    },
+    {
+        "ru": "Он был очень кратким с нами",
+        "en": "He was very brief with us",
+        "ua": ""
+    },
+    {
+        "ru": "Это довольно дешевая вещь",
+        "en": "It is quite a cheap thing",
+        "ua": ""
+    },
+    {
+        "ru": "Эти меры недостаточно эффективны",
+        "en": "These measures aren't effective enough",
+        "ua": ""
+    },
+    {
+        "ru": "Она очень приятная девушка",
+        "en": "She is a very pretty girl",
+        "ua": ""
+    },
+    {
+        "ru": "Фильм довольно скучный",
+        "en": "The movie is rather boring",
+        "ua": ""
+    },
+    {
+        "ru": "Ты действительно такой талантливый человек",
+        "en": "You are really such a talented person",
+        "ua": ""
+    },
+    {
+        "ru": "Я нахожу эту цену вполне разумной",
+        "en": "I find this price quite reasonable",
+        "ua": ""
+    },
+    {
+        "ru": "Это обычная вещь для нее",
+        "en": "It is a usual thing for her",
+        "ua": ""
+    },
+    {
+        "ru": "Я чувствую, что я учу английский очень эффективно",
+        "en": "I feel that I learn English very effectively",
+        "ua": ""
+    },
+    {
+        "ru": "Это довольно скучная программа",
+        "en": "It is a rather boring program",
+        "ua": ""
+    },
+    {
+        "ru": "Это был такой значительный шаг вперед",
+        "en": "It was such a significant step forward",
+        "ua": ""
+    },
+    {
+        "ru": "Он всегда водит машину очень осторожно",
+        "en": "He always drives a car very carefully",
+        "ua": ""
+    },
+    {
+        "ru": "Он был очень откровенен с нами во всем",
+        "en": "He was very frank with us about everything",
+        "ua": ""
+    },
+    {
+        "ru": "В настоящее время он работает над другим проектом",
+        "en": "He is currently working on another project",
+        "ua": ""
+    },
+    {
+        "ru": "Компания значительно увеличила цену",
+        "en": "The company increased the price significantly",
+        "ua": ""
+    },
+    {
+        "ru": "Он отвечает на все эти письма лично",
+        "en": "He answers all these letters personally",
+        "ua": ""
+    },
+    {
+        "ru": "Я значительно улучшил свои знания благодаря этому курсу",
+        "en": "I improved my knowledge significantly thanks to this course",
+        "ua": ""
+    },
+    {
+        "ru": "Эта страна имеет очень богатые природные ресурсы",
+        "en": "This country has very rich natural resources",
+        "ua": ""
+    },
+    {
+        "ru": "Эта еда содержит только натуральные ингредиенты",
+        "en": "This food contains only natural ingredients",
+        "ua": ""
+    },
+    {
+        "ru": "Это было сказано правильно или неправильно?",
+        "en": "Was it said correctly or incorrectly?",
+        "ua": ""
+    },
+    {
+        "ru": "Он очень успешный бизнесмен",
+        "en": "He is a highly successful businessman",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень эффективный метод",
+        "en": "It is a highly effective method",
+        "ua": ""
+    },
+    {
+        "ru": "Она посещает это место довольно часто",
+        "en": "She visits this place quiet often",
+        "ua": ""
+    },
+    {
+        "ru": "У него легкий иностранный акцент",
+        "en": "He has a slight foreign accent",
+        "ua": ""
+    },
+    {
+        "ru": "Наконец, она все осознала",
+        "en": "Finally, she realized everything",
+        "ua": ""
+    },
+    {
+        "ru": "Однако, эта ситуация может повториться",
+        "en": "However, this situation can repeat itself",
+        "ua": ""
+    },
+    {
+        "ru": "Что он делал в последнее время?",
+        "en": "What has he been doing lately?",
+        "ua": ""
+    },
+    {
+        "ru": "Он очень успешный предприниматель",
+        "en": "He is a highly successful entrepreneur",
+        "ua": ""
+    },
+    {
+        "ru": "Тем не менее, это было немного несправедливо",
+        "en": "Nevertheless, it was a little unfair",
+        "ua": ""
+    },
+    {
+        "ru": "Это немного формальное предложение",
+        "en": "It is a slightly formal sentence",
+        "ua": ""
+    },
+    {
+        "ru": "Это прямой рейс в Нью-Йорк",
+        "en": "It is a direct flight to New York",
+        "ua": ""
+    },
+    {
+        "ru": "Это было написано правильно",
+        "en": "It was written correctly",
+        "ua": ""
+    },
+    {
+        "ru": "Это было сказано неправильно",
+        "en": "It was said incorrectly",
+        "ua": ""
+    },
+    {
+        "ru": "Он высоко профессиональный работник",
+        "en": "He is a highly professional worker",
+        "ua": ""
+    },
+    {
+        "ru": "Он высоко образованный человек",
+        "en": "He is a highly educated person",
+        "ua": ""
+    },
+    {
+        "ru": "Он очень сильно ушибся",
+        "en": "He hurt himself very badly",
+        "ua": ""
+    },
+    {
+        "ru": "Он сильно повредил руку?",
+        "en": "Did he hurt his arm badly?",
+        "ua": ""
+    },
+    {
+        "ru": "Это было сказано правильно",
+        "en": "It was said correctly",
+        "ua": ""
+    },
+    {
+        "ru": "Это было написано неправильно",
+        "en": "It was written wrongly",
+        "ua": ""
+    },
+    {
+        "ru": "Тем не менее, я предпочел этого не делать",
+        "en": "Nevertheless, I preferred not to do it",
+        "ua": ""
+    },
+    {
+        "ru": "Тем не менее, мне удалось заработать эти деньги",
+        "en": "Nevertheless, I managed to earn this money",
+        "ua": ""
+    },
+    {
+        "ru": "Однако, ситуация все еще нестабильна",
+        "en": "However, the situation is still unstable",
+        "ua": ""
+    },
+    {
+        "ru": "Я наконец получил его разрешение",
+        "en": "I finally got his permission",
+        "ua": ""
+    },
+    {
+        "ru": "Он ходит в спортзал довольно регулярно",
+        "en": "He goes to the gym quite regularly",
+        "ua": ""
+    },
+    {
+        "ru": "Кто-то очень сильно его избил",
+        "en": "Someone beat him very badly",
+        "ua": ""
+    },
+    {
+        "ru": "Он высокопрофессиональный учитель",
+        "en": "He is a highly professional teacher",
+        "ua": ""
+    },
+    {
+        "ru": "Это действительно полезный метод",
+        "en": "It's a really useful method",
+        "ua": ""
+    },
+    {
+        "ru": "Вирус может быть неактивным",
+        "en": "The virus can be inactive",
+        "ua": ""
+    },
+    {
+        "ru": "Это был очень неприятный момент",
+        "en": "It was a very unpleasant moment",
+        "ua": ""
+    },
+    {
+        "ru": "Несомненно, это настоящий успех",
+        "en": "Undoubtedly, it is a real success",
+        "ua": ""
+    },
+    {
+        "ru": "Тем не менее, это был отличный результат",
+        "en": "Nevertheless, it was a great result",
+        "ua": ""
+    },
+    {
+        "ru": "Однако, мы полны энергии",
+        "en": "However, we are full of energy",
+        "ua": ""
+    },
+    {
+        "ru": "Честно говоря, я полон оптимизма",
+        "en": "Honestly, I am full of optimism",
+        "ua": ""
+    },
+    {
+        "ru": "Наконец я покинул это место",
+        "en": "Finally, I left this place",
+        "ua": ""
+    },
+    {
+        "ru": "Наконец я закончил свою работу",
+        "en": "Finally, I finished my work",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно согласен с тобой",
+        "en": "I absolutely agree with you",
+        "ua": ""
+    },
+    {
+        "ru": "Отчасти я согласен с тобой",
+        "en": "I partly agree with you",
+        "ua": ""
+    },
+    {
+        "ru": "Я полностью согласен с ним",
+        "en": "I fully agree with him",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно согласен с ним",
+        "en": "I absolutely agree with him",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень неэффективное использование времени",
+        "en": "It is a very inefficient use of time",
+        "ua": ""
+    },
+    {
+        "ru": "Почему он так нерешителен?",
+        "en": "Why is he so indecisive?",
+        "ua": ""
+    },
+    {
+        "ru": "Это кажется бесконечным процессом",
+        "en": "It seems an endless process",
+        "ua": ""
+    },
+    {
+        "ru": "Он был неспособен решить те проблемы",
+        "en": "He was incapable of solving those problems",
+        "ua": ""
+    },
+    {
+        "ru": "Это было такое неожиданное предложение",
+        "en": "It was such an unexpected offer",
+        "ua": ""
+    },
+    {
+        "ru": "Этот почерк неразборчив",
+        "en": "This handwriting is illegible",
+        "ua": ""
+    },
+    {
+        "ru": "Эти ответы являются неточными",
+        "en": "These answers are inaccurate",
+        "ua": ""
+    },
+    {
+        "ru": "Управление компанией очень неэффективно",
+        "en": "The management of the company is very inefficient",
+        "ua": ""
+    },
+    {
+        "ru": "Это такой нелогичный вывод",
+        "en": "It's such an illogical conclusion",
+        "ua": ""
+    },
+    {
+        "ru": "Я не думаю, что этот работник действительно незаменим",
+        "en": "I don't think that this worker is really irreplaceable",
+        "ua": ""
+    },
+    {
+        "ru": "Они безразличны к нуждам и страданиям других людей",
+        "en": "They are indifferent to other people's needs and sufferings",
+        "ua": ""
+    },
+    {
+        "ru": "Я пришел к выводу, что в нашей жизни нет неважных обстоятельств",
+        "en": "I came to the conclusion that there are no unimportant circumstances in our life",
+        "ua": ""
+    },
+    {
+        "ru": "С моей точки зрения, это очень маловероятно, что произойдет",
+        "en": "From my point of view, it is very unlikely to happen",
+        "ua": ""
+    },
+    {
+        "ru": "Люди недовольны качеством этого образования",
+        "en": "People are dissatisfied with the quality of this education",
+        "ua": ""
+    },
+    {
+        "ru": "Это сделано для того, чтобы избежать любого рода недопонимания",
+        "en": "It is done in order to avoid any kind of misunderstanding",
+        "ua": ""
+    },
+    {
+        "ru": "Они не уверены в успехе этого проекта",
+        "en": "They are uncertain about the success of this project",
+        "ua": ""
+    },
+    {
+        "ru": "Я не думаю, что этот работник действительно незаменим",
+        "en": "I don't think that this worker is really irreplaceable",
+        "ua": ""
+    },
+    {
+        "ru": "Говорят, что в нашей жизни нет неважных вещей",
+        "en": "It is said that there are no unimportant things in our life",
+        "ua": ""
+    },
+    {
+        "ru": "Я не могу доверять этой информации, потому что она неточна",
+        "en": "I can't trust this information because it's inaccurate",
+        "ua": ""
+    },
+    {
+        "ru": "Эти цифры неточные",
+        "en": "These figures are inaccurate",
+        "ua": ""
+    },
+    {
+        "ru": "Это невероятно!",
+        "en": "It is unbelievable!",
+        "ua": ""
+    },
+    {
+        "ru": "Он бесценный работник",
+        "en": "He is an invaluable worker",
+        "ua": ""
+    },
+    {
+        "ru": "Это бесконечный процесс",
+        "en": "It is an endless process",
+        "ua": ""
+    },
+    {
+        "ru": "Это кажется невероятным!",
+        "en": "It seems unbelievable!",
+        "ua": ""
+    },
+    {
+        "ru": "Это считается невежливым",
+        "en": "It is considered impolite",
+        "ua": ""
+    },
+    {
+        "ru": "Этот глагол правильный или неправильный?",
+        "en": "Is this verb regular or irregular?",
+        "ua": ""
+    },
+    {
+        "ru": "Он чувствует некоторого рода дискомфорт",
+        "en": "He feels some kind of discomfort",
+        "ua": ""
+    },
+    {
+        "ru": "Это был очень неприятный момент",
+        "en": "It was a very unpleasant moment",
+        "ua": ""
+    },
+    {
+        "ru": "Это невообразимо!",
+        "en": "It is unimaginable!",
+        "ua": ""
+    },
+    {
+        "ru": "Это было безответственное решение",
+        "en": "It was an irresponsible decision",
+        "ua": ""
+    },
+    {
+        "ru": "Не пойми меня неправильно!",
+        "en": "Don't misunderstand me!",
+        "ua": ""
+    },
+    {
+        "ru": "Это такая неприятная ситуация",
+        "en": "It is such an unpleasant situation",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, ты меня неправильно понял",
+        "en": "I think you misunderstood me",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, мы неправильно поняли друг друга",
+        "en": "I think we misunderstood each other",
+        "ua": ""
+    },
+    {
+        "ru": "Это непривлекательное предложения для меня",
+        "en": "It is an unattractive offer for me",
+        "ua": ""
+    },
+    {
+        "ru": "Она бесценный работник",
+        "en": "She is an invaluable employee",
+        "ua": ""
+    },
+    {
+        "ru": "Это был такой неэффективный метод",
+        "en": "It was such an ineffective method",
+        "ua": ""
+    },
+    {
+        "ru": "Здесь какое-то недопонимание",
+        "en": "There is some misunderstanding",
+        "ua": ""
+    },
+    {
+        "ru": "Эти сотрудники безответственные",
+        "en": "These employees are irresponsible",
+        "ua": ""
+    },
+    {
+        "ru": "Это неправильный глагол",
+        "en": "It is an irregular verb",
+        "ua": ""
+    },
+    {
+        "ru": "Эта история кажется невероятной",
+        "en": "This story seems unbelievable",
+        "ua": ""
+    },
+    {
+        "ru": "Они принимают очень нерешительные меры",
+        "en": "They take very indecisive measures",
+        "ua": ""
+    },
+    {
+        "ru": "Он очень этим недоволен",
+        "en": "He is very unhappy about it",
+        "ua": ""
+    },
+    {
+        "ru": "Эта функция неактивна в данный момент",
+        "en": "This function is inactive at the moment",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень неэффективное использование этих ресурсов",
+        "en": "It is a very inefficient use of these resources",
+        "ua": ""
+    },
+    {
+        "ru": "Это действительно кажется невообразимым!",
+        "en": "It really seems unimaginable!",
+        "ua": ""
+    },
+    {
+        "ru": "Этот стиль управления очень неэффективен",
+        "en": "This style of management is very inefficient",
+        "ua": ""
+    },
+    {
+        "ru": "Она говорит, что он очень неприятный человек",
+        "en": "She says that he is a very unpleasant person",
+        "ua": ""
+    },
+    {
+        "ru": "Его почерк совершенно неразборчивый",
+        "en": "His handwriting is totally illegible",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что это вряд ли произойдет",
+        "en": "I think it is very unlikely to happen",
+        "ua": ""
+    },
+    {
+        "ru": "Это неразборчивая подпись",
+        "en": "It is an illegible signature",
+        "ua": ""
+    },
+    {
+        "ru": "Маловероятно, что ситуация скоро улучшится",
+        "en": "It is unlikely that the situation will improve soon",
+        "ua": ""
+    },
+    {
+        "ru": "Считается невежливым делать это",
+        "en": "It is considered impolite to do it",
+        "ua": ""
+    },
+    {
+        "ru": "Он думает, он такой незаменимый работник",
+        "en": "He thinks he is such an irreplaceble worker",
+        "ua": ""
+    },
+    {
+        "ru": "Я не доволен таким ответом",
+        "en": "I am dissatisfied with such an answer",
+        "ua": ""
+    },
+    {
+        "ru": "Это бесценный источник информации",
+        "en": "It is an invaluable source of information",
+        "ua": ""
+    },
+    {
+        "ru": "Он равнодушен к тебе?",
+        "en": "Is he indifferent to you?",
+        "ua": ""
+    },
+    {
+        "ru": "Он работал очень непрофессионально?",
+        "en": "Did he work very unprofessionally?",
+        "ua": ""
+    },
+    {
+        "ru": "Я одобряю твой выбор",
+        "en": "I approve of your choice",
+        "ua": ""
+    },
+    {
+        "ru": "Я не одобряю его поведение",
+        "en": "I disapprove of his behaviour",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно не уверен в этом решении",
+        "en": "I am really unsure about this decision",
+        "ua": ""
+    },
+    {
+        "ru": "Я абсолютно уверен в этом",
+        "en": "I am absolutely sure about it",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень вероятно случится",
+        "en": "It is very likely to happen",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, так маловероятно, что это произойдет",
+        "en": "I think it is so unlikely that it will happen",
+        "ua": ""
+    },
+    {
+        "ru": "Она заставила его чувствовать себя очень некомфортно",
+        "en": "She made him feel very uncomfortable",
+        "ua": ""
+    },
+    {
+        "ru": "Я чувствую себя очень комфортно в данный момент",
+        "en": "I feel very comfortable at the moment",
+        "ua": ""
+    },
+    {
+        "ru": "Ее решение было таким неожиданным",
+        "en": "Her decision was so unexpected",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень вероятно",
+        "en": "It is very likely",
+        "ua": ""
+    },
+    {
+        "ru": "Это очень маловероятно?",
+        "en": "Is it very unlikely?",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно доволен моими результатами",
+        "en": "I am really satisfied with my results",
+        "ua": ""
+    },
+    {
+        "ru": "Ты недоволен своими результатами?",
+        "en": "Are you dissatisfied with your results?",
         "ua": ""
     },
 ]
