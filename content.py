@@ -20629,4 +20629,1739 @@ sentences = [
         "en": "The party was very dull in the beginning but then it livened up after his arrival",
         "ua": ""
     },
+    {
+        "ru": "Мне потребовалось около получаса, чтобы просмотреть этот каталог",
+        "en": "It took me about half an hour to look through this catalogue",
+        "ua": ""
+    },
+    {
+        "ru": "Если ты ничего не сделаешь срочно, ты можешь очень легко отстать",
+        "en": "If you don't do anything urgently, you can fall behind very easily",
+        "ua": ""
+    },
+    {
+        "ru": "Когда она вспоминает те дни, то осознает, как была счастлива",
+        "en": "When she looks back on those days, she realises how happy she was",
+        "ua": ""
+    },
+    {
+        "ru": "Они так плохо работали и в результате отстали",
+        "en": "They worked so badly and as a result they lagged behind",
+        "ua": ""
+    },
+    {
+        "ru": "Она болела три недели и отстала в учебе",
+        "en": "She was ill for three weeks and fell behind with her schoolwork",
+        "ua": ""
+    },
+    {
+        "ru": "Оглядываясь назад, это не была чья-то вина",
+        "en": "Looking back, it was no one's fault",
+        "ua": ""
+    },
+    {
+        "ru": "В какое время ты собираешься вернуться?",
+        "en": "What time are you going to come back?",
+        "ua": ""
+    },
+    {
+        "ru": "Я загляну к тебе на чашку кофе",
+        "en": "I will look in on you for a cup of coffee",
+        "ua": ""
+    },
+    {
+        "ru": "Она отстала от остальной группы",
+        "en": "She fell behind the rest of the group",
+        "ua": ""
+    },
+    {
+        "ru": "Он с нетерпением ждет выходных",
+        "en": "He is looking forward to the weekend",
+        "ua": ""
+    },
+    {
+        "ru": "Я с таким нетерпением жду этой встречи",
+        "en": "I am looking forward to this meeting so much",
+        "ua": ""
+    },
+    {
+        "ru": "Доктор снова заглянет завтра",
+        "en": "The doctor will look in again tomorrow",
+        "ua": ""
+    },
+    {
+        "ru": "Он отстал в работе",
+        "en": "He lagged behind in work",
+        "ua": ""
+    },
+    {
+        "ru": "Она присматривает за своими тремя детьми",
+        "en": "She looks after her three children",
+        "ua": ""
+    },
+    {
+        "ru": "Я должен был заполнить пробелы",
+        "en": "I had to fill in the gaps",
+        "ua": ""
+    },
+    {
+        "ru": "Мы с нетерпением ждем от тебя ответа в ближайшее время",
+        "en": "We look forward to hearing from you soon",
+        "ua": ""
+    },
+    {
+        "ru": "Он был воспитан своим дядей",
+        "en": "He was brought up by his uncle",
+        "ua": ""
+    },
+    {
+        "ru": "Откуда ты родом?",
+        "en": "Where do you come from?",
+        "ua": ""
+    },
+    {
+        "ru": "Он старается не ссориться с другими",
+        "en": "He tries not to fall out with others",
+        "ua": ""
+    },
+    {
+        "ru": "Женщина с нетерпением ждет своего выхода на пенсию",
+        "en": "The woman is looking forward to her retirement",
+        "ua": ""
+    },
+    {
+        "ru": "Девочка присматривает за своей матерью",
+        "en": "The girl looks after her mother",
+        "ua": ""
+    },
+    {
+        "ru": "Она заполнила бланк заявления",
+        "en": "She filled in an application form",
+        "ua": ""
+    },
+    {
+        "ru": "Ты хотел бы зайти на чашку кофе?",
+        "en": "Would you like to come in for a cup of coffee?",
+        "ua": ""
+    },
+    {
+        "ru": "В какое время ты собираешься вернуться?",
+        "en": "What time are you going to come back?",
+        "ua": ""
+    },
+    {
+        "ru": "Из какого города ты родом?",
+        "en": "What city do you come from?",
+        "ua": ""
+    },
+    {
+        "ru": "Кто-то крикнул ему, чтобы он остерегался",
+        "en": "Someone shouted to him to watch out",
+        "ua": ""
+    },
+    {
+        "ru": "Давай вернемся к этому чуть позже!",
+        "en": "Let's get back to it a bit later!",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь заглянуть ко мне",
+        "en": "You can look in on me",
+        "ua": ""
+    },
+    {
+        "ru": "Я не хочу с ним ссориться",
+        "en": "I don't want to fall out with him",
+        "ua": ""
+    },
+    {
+        "ru": "Я буду разговаривать с ней, когда она вернется",
+        "en": "I will talk to her when she comes back",
+        "ua": ""
+    },
+    {
+        "ru": "Она часто ссорится со своим братом",
+        "en": "She often falls out with her brother",
+        "ua": ""
+    },
+    {
+        "ru": "Он воспитал четверых детей",
+        "en": "He brought up four children",
+        "ua": ""
+    },
+    {
+        "ru": "Я буду просматривать эти документы",
+        "en": "I will look through these documents",
+        "ua": ""
+    },
+    {
+        "ru": "Заполни пробелы новыми словами",
+        "en": "Fill in the gaps with the new words",
+        "ua": ""
+    },
+    {
+        "ru": "Ей удалось воспитать пятерых детей самой",
+        "en": "She managed to bring up five children on her own",
+        "ua": ""
+    },
+    {
+        "ru": "Давай вернемся к обсуждению этого чуть позже!",
+        "en": "Let's get back to discussing it a bit later!",
+        "ua": ""
+    },
+    {
+        "ru": "Твой брат часто достает меня",
+        "en": "Your brother often gets at me",
+        "ua": ""
+    },
+    {
+        "ru": "Позволь мне изложить это сообщение!",
+        "en": "Let me get this message across!",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе лучше вернуться к этому как можно скорее",
+        "en": "You had better get back to it as soon as possible",
+        "ua": ""
+    },
+    {
+        "ru": "Я потратил так много времени, заполняя эту анкету",
+        "en": "I spent so much time filling in this application form",
+        "ua": ""
+    },
+    {
+        "ru": "Я загляну к тебе на чашку чая, если ты не возражаешь",
+        "en": "I will look in on you for a cup of tea if you don't mind",
+        "ua": ""
+    },
+    {
+        "ru": "Раньше они часто ссорились",
+        "en": "They used to fall out a lot",
+        "ua": ""
+    },
+    {
+        "ru": "Я просмотрел свои записи перед экзаменом",
+        "en": "I looked through my notes before the exam",
+        "ua": ""
+    },
+    {
+        "ru": "Мне понадобилось некоторое время, чтобы просмотреть эти документы",
+        "en": "It took me some time to look through these documents",
+        "ua": ""
+    },
+    {
+        "ru": "Я отстал от остальной части группы",
+        "en": "I fell behind the rest of the group",
+        "ua": ""
+    },
+    {
+        "ru": "Во сколько ты вчера вернулся с работы?",
+        "en": "What time did you come back from work yesterday?",
+        "ua": ""
+    },
+    {
+        "ru": "Я еще не вернулся из школы",
+        "en": "I haven't come back from school yet",
+        "ua": ""
+    },
+    {
+        "ru": "Ей пришлось заполнить пробелы",
+        "en": "She had to fill in the gaps",
+        "ua": ""
+    },
+    {
+        "ru": "Ты заполнил этот документ?",
+        "en": "Did you fill in this document?",
+        "ua": ""
+    },
+    {
+        "ru": "Он с нетерпением ждет конца дня",
+        "en": "He is looking forward to the end of the day",
+        "ua": ""
+    },
+    {
+        "ru": "Я с нетерпением жду завтрашнего похода на пляж",
+        "en": "I am looking forward to going to the beach tomorrow",
+        "ua": ""
+    },
+    {
+        "ru": "Я лучше вернусь к этому позже",
+        "en": "I'd rather get back to it later",
+        "ua": ""
+    },
+    {
+        "ru": "Я пытался донести эту идею",
+        "en": "I tried to get this idea across",
+        "ua": ""
+    },
+    {
+        "ru": "Кем она была воспитана?",
+        "en": "Who was she brought up by?",
+        "ua": ""
+    },
+    {
+        "ru": "Кто ее воспитал?",
+        "en": "Who brought her up?",
+        "ua": ""
+    },
+    {
+        "ru": "Ее учитель часто достает ее",
+        "en": "Her teacher often gets at her",
+        "ua": ""
+    },
+    {
+        "ru": "Мой брат часто достает меня",
+        "en": "My brother often gets at me",
+        "ua": ""
+    },
+    {
+        "ru": "Забегая вперед, мы также должны принять это во внимание",
+        "en": "Looking ahead, we also need to take it into account",
+        "ua": ""
+    },
+    {
+        "ru": "Оглядываясь назад на свою жизнь, я вижу, что было сделано много ошибок",
+        "en": "Looking back on my life, lots of mistakes were made",
+        "ua": ""
+    },
+    {
+        "ru": "Он родился и вырос в Соединенных Штатах",
+        "en": "He was born and brought up in the United States",
+        "ua": ""
+    },
+    {
+        "ru": "Я не думаю, что ему действительно удалось донести свою идею",
+        "en": "I don't think that he really managed to get his idea across",
+        "ua": ""
+    },
+    {
+        "ru": "Она читала приключенческий рассказ, когда он вошел",
+        "en": "She was reading an adventure story when he came in",
+        "ua": ""
+    },
+    {
+        "ru": "Я дам ему знать об этом, когда он вернется",
+        "en": "I will let him know about it when he comes back",
+        "ua": ""
+    },
+    {
+        "ru": "Она сама воспитала троих детей",
+        "en": "She brought up three children on her own",
+        "ua": ""
+    },
+    {
+        "ru": "Отмечалось, что никто не был виноват",
+        "en": "It was pointed out that it was no one's fault",
+        "ua": ""
+    },
+    {
+        "ru": "Я предпочитаю не откладывать на завтра то, что могу сделать сегодня",
+        "en": "I prefer not to put off till tomorrow what I can do today",
+        "ua": ""
+    },
+    {
+        "ru": "В этой отрасли не так-то просто продвинуться вперед",
+        "en": "It isn't so easy to get ahead in this industry",
+        "ua": ""
+    },
+    {
+        "ru": "Я занимаюсь разными видами спорта, потому что предпочитаю вести здоровый образ жизни",
+        "en": "I go in for different kinds of sport because I prefer to lead a healthy lifestyle",
+        "ua": ""
+    },
+    {
+        "ru": "Он повесил этот плакат на стену",
+        "en": "He put up this poster on the wall",
+        "ua": ""
+    },
+    {
+        "ru": "Он надел пальто и вышел на улицу",
+        "en": "He put on his coat and went out",
+        "ua": ""
+    },
+    {
+        "ru": "Как ты собираешься мириться с этой несправедливостью?",
+        "en": "How are you going to put up with this injustice?",
+        "ua": ""
+    },
+    {
+        "ru": "Я боюсь, что он так сильно подвел нас",
+        "en": "I am afraid that he let us down so badly",
+        "ua": ""
+    },
+    {
+        "ru": "Ее доходы упали на двадцать процентов",
+        "en": "Her income went down by twenty per cent",
+        "ua": ""
+    },
+    {
+        "ru": "Она отложила поход к зубному врачу",
+        "en": "She put off going to the dentist",
+        "ua": ""
+    },
+    {
+        "ru": "Я больше не могу откладывать поездку туда",
+        "en": "I can't put off going there any longer",
+        "ua": ""
+    },
+    {
+        "ru": "Я занимаюсь спортом",
+        "en": "I go in for sports",
+        "ua": ""
+    },
+    {
+        "ru": "Время летит так быстро",
+        "en": "Time goes by so fast",
+        "ua": ""
+    },
+    {
+        "ru": "Ему нужно немного времени, чтобы это обдумать",
+        "en": "He needs some time to think it over",
+        "ua": ""
+    },
+    {
+        "ru": "Он бросил колледж",
+        "en": "He dropped out of college",
+        "ua": ""
+    },
+    {
+        "ru": "Я хотел бы обойти город",
+        "en": "I'd like to get around the city",
+        "ua": ""
+    },
+    {
+        "ru": "Его младший брат занимается футболом",
+        "en": "His younger brother goes in for football",
+        "ua": ""
+    },
+    {
+        "ru": "Он хочет продвинуться в своей карьере",
+        "en": "He wants to get ahead in his career",
+        "ua": ""
+    },
+    {
+        "ru": "В конце концов, он выбыл из гонки",
+        "en": "He dropped out of the race in the end",
+        "ua": ""
+    },
+    {
+        "ru": "Вся еда испортилась",
+        "en": "All the food went off",
+        "ua": ""
+    },
+    {
+        "ru": "Когда ты хотел бы обсудить это?",
+        "en": "When would you like to talk it over?",
+        "ua": ""
+    },
+    {
+        "ru": "Он занимается боксом",
+        "en": "He goes in for boxing",
+        "ua": ""
+    },
+    {
+        "ru": "Она больше не может с этим мириться",
+        "en": "She can't put up with it anymore",
+        "ua": ""
+    },
+    {
+        "ru": "Она бросила школу",
+        "en": "She dropped out of school",
+        "ua": ""
+    },
+    {
+        "ru": "Самолет взлетит через час",
+        "en": "The plane will take off in an hour",
+        "ua": ""
+    },
+    {
+        "ru": "Цена поднялась к нашему удивлению",
+        "en": "The price went up to our surprise",
+        "ua": ""
+    },
+    {
+        "ru": "Он не может мириться с этой несправедливостью",
+        "en": "He can't put up with this injustice",
+        "ua": ""
+    },
+    {
+        "ru": "Прежде всего я хотел бы побывать здесь",
+        "en": "I'd like to get around here first of all",
+        "ua": ""
+    },
+    {
+        "ru": "Она спустилась по лестнице",
+        "en": "She went down the stairs",
+        "ua": ""
+    },
+    {
+        "ru": "Довольно легко обойти этот город",
+        "en": "It's pretty easy to get round this town",
+        "ua": ""
+    },
+    {
+        "ru": "Он надел очень теплое пальто",
+        "en": "He put on a very warm coat",
+        "ua": ""
+    },
+    {
+        "ru": "Он отложил поход в спортзал",
+        "en": "He put off going to the gym",
+        "ua": ""
+    },
+    {
+        "ru": "Его родители отсутствовали на прошлой неделе",
+        "en": "His parents were away last week",
+        "ua": ""
+    },
+    {
+        "ru": "Он все время унижает ее, и это действительно раздражает ее",
+        "en": "He puts her down all the time and it really annoys her",
+        "ua": ""
+    },
+    {
+        "ru": "Детям только что сказали убрать свои игрушки",
+        "en": "The children have just been told to put away their toys",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нужно убедиться, что я все сохранил",
+        "en": "I need to make sure that I backed up everything",
+        "ua": ""
+    },
+    {
+        "ru": "Они приняли решение закрыть фабрику",
+        "en": "They made a decision to close down the factory",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь отбросить все свои сомнения",
+        "en": "You can put all your doubts aside",
+        "ua": ""
+    },
+    {
+        "ru": "Вторая Мировая война вспыхнула в 1939 году",
+        "en": "The Second World War broke out in 1939",
+        "ua": ""
+    },
+    {
+        "ru": "Это требует дополнительных усилий",
+        "en": "It calls for extra efforts",
+        "ua": ""
+    },
+    {
+        "ru": "Она нарядилась для вечеринки",
+        "en": "She dressed up for the party",
+        "ua": ""
+    },
+    {
+        "ru": "Убедись, что ты сохранил все",
+        "en": "Make sure you've backed up everything",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе следует нарядиться для вечеринки",
+        "en": "You should dress up for the party",
+        "ua": ""
+    },
+    {
+        "ru": "Пойдем со мной",
+        "en": "Come along with me",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь вернуть мне мой мобильный телефон?",
+        "en": "Can you give me back my mobile phone?",
+        "ua": ""
+    },
+    {
+        "ru": "Некоторые офисные работники небрежно одеваются по пятницам",
+        "en": "Some office workers dress down on Fridays",
+        "ua": ""
+    },
+    {
+        "ru": "Она часто небрежно одевается",
+        "en": "She often dresses down",
+        "ua": ""
+    },
+    {
+        "ru": "Я приду немного позже",
+        "en": "I will come along a bit later",
+        "ua": ""
+    },
+    {
+        "ru": "Он в основном имеет дело с поставщиками",
+        "en": "He mostly deals with suppliers",
+        "ua": ""
+    },
+    {
+        "ru": "Я зарегистрировался в отеле",
+        "en": "I checked in at the hotel",
+        "ua": ""
+    },
+    {
+        "ru": "Мы готовы двигаться вперед",
+        "en": "We are ready to move forward",
+        "ua": ""
+    },
+    {
+        "ru": "Ты хочешь пойти вместе со мной?",
+        "en": "Do you want to come along?",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь пойти вместе с нами сейчас или позже",
+        "en": "You can come along now or later",
+        "ua": ""
+    },
+    {
+        "ru": "Ты должен вернуть эти деньги",
+        "en": "You must give back this money",
+        "ua": ""
+    },
+    {
+        "ru": "Пожар начался внезапно",
+        "en": "The fire broke out suddenly",
+        "ua": ""
+    },
+    {
+        "ru": "Он вернул ей эту книгу",
+        "en": "He gave this book back to her",
+        "ua": ""
+    },
+    {
+        "ru": "Во сколько он будет выселяться?",
+        "en": "What time will he check out?",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно немного успокоиться",
+        "en": "You need to calm down a bit",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно успокоиться и посмотреть на это более объективно",
+        "en": "You need to calm down and look at it more objectively",
+        "ua": ""
+    },
+    {
+        "ru": "Он решил надеть свою лучшую одежду для такого особого случая",
+        "en": "He decided to put on his best clothes for such a special occasion",
+        "ua": ""
+    },
+    {
+        "ru": "Он сказал, что никогда меня не подведет",
+        "en": "He said that he would never let me down",
+        "ua": ""
+    },
+    {
+        "ru": "Не пей это молоко, потому что оно испортилось!",
+        "en": "Don't drink this milk because it's gone off!",
+        "ua": ""
+    },
+    {
+        "ru": "Я хотел бы отметить, что это заслуживает нашего внимания",
+        "en": "I'd like to point out that it is worth our attention",
+        "ua": ""
+    },
+    {
+        "ru": "Он надел свой лучший костюм для такого важного события",
+        "en": "He put on his best suit for such an important occasion",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю над этим в течение последних двадцати минут",
+        "en": "I have been thinking it over for the last twenty minutes",
+        "ua": ""
+    },
+    {
+        "ru": "В последнее время цена на нефть снизилась более чем на тридцать процентов",
+        "en": "The price of oil has gone down by over thirty per cent recently",
+        "ua": ""
+    },
+    {
+        "ru": "Это хорошо известный факт, что время летит так быстро",
+        "en": "It's a well-known fact that time goes by so fast",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хотел бы отметить, что так много людей недооценивают важность этой вещи",
+        "en": "I'd just like to point out that so many people underestimate the importance of this thing",
+        "ua": ""
+    },
+    {
+        "ru": "В прошлом году стоимость этой квартиры выросла на десять процентов",
+        "en": "The cost of this apartment went up by ten per cent last year",
+        "ua": ""
+    },
+    {
+        "ru": "Если тебе нужно продвигаться вперед в своей карьере, ты должен стараться все время делать все возможное",
+        "en": "If you need to get ahead in your career, you need to try to do your best all the time",
+        "ua": ""
+    },
+    {
+        "ru": "Стоимость этого дома в последнее время снизилась на двадцать процентов",
+        "en": "The cost of this house has gone down by twenty per cent recently",
+        "ua": ""
+    },
+    {
+        "ru": "Когда самолет взлетит?",
+        "en": "When will the plane take off?",
+        "ua": ""
+    },
+    {
+        "ru": "Цена упала довольно неожиданно",
+        "en": "The price went down quite unexpectedly",
+        "ua": ""
+    },
+    {
+        "ru": "Ты уже повесил это на стену?",
+        "en": "Have you already put it up on the wall?",
+        "ua": ""
+    },
+    {
+        "ru": "Как долго отсутствовали твои родители?",
+        "en": "How long were your parents away?",
+        "ua": ""
+    },
+    {
+        "ru": "Я тебя не подведу",
+        "en": "I won't let you down",
+        "ua": ""
+    },
+    {
+        "ru": "Я занимаюсь разными видами спорта",
+        "en": "I go in for different kinds of sport",
+        "ua": ""
+    },
+    {
+        "ru": "Я знаю, что он никогда нас не подведет",
+        "en": "I know that he will never let us down",
+        "ua": ""
+    },
+    {
+        "ru": "Я подумаю над вопросом",
+        "en": "I will think over the matter",
+        "ua": ""
+    },
+    {
+        "ru": "Ми отложили обсуждение тех вещей",
+        "en": "We put off discussing those things",
+        "ua": ""
+    },
+    {
+        "ru": "Еда может испортиться",
+        "en": "The food can go off",
+        "ua": ""
+    },
+    {
+        "ru": "На такую низкую зарплату почти невозможно выжить",
+        "en": "It's almost impossible to get by on such a low salary",
+        "ua": ""
+    },
+    {
+        "ru": "Эти деревья были срублены",
+        "en": "These trees were cut down",
+        "ua": ""
+    },
+    {
+        "ru": "Они провели опрос",
+        "en": "They carried out a survey",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно сыт всем этим по горло",
+        "en": "I'm really fed up with all this",
+        "ua": ""
+    },
+    {
+        "ru": "Он сказал ей взбодриться",
+        "en": "He told her to cheer up",
+        "ua": ""
+    },
+    {
+        "ru": "Я списал его плохое настроение на усталость",
+        "en": "I put his bad mood down to tiredness",
+        "ua": ""
+    },
+    {
+        "ru": "Он думает, что она попала в беду",
+        "en": "He thinks she got into trouble",
+        "ua": ""
+    },
+    {
+        "ru": "Он справился с гриппом",
+        "en": "He got over the flu",
+        "ua": ""
+    },
+    {
+        "ru": "Он решил сократить потребление алкоголя",
+        "en": "He decided to cut down on drinking alcohol",
+        "ua": ""
+    },
+    {
+        "ru": "Я не могу понять, что она говорит",
+        "en": "I can't make out what she is saying",
+        "ua": ""
+    },
+    {
+        "ru": "Я заберу его после школы",
+        "en": "I will pick him up after school",
+        "ua": ""
+    },
+    {
+        "ru": "Он потушил огонь",
+        "en": "He put out the fire",
+        "ua": ""
+    },
+    {
+        "ru": "Я списал это на его лень",
+        "en": "I put it down to his laziness",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно сыт этим по горло",
+        "en": "I am really fed up with it",
+        "ua": ""
+    },
+    {
+        "ru": "Почему мы не можем на это рассчитывать?",
+        "en": "Why can't we count on it?",
+        "ua": ""
+    },
+    {
+        "ru": "Я решил продолжать это делать",
+        "en": "I made up my mind to go on doing it",
+        "ua": ""
+    },
+    {
+        "ru": "Он ушел от толпы",
+        "en": "He got away from the crowd",
+        "ua": ""
+    },
+    {
+        "ru": "Я решил сесть, потому что я очень устал",
+        "en": "I decided to sit down because I was very tired",
+        "ua": ""
+    },
+    {
+        "ru": "Он потушил сигарету",
+        "en": "He put out a cigarette",
+        "ua": ""
+    },
+    {
+        "ru": "Она справляется с этой болезнью",
+        "en": "She is getting over this illness",
+        "ua": ""
+    },
+    {
+        "ru": "Я не могу понять, что происходит",
+        "en": "I can't make out what is going on",
+        "ua": ""
+    },
+    {
+        "ru": "Он попал в беду",
+        "en": "He got into trouble",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно знать, что ты можешь рассчитывать на мою помощь",
+        "en": "You need to know that you can count on my help",
+        "ua": ""
+    },
+    {
+        "ru": "Он скоро с этим справится",
+        "en": "He will get over it soon",
+        "ua": ""
+    },
+    {
+        "ru": "Он отдал свои старые книги",
+        "en": "He gave away his old books",
+        "ua": ""
+    },
+    {
+        "ru": "Грабителям не удалось уйти",
+        "en": "The robbers didn't manage to get away",
+        "ua": ""
+    },
+    {
+        "ru": "Он так невнимателен, и я списал это на его усталость",
+        "en": "He is so inattentive and I put it down to his tiredness",
+        "ua": ""
+    },
+    {
+        "ru": "Почему мы не можем рассчитывать на эту поддержку?",
+        "en": "Why can't we count on this support?",
+        "ua": ""
+    },
+    {
+        "ru": "Ученый выдвинул очень интересную идею",
+        "en": "The scientist put forward a very interesting idea",
+        "ua": ""
+    },
+    {
+        "ru": "Студент встал и задал ей вопрос",
+        "en": "A student stood up and asked her a question",
+        "ua": ""
+    },
+    {
+        "ru": "Как он живет на такой маленький доход?",
+        "en": "How does he get by on such a small income?",
+        "ua": ""
+    },
+    {
+        "ru": "Она подобрала монету",
+        "en": "She picked up a coin",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы на это не рассчитывал на твоем месте",
+        "en": "I wouldn't count on it in your place",
+        "ua": ""
+    },
+    {
+        "ru": "Как вор проник в дом?",
+        "en": "How did the thief get into the house?",
+        "ua": ""
+    },
+    {
+        "ru": "Она выдумала эту историю",
+        "en": "She made up this story",
+        "ua": ""
+    },
+    {
+        "ru": "Так много деревьев вырубается каждый день",
+        "en": "So many trees are cut down every day",
+        "ua": ""
+    },
+    {
+        "ru": "Я списал эту неудачу на его неопытность",
+        "en": "I put down this failure to his inexperience",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно сыт по горло этими ложными обещаниями",
+        "en": "I am really fed up with these false promises",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно составить свои собственные предложения",
+        "en": "You need to make up your own sentences",
+        "ua": ""
+    },
+    {
+        "ru": "Он подобрал банкноту",
+        "en": "He picked up a banknote",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хотел бы отметить, что это была моя идея",
+        "en": "I'd just like to point out that it was my idea",
+        "ua": ""
+    },
+    {
+        "ru": "Он отметил, что это была отличная идея",
+        "en": "He pointed out that it was a great idea",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что он может меня подвести",
+        "en": "I think he can let me down",
+        "ua": ""
+    },
+    {
+        "ru": "Мы не хотели, чтобы он нас подвел",
+        "en": "We didn't want him to let us down",
+        "ua": ""
+    },
+    {
+        "ru": "Игра откладывается на два дня",
+        "en": "The game is put off for two days",
+        "ua": ""
+    },
+    {
+        "ru": "Нам следует отложить нашу встречу на некоторое время",
+        "en": "We should put off our meeting for some time",
+        "ua": ""
+    },
+    {
+        "ru": "Она сказала, что он никогда не подведет тебя",
+        "en": "She said that he would never let you down",
+        "ua": ""
+    },
+    {
+        "ru": "Не пей этот сок, потому что он испортился!",
+        "en": "Don't drink this juice because it's gone off!",
+        "ua": ""
+    },
+    {
+        "ru": "Они решили поднять цены",
+        "en": "They decided to put up the prices",
+        "ua": ""
+    },
+    {
+        "ru": "Они не стали снижать цену",
+        "en": "They didn't put down the price",
+        "ua": ""
+    },
+    {
+        "ru": "Самолет уже взлетел",
+        "en": "The plane has already taken off",
+        "ua": ""
+    },
+    {
+        "ru": "Когда самолет взлетит?",
+        "en": "When will the plane take off?",
+        "ua": ""
+    },
+    {
+        "ru": "Мы все видим, что цена поднимается",
+        "en": "We all see that the price is going up",
+        "ua": ""
+    },
+    {
+        "ru": "Когда цена снизится?",
+        "en": "When will the price go down?",
+        "ua": ""
+    },
+    {
+        "ru": "Я занимаюсь спортом, потому что хочу быть здоровым",
+        "en": "I go in for sports because I want to be healthy",
+        "ua": ""
+    },
+    {
+        "ru": "Она занимается боксом",
+        "en": "She goes in for boxing",
+        "ua": ""
+    },
+    {
+        "ru": "Электричество отключено?",
+        "en": "Is the electricity cut off?",
+        "ua": ""
+    },
+    {
+        "ru": "Поставка газа в эту страну прекращена",
+        "en": "The gas supply to this country is cut off",
+        "ua": ""
+    },
+    {
+        "ru": "Они больше не могут мириться с нынешней ситуацией",
+        "en": "They can't put up with the current situation any longer",
+        "ua": ""
+    },
+    {
+        "ru": "Чем больше мы живем, тем быстрее летит время",
+        "en": "The more we live, the faster time goes by",
+        "ua": ""
+    },
+    {
+        "ru": "Компания была вынуждена поднять цену",
+        "en": "The company was forced to put up the price",
+        "ua": ""
+    },
+    {
+        "ru": "Она говорит, что не хочет мириться с его грубым поведением",
+        "en": "She says that she doesn't want to put up with his rude behaviour",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто хотел бы отметить, что это была не моя идея",
+        "en": "I'd just like to point out that it wasn't my idea",
+        "ua": ""
+    },
+    {
+        "ru": "Он был отрезан от других людей",
+        "en": "He was cut off from other people",
+        "ua": ""
+    },
+    {
+        "ru": "Время шло так медленно, пока мы ждали этого",
+        "en": "Time was going by so slowly while we were waiting for it",
+        "ua": ""
+    },
+    {
+        "ru": "Сложнее обойти город без машины",
+        "en": "It's more difficult to get around the city without a car",
+        "ua": ""
+    },
+    {
+        "ru": "Она сказала, что ей понадобится некоторое время, чтобы обдумать их предложение",
+        "en": "She said that she would need some time to think over their proposal",
+        "ua": ""
+    },
+    {
+        "ru": "Я решил попытаться сделать это еще один раз",
+        "en": "I made up my mind to try to do it one more time",
+        "ua": ""
+    },
+    {
+        "ru": "Я уже принял решение",
+        "en": "I have already made up my mind",
+        "ua": ""
+    },
+    {
+        "ru": "Он потушил огонь?",
+        "en": "Did he put out the fire?",
+        "ua": ""
+    },
+    {
+        "ru": "У них ушло около трех часов, чтобы потушить пожар",
+        "en": "It took them about three hours to put out the fire",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь соединить меня с менеджером?",
+        "en": "Can you put me through to the manager?",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы хотел, чтобы ты соединил меня с директором",
+        "en": "I would like you to put me through to the director",
+        "ua": ""
+    },
+    {
+        "ru": "Я заберу тебя после школы",
+        "en": "I will pick you up after school",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь соединить меня с ней?",
+        "en": "Can you put me through to her?",
+        "ua": ""
+    },
+    {
+        "ru": "Я еще не связался с ним",
+        "en": "I haven't been put through to him yet",
+        "ua": ""
+    },
+    {
+        "ru": "Лил дождь, и я очень быстро промок",
+        "en": "The rain was pouring down and I got soaked very quickly",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь догадаться, на кого я наткнулся по дороге на работу?",
+        "en": "Can you guess who I bumped into on my way to work?",
+        "ua": ""
+    },
+    {
+        "ru": "Правительству давно пора покончить с коррупцией и бюрократией",
+        "en": "It is high time the goverment clamped down on corruption and bureaucracy",
+        "ua": ""
+    },
+    {
+        "ru": "С какими трудностями ты столкнулся, пока ты решал это вопрос?",
+        "en": "What difficulties did you run up against while you were tackling this issue?",
+        "ua": ""
+    },
+    {
+        "ru": "Было объявлено, что правительство будет расправляться с нелегальной иммиграцией, но это вызвало новые беспорядки",
+        "en": "It was announced that the government would crack down on illegal immigration but it caused new riots",
+        "ua": ""
+    },
+    {
+        "ru": "Что я пытаюсь донести, так это, что мы не можем быть безразличны к тому, что происходит",
+        "en": "What I am trying to get across is that we can't be indifferent to what is going on",
+        "ua": ""
+    },
+    {
+        "ru": "Если быть довольно откровенным, я не могу понять, что здесь происходит",
+        "en": "To be quite frank, I can't figure out what is going on here",
+        "ua": ""
+    },
+    {
+        "ru": "Я столкнулся с ним, пока я гулял в парке",
+        "en": "I ran across him while I was walking in the park",
+        "ua": ""
+    },
+    {
+        "ru": "Я извинился за то, что опоздал на встречу, потому что я застрял в ужасной пробке",
+        "en": "I apologised for coming late for the meeting because I had been held up in an awful traffic jam",
+        "ua": ""
+    },
+    {
+        "ru": "Правительство намерено покончить с уклонением от уплаты налогов",
+        "en": "The government is determined to clamp down on tax evasion",
+        "ua": ""
+    },
+    {
+        "ru": "Мы столкнулись с очень серьезными препятствиями в действительности",
+        "en": "We came up against very serious obstacles in reality",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нужно пробежаться по этим документам, преждде чем подписывать их",
+        "en": "I need to run through these documents before signing them",
+        "ua": ""
+    },
+    {
+        "ru": "Лекция была настолько скучной, что он задремал",
+        "en": "The lecture was so boring that he nodded off",
+        "ua": ""
+    },
+    {
+        "ru": "Включи это в розетку",
+        "en": "Plug it into the socket",
+        "ua": ""
+    },
+    {
+        "ru": "Давай, для начала, пробежимся по этим документам!",
+        "en": "Let's run through these documents for a start!",
+        "ua": ""
+    },
+    {
+        "ru": "Есть определенные преимущества занятий в тренажерном зале",
+        "en": "There are certain benefits of working out at the gym",
+        "ua": ""
+    },
+    {
+        "ru": "Правительство решило расправиться с нелегальной иммиграцией",
+        "en": "The government decided to crack down on illegal immigration",
+        "ua": ""
+    },
+    {
+        "ru": "My battery is low so I need to plug it in",
+        "en": "Моя батарея разряжена, поэтому мне нужно подключить ее к сети",
+        "ua": ""
+    },
+    {
+        "ru": "I can't work it out",
+        "en": "Я не могу этого понять",
+        "ua": ""
+    },
+    {
+        "ru": "Я постараюсь донести это сообщение до всех",
+        "en": "I will try to get this message across",
+        "ua": ""
+    },
+    {
+        "ru": "На самом деле, я столкнулся с большим количеством проблем",
+        "en": "Actually, I came up against lots of problems",
+        "ua": ""
+    },
+    {
+        "ru": "На твоем месте, я бы не стал останавливаться на прошлом",
+        "en": "If I were you, I wouldn't dwell on the past",
+        "ua": ""
+    },
+    {
+        "ru": "Правительству следует прекратить безработицу",
+        "en": "The government should clamp down on unemployment",
+        "ua": ""
+    },
+    {
+        "ru": "Давно пора правительству расправиться с бюрократией и коррупцией",
+        "en": "It is high time the government cracked down on bureaucracy and corruption",
+        "ua": ""
+    },
+    {
+        "ru": "Я постараюсь донести суть",
+        "en": "I will try to get the point across",
+        "ua": ""
+    },
+    {
+        "ru": "Он пытался донести свою идею, но мы все равно не могли ее понять",
+        "en": "He tried to get his idea across but we couldn't understand it anyway",
+        "ua": ""
+    },
+    {
+        "ru": "Он задремал во время фильма",
+        "en": "He nodded off during the movie",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык иметь дело с разного рода людьми",
+        "en": "I am used to dealing with different kinds of people",
+        "ua": ""
+    },
+    {
+        "ru": "Полиция подавила протестующих",
+        "en": "The police clamped down on the protestors",
+        "ua": ""
+    },
+    {
+        "ru": "Когда я выглянул в окно, лил дождь",
+        "en": "When I looked out of the window, it was pouring down",
+        "ua": ""
+    },
+    {
+        "ru": "Компания была вынуждена списать те долги",
+        "en": "The company was forced to write off those debts",
+        "ua": ""
+    },
+    {
+        "ru": "Я хотел бы остановиться на этой проблеме",
+        "en": "I'd like to dwell on this problem",
+        "ua": ""
+    },
+    {
+        "ru": "Я наткнулся на него по дороге домой",
+        "en": "I bumped into him on the way home",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно убедиться, что принтер подключен к сети",
+        "en": "You need to make sure that the printer is plugged in",
+        "ua": ""
+    },
+    {
+        "ru": "Страна не согласилась списать такие огромные долги",
+        "en": "The country didn't agree to write off such huge debts",
+        "ua": ""
+    },
+    {
+        "ru": "Лекция была настолько скучной, что я задремал",
+        "en": "The lecture was so boring that I dozed off",
+        "ua": ""
+    },
+    {
+        "ru": "Мне действительно нравится заниматься в тренажерном зале",
+        "en": "I really like working out at the gym",
+        "ua": ""
+    },
+    {
+        "ru": "Я опоздал на встречу, потому что застрял в пробке",
+        "en": "I was late for the meeting because I had been held up in a traffic jam",
+        "ua": ""
+    },
+    {
+        "ru": "Я столкнулся с ним на конференции",
+        "en": "I ran across him at the conference",
+        "ua": ""
+    },
+    {
+        "ru": "Как ты можешь видеть, я пытаюсь донести очень важный момент",
+        "en": "As you can see, I'm trying to put across a very important point",
+        "ua": ""
+    },
+    {
+        "ru": "Я застрял в пробке",
+        "en": "I was held up in a traffic jam",
+        "ua": ""
+    },
+    {
+        "ru": "Я случайно наткнулся на нее в супермаркете",
+        "en": "I accidentally bumped into her at the supermarket",
+        "ua": ""
+    },
+    {
+        "ru": "Я столкнулся с одним из своих старых друзей, когда я шел на вечеринку",
+        "en": "I ran across an old friend of mine while I was going to the party",
+        "ua": ""
+    },
+    {
+        "ru": "Я столкнулся с разного рода проблемами",
+        "en": "I ran up against different kinds of problems",
+        "ua": ""
+    },
+    {
+        "ru": "Льет дождь, поэтому нам придется остаться дома",
+        "en": "It is pouring down so we will have to stay at home",
+        "ua": ""
+    },
+    {
+        "ru": "Он, должно быть, задремал во время фильма",
+        "en": "He must have dozed off during the movie",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно включить принтер в розетку",
+        "en": "You need to plug the printer into the socket",
+        "ua": ""
+    },
+    {
+        "ru": "С ним очень легко иметь дело",
+        "en": "He is very easy to deal with",
+        "ua": ""
+    },
+    {
+        "ru": "Я столкнулся с множеством трудностей на своем пути",
+        "en": "I ran up lots of difficulties on my way",
+        "ua": ""
+    },
+    {
+        "ru": "Когда я вошел в кухню, он поглощал мой ужин",
+        "en": "When I entered the kitchen, he was gobbling up my dinner",
+        "ua": ""
+    },
+    {
+        "ru": "Дети проглотили все мои сладости",
+        "en": "The children gobbled up all my sweets",
+        "ua": ""
+    },
+    {
+        "ru": "Я представить себе не мог, что мой план провалится",
+        "en": "I couldn't imagine that my plan would fall through",
+        "ua": ""
+    },
+    {
+        "ru": "На случай если этот план провалится, у нас есть еще один",
+        "en": "In case this plan falls through, we have another one",
+        "ua": ""
+    },
+    {
+        "ru": "Она поживает очень хорошо",
+        "en": "She is getting on very well",
+        "ua": ""
+    },
+    {
+        "ru": "Я вижу, он поживает довольно хорошо",
+        "en": "I see he is getting on pretty well",
+        "ua": ""
+    },
+    {
+        "ru": "Почему он отклонил твое предложение?",
+        "en": "Why did he turn down your offer?",
+        "ua": ""
+    },
+    {
+        "ru": "Честно говоря, я не мог отклонить такое заманчивое предложение",
+        "en": "To be honest, I couldn't turn down such a tempting offer",
+        "ua": ""
+    },
+    {
+        "ru": "Ты не должен отступать, что бы ни случилось",
+        "en": "You mustn't back down no matter what happens",
+        "ua": ""
+    },
+    {
+        "ru": "Ни один из игроков не хотел отступать",
+        "en": "Neither of the players wanted to back down",
+        "ua": ""
+    },
+    {
+        "ru": "Я взял такси, потому что моя машина сломалась",
+        "en": "I took a taxi because my car had broken down",
+        "ua": ""
+    },
+    {
+        "ru": "Я не ожидал, что машина сломается во время поездки",
+        "en": "I didn't expect that the car would break down during the trip",
+        "ua": ""
+    },
+    {
+        "ru": "Ее слова вызвали очень серьезный конфликт",
+        "en": "Her words sparked off a very serious conflict",
+        "ua": ""
+    },
+    {
+        "ru": "Он постарается сделать все возможное, чтобы устранить эту проблему как можно скорее",
+        "en": "He will try to do his best to iron out this problem as soon as possible",
+        "ua": ""
+    },
+    {
+        "ru": "Мы уже устранили все трудности на нашем пути",
+        "en": "We have already ironed out all the difficulties on our way",
+        "ua": ""
+    },
+    {
+        "ru": "К сожалению, так много вещей в нашем современном мире сводятся к деньгам",
+        "en": "Unfortunately, so many things in our modern world come down to money",
+        "ua": ""
+    },
+    {
+        "ru": "Все наши разговоры сводятся к одному и тому же",
+        "en": "All our conversations come down to the same thing",
+        "ua": ""
+    },
+    {
+        "ru": "Может быть видно, что это сводится к нулю",
+        "en": "It can be seen that it boils down to nothing",
+        "ua": ""
+    },
+    {
+        "ru": "Как ни удивительно, никто не мог объяснить исчезновение этих денег",
+        "en": "Surprising as it may seem, no one could account for the disappearance of this money",
+        "ua": ""
+    },
+    {
+        "ru": "Ей пришло в голову, что она оставила дверь незапертой",
+        "en": "It occurred to her that she had left the door unlocked",
+        "ua": ""
+    },
+    {
+        "ru": "Финансовое положение компании наконец-то налаживается",
+        "en": "The financial situation of the company is looking up at last",
+        "ua": ""
+    },
+    {
+        "ru": "Мне наконец удалось сдать экзамен после того, как я неделями усердно учился",
+        "en": "I finally managed to pass the exam after slogging away at my studies for weeks",
+        "ua": ""
+    },
+    {
+        "ru": "К чему это все сводится, так это к необходимости более эффективного управления нашим временем",
+        "en": "What is all comes down to is the necessity of managing our time more effectively",
+        "ua": ""
+    },
+    {
+        "ru": "Ему сказали сократить потребление жирной пищи и шоколада",
+        "en": "He was told to cut down on fatty foods and chocolate",
+        "ua": ""
+    },
+    {
+        "ru": "Нам нужно устранить некоторые проблемы в самом начале",
+        "en": "We need to iron out some problems in the beginning",
+        "ua": ""
+    },
+    {
+        "ru": "Если ты не знаешь, что означает следующее выражение, посмотри его в словаре",
+        "en": "If you don't know what the following expression means, look it up in a dictionary",
+        "ua": ""
+    },
+    {
+        "ru": "Мне кажется, что ни один из них не согласится отступить в этом вопросе",
+        "en": "It seems to me that neither of them will agree to back down on this issue",
+        "ua": ""
+    },
+    {
+        "ru": "Такие жесткие реформы вызвали серию протестов",
+        "en": "Such tough reforms sparked off a series of protests",
+        "ua": ""
+    },
+    {
+        "ru": "К его удивлению, сделка провалилась",
+        "en": "The deal fell through to his astonishment",
+        "ua": ""
+    },
+    {
+        "ru": "Я так счастлив видеть, что дела налаживаются, и это действительно трудно не видеть",
+        "en": "I am so happy to see that things are looking up and it is really hard not to see it",
+        "ua": ""
+    },
+    {
+        "ru": "Арендная плата поглощает почти половину их заработков",
+        "en": "The rent gobbles up almost half of their earnings",
+        "ua": ""
+    },
+    {
+        "ru": "Я не имею ни малейшего представления, почему она отклонила это приглашение",
+        "en": "I don't have the faintest idea why she turned down this invitation",
+        "ua": ""
+    },
+    {
+        "ru": "К всеобщему удивлению, его машина перегрелась и сломалась",
+        "en": "To everyone's surprise, his car overheated and broke down",
+        "ua": ""
+    },
+    {
+        "ru": "Ее попросили сделать музыку потише, потому что она действительно была слишком громкой",
+        "en": "She was asked to turn down the music because it was really too loud",
+        "ua": ""
+    },
+    {
+        "ru": "К чему это все сводится, так это к их неспособности принять надлежащие меры в такой ситуации",
+        "en": "What it all boils down to is their inability to take proper measures in such a situation",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно соблюдать сбалансированную диету и сократить потребление жирной пищи, такой как торты и печенье",
+        "en": "You need to keep a balanced diet and cut down on fatty foods like cakes and biscuits",
+        "ua": ""
+    },
+    {
+        "ru": "Посмотреть значение этого слова в словаре было бы лучшей идеей",
+        "en": "Looking up the meaning of this word in a dictionary would be the best idea",
+        "ua": ""
+    },
+    {
+        "ru": "Если у тебя мало времени, ты также можешь освежить эту тему через Интернет",
+        "en": "If you are short of time, you can also brush up on this subject via the Internet",
+        "ua": ""
+    },
+    {
+        "ru": "Я был увлечен красотой этой музыки",
+        "en": "I was carried away by the beauty of this music",
+        "ua": ""
+    },
+    {
+        "ru": "Как ты можешь объяснить тот факт, что так много проблем до сих пор не решены?",
+        "en": "How can you account for the fact that so many problems are still unsolved?",
+        "ua": ""
+    },
+    {
+        "ru": "Этот спектакль совсем не оправдал наших ожиданий",
+        "en": "This performance didn't live up to our expectations at all",
+        "ua": ""
+    },
+    {
+        "ru": "Он был увлечен ее красотой",
+        "en": "He was carried out by her beauty",
+        "ua": ""
+    },
+    {
+        "ru": "Он поглотил все бутерброды",
+        "en": "He gobbled up all the sandwiches",
+        "ua": ""
+    },
+    {
+        "ru": "Ты мог бы убавить звук?",
+        "en": "Could you turn down the sound?",
+        "ua": ""
+    },
+    {
+        "ru": "Честно говоря, я увлекся ее энтузиазмом",
+        "en": "To be perfectly honest, I got carried away by her enthusiasm",
+        "ua": ""
+    },
+    {
+        "ru": "Мы не могли сесть в автобус, потому что он был полон",
+        "en": "We couldn't get on the bus because it was full",
+        "ua": ""
+    },
+    {
+        "ru": "Эта реформа вызвала различные социальные конфликты",
+        "en": "This reform sparked off different social conflicts",
+        "ua": ""
+    },
+    {
+        "ru": "В конце концов ей пришлось отступить и признать, что она была неправа",
+        "en": "She eventually had to back down and admit that she was wrong",
+        "ua": ""
+    },
+    {
+        "ru": "Он был увлечен музыкой",
+        "en": "He was carried away by the music",
+        "ua": ""
+    },
+    {
+        "ru": "Я совершенно уверен, что скоро дела начнут налаживаться",
+        "en": "I am entirely sure that things will start looking up soon",
+        "ua": ""
+    },
+    {
+        "ru": "Я сел в автобус, но там было слишком много людей",
+        "en": "I got on the bus but there were too many people",
+        "ua": ""
+    },
+    {
+        "ru": "Мне нужно освежить свой английский перед поездкой в Соединенные Штаты",
+        "en": "I need to brush up on my English before going to the United States",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе нужно сократить количество сладостей, которые ты ешь",
+        "en": "You need to cut down on the number of sweets you eat",
+        "ua": ""
+    },
+    {
+        "ru": "Я прекрасно осознаю тот факт, что обычно все сводится к деньгам",
+        "en": "I am perfectly aware of the fact that it usually comes down to money",
+        "ua": ""
+    },
+    {
+        "ru": "Меня действительно поражает, что они отклонили такое приглашение",
+        "en": "It really strikes me that they turned down such an invitation",
+        "ua": ""
+    },
+    {
+        "ru": "Ты мог бы немного убавить громкость радио?",
+        "en": "Could you turn down the radio a little?",
+        "ua": ""
+    },
+    {
+        "ru": "Эти траты поглощают огромную часть моей зарплаты",
+        "en": "These spendings gobble up a huge part of my salary",
+        "ua": ""
+    },
+    {
+        "ru": "Этот новый закон вызвал многочисленные протесты по всей стране",
+        "en": "This new law sparked off numerous protests all over the country",
+        "ua": ""
+    },
+    {
+        "ru": "Мне приходит в голову, что это совершенно неправильно",
+        "en": "It occurs to me that it is totally wrong",
+        "ua": ""
+    },
+    {
+        "ru": "Как ты можешь объяснить эти внезапные перемены?",
+        "en": "How can you account for these sudden changes?",
+        "ua": ""
+    },
+    {
+        "ru": "Никто не ожидал, что машина вдруг сломается",
+        "en": "No one expected that the car would break down all of a sudden",
+        "ua": ""
+    },
+    {
+        "ru": "Мне вдруг пришло в голову, что я где-то это слышал",
+        "en": "It suddenly occured to me that I had heard it somewhere",
+        "ua": ""
+    },
+    {
+        "ru": "В данный момент я усердно тружусь над этой задачей",
+        "en": "I am slogging away at this task at the moment",
+        "ua": ""
+    },
+    {
+        "ru": "Как ты можешь объяснить пропажу денег?",
+        "en": "How can you account for the missing money?",
+        "ua": ""
+    },
+    {
+        "ru": "Он опоздал на встречу, потому что его машина сломалась",
+        "en": "He was late for the meeting because his car had broken down",
+        "ua": ""
+    },
+    {
+        "ru": "К сожалению, этот спектакль совсем не оправдал моих ожиданий",
+        "en": "Unfortunately, this performance didn't live up to my expectations at all",
+        "ua": ""
+    },
+    {
+        "ru": "Вечеринка не оправдала моих ожиданий",
+        "en": "The party didn't live up to my expectations",
+        "ua": ""
+    },
+    {
+        "ru": "Давай надеяться, что дела начнут налаживаться",
+        "en": "Let's hope that things will start looking up",
+        "ua": ""
+    },
+    {
+        "ru": "Наш первоначальный план полностью провалился",
+        "en": "Our initial plan fell through completely",
+        "ua": ""
+    },
+    {
+        "ru": "Он говорит, что эта проблема сводится к деньгам",
+        "en": "He says that this problem comes down to money",
+        "ua": ""
+    },
+    {
+        "ru": "Честно говоря, я не мог отклонить такое фантастическое предложение работы",
+        "en": "Frankly speaking, I couldn't turn down such a fantastic job offer",
+        "ua": ""
+    },
+    {
+        "ru": "Я постараюсь устранить эту проблему как можно скорее",
+        "en": "I will try to iron out this problem as soon as possible",
+        "ua": ""
+    },
+    {
+        "ru": "Она хотела бы сократить потребление шоколада",
+        "en": "She'd like to cut down on chocolate",
+        "ua": ""
+    },
+    {
+        "ru": "К чему это обычно сводится?",
+        "en": "What does it usually boil down to?",
+        "ua": ""
+    },
+    {
+        "ru": "В целом, их план полностью провалился",
+        "en": "On the whole, their plan fell through completely",
+        "ua": ""
+    },
+    {
+        "ru": "Я просто стараюсь усердно трудиться, чтоы добиться успеха",
+        "en": "I just try to slog away to succeed",
+        "ua": ""
+    },
+    {
+        "ru": "Нам нужно сгладить последние детали",
+        "en": "We need to iron out the final details",
+        "ua": ""
+    },
 ]
