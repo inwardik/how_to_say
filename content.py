@@ -22364,4 +22364,874 @@ sentences = [
         "en": "We need to iron out the final details",
         "ua": ""
     },
+    {
+        "ru": "Почему она кричит на него таким злым голосом?",
+        "en": "Why is she shouting at him in such an angry voice?",
+        "ua": ""
+    },
+    {
+        "ru": "Ты выглядишь очень довольным своим результатом",
+        "en": "You look very content with your result",
+        "ua": ""
+    },
+    {
+        "ru": "Как тебе удалось войти в комнату?",
+        "en": "How did you manage to enter the room?",
+        "ua": ""
+    },
+    {
+        "ru": "Я был действительно поражен результатом",
+        "en": "I was really astonished by the result",
+        "ua": ""
+    },
+    {
+        "ru": "Я склонен верить, что это имеет большое значение",
+        "en": "I am inclined to believe that it is of great importance",
+        "ua": ""
+    },
+    {
+        "ru": "Эта программа совместима с твоим компьютером",
+        "en": "Is this program compatible with your computer?",
+        "ua": ""
+    },
+    {
+        "ru": "Он поглощен книгой",
+        "en": "He is engrossed in the book",
+        "ua": ""
+    },
+    {
+        "ru": "Наш директор настаивает на пунктуальности",
+        "en": "Our director insists on punctuality",
+        "ua": ""
+    },
+    {
+        "ru": "Торт состоит из муки, сахара и яиц",
+        "en": "The cake consists of flour, sugar and eggs",
+        "ua": ""
+    },
+    {
+        "ru": "Она потратила все свои деньги на одежду, которая ей действительно не нужна",
+        "en": "She spent all her money on clothes which she doesn't really need",
+        "ua": ""
+    },
+    {
+        "ru": "Он полностью поглощен фильмом",
+        "en": "He is totally absorbed in the movie",
+        "ua": ""
+    },
+    {
+        "ru": "Компания прекрасно осведомлена об этой проблеме",
+        "en": "The company is perfectly aware of this problem",
+        "ua": ""
+    },
+    {
+        "ru": "Не было необходимости в таких радикальных изменениях",
+        "en": "There was no need for such radical changes",
+        "ua": ""
+    },
+    {
+        "ru": "Он часто Хвастается своими достижениями",
+        "en": "He often boasts about his achievements",
+        "ua": ""
+    },
+    {
+        "ru": "Ему нужно прекратить кричать на детей",
+        "en": "He needs to stop shouting at the children",
+        "ua": ""
+    },
+    {
+        "ru": "Он вложил свои деньги в очень рискованный проект",
+        "en": "He invested his money in a very risky project",
+        "ua": ""
+    },
+    {
+        "ru": "Она очень хороша в английском",
+        "en": "She is very good at English",
+        "ua": ""
+    },
+    {
+        "ru": "Я был удивлен его реакцией на эти слова",
+        "en": "I was surprised by his reaction to these words",
+        "ua": ""
+    },
+    {
+        "ru": "Наша встреча была перенесена на понедельник",
+        "en": "Our meeting was brought forward to Monday",
+        "ua": ""
+    },
+    {
+        "ru": "Встреча была перенесена на более раннее время?",
+        "en": "Was the meeting brought forward?",
+        "ua": ""
+    },
+    {
+        "ru": "Разговор был перенесен на эту неделю",
+        "en": "The conversation was brought forward to this week",
+        "ua": ""
+    },
+    {
+        "ru": "Она вернулась домой",
+        "en": "She went back home",
+        "ua": ""
+    },
+    {
+        "ru": "Мы вернулись назад из-за дождя",
+        "en": "We went back because of the rain",
+        "ua": ""
+    },
+    {
+        "ru": "Он застегнул пуговицы",
+        "en": "He did up the buttons",
+        "ua": ""
+    },
+    {
+        "ru": "Она застегнула куртку",
+        "en": "She did up her jacket",
+        "ua": ""
+    },
+    {
+        "ru": "Он не пошел против своего отца",
+        "en": "He didn't go against his father",
+        "ua": ""
+    },
+    {
+        "ru": "Я думаю, что она не пойдет против меня",
+        "en": "I think that she won't go against me",
+        "ua": ""
+    },
+    {
+        "ru": "Они хотят обмануть ее",
+        "en": "They want to take her in",
+        "ua": ""
+    },
+    {
+        "ru": "Почему эту женщину обманули?",
+        "en": "Why was this woman taken in",
+        "ua": ""
+    },
+    {
+        "ru": "Это было действительно трудно, но он сумел пройти через это",
+        "en": "It was really difficult but he managed to come through",
+        "ua": ""
+    },
+    {
+        "ru": "Я не могу представить, через что она прошла",
+        "en": "I can't imagine what she has come through",
+        "ua": ""
+    },
+    {
+        "ru": "Он предпочитает обедать вне дома",
+        "en": "He prefers to eat out",
+        "ua": ""
+    },
+    {
+        "ru": "Ей нравится питаться вне дома?",
+        "en": "Does she like eating out?",
+        "ua": ""
+    },
+    {
+        "ru": "Давай перейдем к следующим слайдам!",
+        "en": "Let's move on to the next slides!",
+        "ua": ""
+    },
+    {
+        "ru": "Пожалуйста, переходи к заключению!",
+        "en": "Please, move on to the conclusion!",
+        "ua": ""
+    },
+    {
+        "ru": "Он купил старый дом и отремонтировал его",
+        "en": "He bought an old house and did it up",
+        "ua": ""
+    },
+    {
+        "ru": "Она отрмемонтировала свой дом в прошлом году",
+        "en": "She did up her house last year",
+        "ua": ""
+    },
+   {
+        "ru": "Я собираюсь отрмемонтировать свою квартиру",
+        "en": "I'm going to do up my apartment",
+        "ua": ""
+    },
+    {
+        "ru": "Он предпочитает не идти против правил",
+        "en": "He prefers not to go against the rules",
+        "ua": ""
+    },
+   {
+        "ru": "Надеюсь, это вызовет большие улучшения в нашей жизни",
+        "en": "Hopefully, it will bring about big improvements in our life",
+        "ua": ""
+    },
+    {
+        "ru": "Встреча перенесена с 4 на 2 апреля",
+        "en": "The meeting was brought forward from April 4 to April 2",
+        "ua": ""
+    },
+   {
+        "ru": "Ты не можешь представить, через что мне пришлось пройти",
+        "en": "You can't imagine what I've come through",
+        "ua": ""
+    },
+    {
+        "ru": "Материалы были розданы нашим учителем",
+        "en": "The materials were given out by our teacher",
+        "ua": ""
+    },
+   {
+        "ru": "Он не думал, что она может пойти против желаний своего отца",
+        "en": "He didn't think that she could go against her father's wishes",
+        "ua": ""
+    },
+    {
+        "ru": "Я прихожу к выводу, что у нас нет выбора",
+        "en": "I come to the conclusion that we have no choice",
+        "ua": ""
+    },
+   {
+        "ru": "Он прошел через очень сложную операцию",
+        "en": "He came through a very difficult operation",
+        "ua": ""
+    },
+    {
+        "ru": "Этот план был выдвинут руководством компании",
+        "en": "This plan was brought forward by the management of the company",
+        "ua": ""
+    },
+   {
+        "ru": "Я уверен, что он может постоять за себя",
+        "en": "I am sure that he can stand up for himself",
+        "ua": ""
+    },
+    {
+        "ru": "Учитель раздавал экзаменационные работы",
+        "en": "The teacher was giving out the exam papers",
+        "ua": ""
+    },
+   {
+        "ru": "Мы решили вернуться назад из-за дождя",
+        "en": "We decided to go back because of the rain",
+        "ua": ""
+    },
+    {
+        "ru": "Это принесло глубокие изменения в жизни обычных людей",
+        "en": "It brought about profound changes in the lives of ordinary people",
+        "ua": ""
+    },
+   {
+        "ru": "Многие маленькие компании пошли ко дну из-за кризиса",
+        "en": "Many small companies went under because of the crisis",
+        "ua": ""
+    },
+    {
+        "ru": "Когда я увидел его, он раздавал те листовки",
+        "en": "When I saw him, he was giving out those leaflets",
+        "ua": ""
+    },
+   {
+        "ru": "У него не было достаточно мужества, чтобы постоять за свои права",
+        "en": "He didn't have enough courage to stand up for his rights",
+        "ua": ""
+    },
+    {
+        "ru": "Несколько новых интересных предложений были выдвинуты комитетом",
+        "en": "Some new interesting proposals were brought forward by the committee",
+        "ua": ""
+    },
+   {
+        "ru": "Такой формат обучения открывает уникальные возможности для каждого",
+        "en": "This format of education opens up unique opportunities for everyone",
+        "ua": ""
+    },
+    {
+        "ru": "Мы пришли к выводу, что был и другой выход из этой ситуации",
+        "en": "We came to the conclusion that there was another way out of this situation",
+        "ua": ""
+    },
+   {
+        "ru": "Компания пойдет ко дну, если ситуация не улучшится",
+        "en": "The company will go under if the situation doesn't improve",
+        "ua": ""
+    },
+    {
+        "ru": "Это было действительно трудное время, но мне удалось пройти через него",
+        "en": "It was a really tough time but I managed to come through",
+        "ua": ""
+    },
+   {
+        "ru": "Мне очень нравилась моя работа, но пришло время двигаться дальше, чтобы делать карьеру и достигать новых высот",
+        "en": "I really liked my job but it was time to move on to make a career and reach new heights",
+        "ua": ""
+    },
+    {
+        "ru": "Если этот пуловер тебе не подходит, ты имеешь право сдать его обратно",
+        "en": "If this pullover doesn't fit you, you have the right to take it back",
+        "ua": ""
+    },
+   {
+        "ru": "Я полагаю, некоторые люди тратят слишком много денег на питание вне дома",
+        "en": "I guess some people spend too much money on eating out",
+        "ua": ""
+    },
+    {
+        "ru": "В последнее время были приняти некоторые очень большие изменения",
+        "en": "Some very big changes have been brought about recently",
+        "ua": ""
+    },
+   {
+        "ru": "Начался очень сильный дождь, и мы решили не продолжать наше путешествие",
+        "en": "It started raining very heavily and we decided not to continue our trip",
+        "ua": ""
+    },
+    {
+        "ru": "Давай поедим вне дома сегодня вечером!",
+        "en": "Let's eat out tonight!",
+        "ua": ""
+    },
+   {
+        "ru": "Он говорит, что мы должны стоять за свои права",
+        "en": "He says that we must stand up for our rights",
+        "ua": ""
+    },
+    {
+        "ru": "Это скрашивает мою жизнь",
+        "en": "It brightens up my life",
+        "ua": ""
+    },
+   {
+        "ru": "Его бизнес пошел ко дну",
+        "en": "His business went under",
+        "ua": ""
+    },
+    {
+        "ru": "Кто-то раздавал листовки на улице",
+        "en": "Someone was giving out leaflets in the street",
+        "ua": ""
+    },
+   {
+        "ru": "Растение издает очень приятный запах",
+        "en": "The plant gives off a very pleasant smell",
+        "ua": ""
+    },
+    {
+        "ru": "Она застегнула пуговицы",
+        "en": "She did up the buttons",
+        "ua": ""
+    },
+   {
+        "ru": "Он говорит нам, что он сам за себя постоит",
+        "en": "He tells us that he will stand up for himself",
+        "ua": ""
+    },
+    {
+        "ru": "Давайте перейдем к следующему вопросу!",
+        "en": "Let's move on to the next question!",
+        "ua": ""
+    },
+   {
+        "ru": "Я беру свои слова обратно",
+        "en": "I take back my words",
+        "ua": ""
+    },
+    {
+        "ru": "Пора двигаться дальше",
+        "en": "It's time to move on",
+        "ua": ""
+    },
+   {
+        "ru": "Я вернулся домой",
+        "en": "I went back home",
+        "ua": ""
+    },
+    {
+        "ru": "Я собираюсь отрмемонтировать этот дом",
+        "en": "I'm going to do up this house",
+        "ua": ""
+    },
+   {
+        "ru": "Застегни ремень!",
+        "en": "Do up the belt!",
+        "ua": ""
+    },
+    {
+        "ru": "Это может вызвать очень большие изменения",
+        "en": "It can bring about very big changes",
+        "ua": ""
+    },
+   {
+        "ru": "Завяжи шнурки!",
+        "en": "Do up your shoelaces!",
+        "ua": ""
+    },
+    {
+        "ru": "Это открывает блестящие возможности",
+        "en": "It opens up brilliant opportunities",
+        "ua": ""
+    },
+   {
+        "ru": "Если это платье тебе не подходит, ты можешь сдать его обратно",
+        "en": "If this dress doesn't fit you, you can take it back",
+        "ua": ""
+    },
+    {
+        "ru": "Он не хочет идти против правил",
+        "en": "He doesn't want to go against the rules",
+        "ua": ""
+    },
+   {
+        "ru": "Я думаю, нам следует вернуться сейчас",
+        "en": "I think we should go back now",
+        "ua": ""
+    },
+    {
+        "ru": "Ну же, попробуй еще раз!",
+        "en": "Come on, try it again!",
+        "ua": ""
+    },
+   {
+        "ru": "В ходе встречи был выдвинут интересный план",
+        "en": "An interesting plan was brought forward during the meeting",
+        "ua": ""
+    },
+    {
+        "ru": "Если тебе не нравится это платье, ты можешь сдать его обратно",
+        "en": "If you don't like this dress, you can take it back",
+        "ua": ""
+    },
+   {
+        "ru": "Правительство приняло новый закон",
+        "en": "The government brought about a new law",
+        "ua": ""
+    },
+    {
+        "ru": "Учитель раздал эти материалы",
+        "en": "The teacher gave out these materials",
+        "ua": ""
+    },
+   {
+        "ru": "Тебе нравится обедать вне дома?",
+        "en": "Do you like eating out?",
+        "ua": ""
+    },
+    {
+        "ru": "Они хотят обмануть ее",
+        "en": "They want to take her in",
+        "ua": ""
+    },
+   {
+        "ru": "Я перешел к следующему упражнению",
+        "en": "I moved on to the next exercise",
+        "ua": ""
+    },
+    {
+        "ru": "Давай перейдем к следующему слайду!",
+        "en": "Let's move on to the next slide!",
+        "ua": ""
+    },
+   {
+        "ru": "Она отремонтировала свою квартиру прошлым летом",
+        "en": "She did up her apartment las summer",
+        "ua": ""
+    },
+    {
+        "ru": "Он много питался вне дома",
+        "en": "He ate out a lot",
+        "ua": ""
+    },
+   {
+        "ru": "Как ты пришел к такому выводу?",
+        "en": "How did you come to such a conclusion?",
+        "ua": ""
+    },
+    {
+        "ru": "Еда издает неприятный запах",
+        "en": "The food gives off a bad smell",
+        "ua": ""
+    },
+   {
+        "ru": "Он застегнул свою куртку",
+        "en": "He did up his jacket",
+        "ua": ""
+    },
+    {
+        "ru": "Им приходится закрывать свою компанию",
+        "en": "They have to close down their company",
+        "ua": ""
+    },
+   {
+        "ru": "Тебе нужно быть уверенным, что ты это сохранил",
+        "en": "You need to be sure that you backed it up",
+        "ua": ""
+    },
+    {
+        "ru": "Убедись, что ты сохранил все файлы",
+        "en": "Make sure you backed up all the files",
+        "ua": ""
+    },
+   {
+        "ru": "Это единственный способ двигаться вперед",
+        "en": "It is the only way to move forward",
+        "ua": ""
+    },
+    {
+        "ru": "Они готовы двигаться вперед",
+        "en": "They are ready to move forward",
+        "ua": ""
+    },
+   {
+        "ru": "С ними легко иметь дело",
+        "en": "They are easy to deal with",
+        "ua": ""
+    },
+    {
+        "ru": "Я имею дело с такими клиентами",
+        "en": "I deal with such customers",
+        "ua": ""
+    },
+   {
+        "ru": "Я попрошу ее успокоиться",
+        "en": "I will ask her to calm down",
+        "ua": ""
+    },
+    {
+        "ru": "Она успокоилась на мгновение и начала говорить со мной",
+        "en": "She calmed down for a moment and started talking to me",
+        "ua": ""
+    },
+   {
+        "ru": "Пожар разразился внезапно",
+        "en": "The fire broke out suddenly",
+        "ua": ""
+    },
+    {
+        "ru": "Я привык иметь дело с такими клиентами",
+        "en": "I am used to dealing with such customers",
+        "ua": ""
+    },
+   {
+        "ru": "Я постараюсь ее успокоить",
+        "en": "I will try to calm her down",
+        "ua": ""
+    },
+    {
+        "ru": "Я вижу, что ты очень успешно справляешься с этой проблемой",
+        "en": "I see that you deal with this problem very successfully",
+        "ua": ""
+    },
+   {
+        "ru": "Компании пришлось закрыться из-за кризиса",
+        "en": "The company had to close down because of the crisis",
+        "ua": ""
+    },
+    {
+        "ru": "Я не думаю, что они поддержат эту инициативу",
+        "en": "I don't think that they will back up this initiative",
+        "ua": ""
+    },
+   {
+        "ru": "Ребенку было сказано убрать свои игрушки",
+        "en": "The child was told to put away his toys",
+        "ua": ""
+    },
+    {
+        "ru": "Компания была захвачена одним из ее конкурентов",
+        "en": "The company was taken over by one of its competitors",
+        "ua": ""
+    },
+   {
+        "ru": "Им давно пора перестать его унижать",
+        "en": "It's high time they stopped putting him down",
+        "ua": ""
+    },
+    {
+        "ru": "С тобой легко иметь дело",
+        "en": "You are easy to deal with",
+        "ua": ""
+    },
+   {
+        "ru": "Его друг пришел вместе с ним на вечеринку",
+        "en": "His friend came along with him to the party",
+        "ua": ""
+    },
+    {
+        "ru": "Такого рода работа требует большей концентрации",
+        "en": "This kind of work calls for more concentration",
+        "ua": ""
+    },
+   {
+        "ru": "Я уже зарегистрировался в отеле",
+        "en": "I have already checked in at the hotel",
+        "ua": ""
+    },
+   {
+        "ru": "Их попросили снизить цену",
+        "en": "They were asked to bring down the price",
+        "ua": ""
+    },
+    {
+        "ru": "Тебе не нужно наряжаться для такого случая",
+        "en": "You don't need to dress up for such an occasion",
+        "ua": ""
+    },
+   {
+        "ru": "Эта маленькая компания была захвачена огромной корпорацией",
+        "en": "This small company was taken over by a huge corporation",
+        "ua": ""
+    },
+    {
+        "ru": "Он на минуту успокоился и начал ее слушать",
+        "en": "He calmed down for a minute and started listening to her",
+        "ua": ""
+    },
+   {
+        "ru": "Я не думаю, что цена на компьютеры будет снижена",
+        "en": "I don't think that the price on computers will be brought down",
+        "ua": ""
+    },
+    {
+        "ru": "Я потерял всю эту информацию, потому что забыл ее сохранить",
+        "en": "I lost all this information because I had forgotten to back it up",
+        "ua": ""
+    },
+   {
+        "ru": "Некоторые дети обожают наряжаться",
+        "en": "Some children enjoy dressing up",
+        "ua": ""
+    },
+    {
+        "ru": "Отбрось все свои страхи в сторону",
+        "en": "Put all your fears aside",
+        "ua": ""
+    },
+   {
+        "ru": "Так много магазинов закрывается в наши дни",
+        "en": "So many shops close down nowadays",
+        "ua": ""
+    },
+    {
+        "ru": "Я поддержу тебя, когда тебе это понадобится",
+        "en": "I will back you up when you need it",
+        "ua": ""
+    },
+   {
+        "ru": "Мне нужно положить это",
+        "en": "I need to put it down",
+        "ua": ""
+    },
+    {
+        "ru": "Она вернула ему эту книгу",
+        "en": "She gave him this book back",
+        "ua": ""
+    },
+   {
+        "ru": "Компания решила снизить цену",
+        "en": "The company decided to bring down the price",
+        "ua": ""
+    },
+    {
+        "ru": "Я отложил книгу",
+        "en": "I put the book away",
+        "ua": ""
+    },
+   {
+        "ru": "Ты можешь мне это вернуть?",
+        "en": "Can you give it back to me?",
+        "ua": ""
+    },
+    {
+        "ru": "Он часто унижает других людей",
+        "en": "He often puts down other people",
+        "ua": ""
+    },
+   {
+        "ru": "Позволь еде остыть!",
+        "en": "Let the food cool down!",
+        "ua": ""
+    },
+    {
+        "ru": "Я запишу это слово",
+        "en": "I will write down this word",
+        "ua": ""
+    },
+   {
+        "ru": "Перестань его унижать!",
+        "en": "Stop putting him down!",
+        "ua": ""
+    },
+    {
+        "ru": "Он остыл и осознал, что был не прав",
+        "en": "He cooled down and realized that he was wrong",
+        "ua": ""
+    },
+   {
+        "ru": "Он решил сократить потребление алкоголя",
+        "en": "He decided to cut down on drinking alcohol",
+        "ua": ""
+    },
+    {
+        "ru": "Когда ты сократишь потребление шоколада?",
+        "en": "When will you cut down on eating chocolate?",
+        "ua": ""
+    },
+   {
+        "ru": "Он отдал свою старую одежду",
+        "en": "He gave away his old clothes",
+        "ua": ""
+    },
+    {
+        "ru": "Большую часть своих денег он раздал бездомным людям",
+        "en": "He gave away most of his money to homeless people",
+        "ua": ""
+    },
+   {
+        "ru": "Я действительно сыт по горло твоими обещаниями",
+        "en": "I am really fed up with your promises",
+        "ua": ""
+    },
+    {
+        "ru": "Я действительно сыт по горло его поведением",
+        "en": "I am really fed up with his behaviour",
+        "ua": ""
+    },
+   {
+        "ru": "Они выдвинули очень интересную идею",
+        "en": "They put forward a very interesting idea",
+        "ua": ""
+    },
+    {
+        "ru": "Было выдвинуто очень интересное предположение",
+        "en": "A very interesting suggestion was put forward",
+        "ua": ""
+    },
+   {
+        "ru": "Воры вломились в дом и украли ее драгоценности",
+        "en": "The thieves broke into the house and stole her jewellery",
+        "ua": ""
+    },
+    {
+        "ru": "Когда вор вломился в дом?",
+        "en": "When did the thief break into the house?",
+        "ua": ""
+    },
+   {
+        "ru": "Я не мог жить на двести долларов в месяц",
+        "en": "I couldn't get by on two hundred dollars a month",
+        "ua": ""
+    },
+    {
+        "ru": "Пожарным потребовалось около двух часов, чтобы потушить пожар",
+        "en": "It took the firefighters about two hours to put out the fire",
+        "ua": ""
+    },
+   {
+        "ru": "Воры ворвались внутрь и украли все драгоценности",
+        "en": "The thieves broke in and stole all the jewellery",
+        "ua": ""
+    },
+    {
+        "ru": "Кто-то вломился в его дом и украл его сбережения",
+        "en": "Someone broke into his house and stole his savings",
+        "ua": ""
+    },
+   {
+        "ru": "Я решил попытаться сделать это снова",
+        "en": "I made up my mind to try to do it again",
+        "ua": ""
+    },
+    {
+        "ru": "Он решил отдать большую часть своих денег бедным людям",
+        "en": "He decided to give away most of his money to poor people",
+        "ua": ""
+    },
+   {
+        "ru": "Во время обсуждения были выдвинуты еще два предложения",
+        "en": "Two more proposals were put forward during the discussion",
+        "ua": ""
+    },
+    {
+        "ru": "Для проведения такого рода экспериментов были созданы новые установки",
+        "en": "New facilities were created for carrying out this kind of experiments",
+        "ua": ""
+    },
+   {
+        "ru": "Он очень болен, но я уверен что он скоро поправится",
+        "en": "He is very ill but I am sure that he will get over it",
+        "ua": ""
+    },
+    {
+        "ru": "Все ее попытки подбодрить его провалились",
+        "en": "All her attempts to cheer him up failed",
+        "ua": ""
+    },
+   {
+        "ru": "Насколько я могу понять, нам нужно сделать следующее",
+        "en": "As far as I can make out, we need to do the following",
+        "ua": ""
+    },
+    {
+        "ru": "Грабители ворвались внутрь, но потом они были арестованы",
+        "en": "The burglars broke in but then they were arrested",
+        "ua": ""
+    },
+   {
+        "ru": "Тебе нужно сесть, потому что ты выглядишь действительно уставшим",
+        "en": "You need to sit down because you look really tired",
+        "ua": ""
+    },
+    {
+        "ru": "Ты можешь соединить меня с врачом?",
+        "en": "Can you put me through to the doctor?",
+        "ua": ""
+    },
+   {
+        "ru": "Новое расследование было проведено полицией",
+        "en": "A new investigation was carried out by the police",
+        "ua": ""
+    },
+    {
+        "ru": "Насколько я могу понять, ты дашь мне знать о новостях, как только они у тебя будут",
+        "en": "As far as I can make out, you will let me know about the news once you have it",
+        "ua": ""
+    },
+   {
+        "ru": "Она б ольше не нуждалась в той одежде, поэтому решила ее отдать",
+        "en": "She didn't need those clothes anymore so she decided to give them away",
+        "ua": ""
+    },
+    {
+        "ru": "К тому времени, когда прибыл полицейский, преступник уже скрылся",
+        "en": "By the time the policeman arrived, the criminal had already got away",
+        "ua": ""
+    },
+   {
+        "ru": "Она сказала, что уже сократила потребление шоколада",
+        "en": "She said that she had already cut down on eating chocolate",
+        "ua": ""
+    },
+    {
+        "ru": "Воры скрылись от полиции, но затем они были пойманы и наказаны",
+        "en": "The thieves got away from the police but then they were caught and punished",
+        "ua": ""
+    },
+   {
+        "ru": "Результаты этой работы такие плохие, и я списываю это на их непрофессионализм",
+        "en": "The results of this work are so bad and I put it down to their unprofessionalism",
+        "ua": ""
+    },
+    {
+        "ru": "Ты мог бы соединить меня с директором?",
+        "en": "Could you put me through to the director?",
+        "ua": ""
+    },
+   {
+        "ru": "Она не могла проникнуть в дом, потому что дверь была заперта",
+        "en": "She couldn't get into house because the door was locked",
+        "ua": ""
+    },
+    {
+        "ru": "Очень важное исследование было проведено этой группой ученых",
+        "en": "A very important research was carried out by this group of scientists",
+        "ua": ""
+    },
 ]
