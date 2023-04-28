@@ -23234,4 +23234,499 @@ sentences = [
         "en": "A very important research was carried out by this group of scientists",
         "ua": ""
     },
+    {
+        "ru": "Его коллеги завидуют его успеху",
+        "en": "His colleagues are envious of his success",
+        "ua": ""
+    },
+    {
+        "ru": "Он очень привязан к своей семье",
+        "en": "He is very tied to his family",
+        "ua": ""
+    },
+   {
+        "ru": "У него нет подписки на этот журнал",
+        "en": "He doesn't have a subscription to this magazine",
+        "ua": ""
+    },
+    {
+        "ru": "Она вышла замуж за друга своего брата",
+        "en": "She got married to her brother's friend",
+        "ua": ""
+    },
+   {
+        "ru": "Я склонен верить, что вещи не работают таким образом",
+        "en": "I am inclined to believe that things don't work this way",
+        "ua": ""
+    },
+    {
+        "ru": "Это противоречит моим принципам и убеждениям",
+        "en": "It is contrary to my principles and beliefs",
+        "ua": ""
+    },
+   {
+        "ru": "Мне нужно возобновить подписку на эту услугу",
+        "en": "I need to renew my subscription to this service",
+        "ua": ""
+    },
+    {
+        "ru": "Она очень привязана к сообществу",
+        "en": "She is very tied to the community",
+        "ua": ""
+    },
+   {
+        "ru": "Это противоречит этим правилам?",
+        "en": "Is it contrary to these rules?",
+        "ua": ""
+    },
+    {
+        "ru": "Она была слишком поглощена своей работой",
+        "en": "She was too engrossed in her work",
+        "ua": ""
+    },
+   {
+        "ru": "Не кричи на нее!",
+        "en": "Don't shout at her!",
+        "ua": ""
+    },
+    {
+        "ru": "Товар готов к отправке",
+        "en": "The goods are ready for shipping",
+        "ua": ""
+    },
+   {
+        "ru": "Он не может перестать думать о ней",
+        "en": "He can't stop thinking about her",
+        "ua": ""
+    },
+    {
+        "ru": "Его отец очень строг с ними",
+        "en": "His father is very strict with them",
+        "ua": ""
+    },
+   {
+        "ru": "Она очень привязана к своему питомцу",
+        "en": "She is very tied to her pet",
+        "ua": ""
+    },
+    {
+        "ru": "Эти программы несовместимы друг с другом",
+        "en": "These programs aren't compatible with each other",
+        "ua": ""
+    },
+   {
+        "ru": "Он так строг к своим детям",
+        "en": "He is so strict with his children",
+        "ua": ""
+    },
+    {
+        "ru": "Она думает о том, чтобы подать заявку на работу",
+        "en": "She is thinking about applying for a job",
+        "ua": ""
+    },
+   {
+        "ru": "Он очень поглощен разговором",
+        "en": "He is very engrossed in conversation",
+        "ua": ""
+    },
+    {
+        "ru": "Я был доволен своим прогрессом",
+        "en": "I was content with my progress",
+        "ua": ""
+    },
+   {
+        "ru": "Я был очень удивлен этой новостью",
+        "en": "I was really astonished at the news",
+        "ua": ""
+    },
+    {
+        "ru": "Его подруга полностью подсела на мыльные оперы",
+        "en": "His girlfriend is completely hooked on soap operas",
+        "ua": ""
+    },
+   {
+        "ru": "Ты уже зарегистрировался на курс?",
+        "en": "Have you already registered for the course?",
+        "ua": ""
+    },
+    {
+        "ru": "Я собираюсь записаться на курс",
+        "en": "I am going to register for the course",
+        "ua": ""
+    },
+   {
+        "ru": "На конференцию зарегистрировалось более двухсот человек",
+        "en": "Over two hundred people registered for the conference",
+        "ua": ""
+    },
+    {
+        "ru": "Мой друг был поражен, узнав, что он выиграл турнир",
+        "en": "My friend was astonished to know that he had won the tournament",
+        "ua": ""
+    },
+   {
+        "ru": "Он так взволнован предстоящим концертом",
+        "en": "He's so excited about the upcoming concert",
+        "ua": ""
+    },
+    {
+        "ru": "Они не смогли войти в здание",
+        "en": "They weren't able to enter the building",
+        "ua": ""
+    },
+   {
+        "ru": "Не было необходимости в таком насилии",
+        "en": "There was no need for such violence",
+        "ua": ""
+    },
+    {
+        "ru": "Ребенок был очень поглощен своим планшетом, когда его увидела его мама",
+        "en": "The kid was very absorbed in his tablet when his mother saw him",
+        "ua": ""
+    },
+   {
+        "ru": "С кем он увлечен разговором?",
+        "en": "Who is he engrossed in conversation with?",
+        "ua": ""
+    },
+    {
+        "ru": "Я полностью осознаю тот факт, чтоэ то занимает время",
+        "en": "I am fully aware of the fact that it takes time",
+        "ua": ""
+    },
+   {
+        "ru": "Она завидует людям, которые много путешествуют.",
+        "en": "She is envious of people who travel a lot",
+        "ua": ""
+    },
+    {
+        "ru": "То, что я хочу сказать, не относится к тебе",
+        "en": "What I want to say does not apply to you",
+        "ua": ""
+    },
+   {
+        "ru": "Он жалуется на свою зарплату, потому что ему часто недоплачивают",
+        "en": "He complains about his salary because he is often underpaid",
+        "ua": ""
+    },
+    {
+        "ru": "Как только я прибыл в Соединенные Штаты, я позвонил своим друзьям.",
+        "en": "As soon as I arrived in the United States, I called my friends",
+        "ua": ""
+    },
+   {
+        "ru": "Как только я прибыл в аэропорт, я получил звонок от нее",
+        "en": "As soon as I arrived at the airport, I got a call from her",
+        "ua": ""
+    },
+    {
+        "ru": "Он подсел на компьютерные игры, когда был подростком",
+        "en": "He got hooked on computer games when he was a teenager",
+        "ua": ""
+    },
+   {
+        "ru": "Говорят, что настойчивость является ключом к успеху",
+        "en": "It is said that perseverance is the key to success",
+        "ua": ""
+    },
+    {
+        "ru": "С кем она была поглощена разговором?",
+        "en": "Who was she engrossed in conversation with?",
+        "ua": ""
+    },
+   {
+        "ru": "Посетителей просят воздержаться от фотосъемки",
+        "en": "Visitors are asked to abstain from taking photos",
+        "ua": ""
+    },
+    {
+        "ru": "Как долго ты ее ждешь?",
+        "en": "How long have you been waiting for her?",
+        "ua": ""
+    },
+   {
+        "ru": "Она крепко подсела на просмотр телевизора",
+        "en": "She is completely hooked on watching television",
+        "ua": ""
+    },
+    {
+        "ru": "Этот бизнес принадлежит моему другу",
+        "en": "This business belongs to a friend of mine",
+        "ua": ""
+    },
+   {
+        "ru": "Что тебя так изумило?",
+        "en": "What were you so astonished by?",
+        "ua": ""
+    },
+    {
+        "ru": "Она кричала на него во весь голос",
+        "en": "She was shouting at him at the top of her voice",
+        "ua": ""
+    },
+   {
+        "ru": "Никто не был доволен этим",
+        "en": "No one was content with it",
+        "ua": ""
+    },
+    {
+        "ru": "Это правило распространяется на всех",
+        "en": "This rule applies to everyone",
+        "ua": ""
+    },
+   {
+        "ru": "Как долго вы замужем за ним?",
+        "en": "How long have you been married to him?",
+        "ua": ""
+    },
+    {
+        "ru": "Что нам нужно, чтобы быть готовыми к этому?",
+        "en": "What do we need to be ready for it?",
+        "ua": ""
+    },
+   {
+        "ru": "Что заставило его подсесть на просмотр этой программы?",
+        "en": "What made him hooked on watching this program?",
+        "ua": ""
+    },
+    {
+        "ru": "Она подала заявление в этот университет, и ее приняли",
+        "en": "She applied to this university and she was accepted",
+        "ua": ""
+    },
+   {
+        "ru": "Когда я увидел ее, она была полностью поглощена чтением",
+        "en": "When I saw her, she was totally absorbed in reading",
+        "ua": ""
+    },
+    {
+        "ru": "Посетителей просят воздержаться от курения здесь",
+        "en": "Visitors are asked to abstain from smoking here",
+        "ua": ""
+    },
+   {
+        "ru": "Из скольких частей состоит эта презентация?",
+        "en": "How many parts does this presentation consist of?",
+        "ua": ""
+    },
+    {
+        "ru": "Она настояла на том, чтобы это сделать",
+        "en": "She insisted on doing it",
+        "ua": ""
+    },
+   {
+        "ru": "Сколько денег ты можешь потратить на это?",
+        "en": "How much money can you spend on it?",
+        "ua": ""
+    },
+    {
+        "ru": "Он жаловался на это?",
+        "en": "Did he complain about it?",
+        "ua": ""
+    },
+   {
+        "ru": "Я пришел к выводу, что это отличная идея",
+        "en": "I came to the conclusion that it is a great idea",
+        "ua": ""
+    },
+    {
+        "ru": "Этот дом принадлежит тебе?",
+        "en": "Does this house belong to you?",
+        "ua": ""
+    },
+   {
+        "ru": "Он улыбнулся ей и помахал",
+        "en": "He smiled at her and waved",
+        "ua": ""
+    },
+    {
+        "ru": "Он не чувствует сострадания к этим людям, которые действительно нуждающиеся",
+        "en": "He feels no sympathy for these people who are in real need",
+        "ua": ""
+    },
+   {
+        "ru": "Я видел рекламу нового фитнес клуба",
+        "en": "I saw an advertisement for a new fitness club",
+        "ua": ""
+    },
+   {
+        "ru": "Он плохо ведет бизнес",
+        "en": "He is bad at doing business",
+        "ua": ""
+    },
+    {
+        "ru": "Его вклад в проект недооценен",
+        "en": "His contribution to the project is undervalued",
+        "ua": ""
+    },
+   {
+        "ru": "От чего страдает большинство людей?",
+        "en": "What do most people suffer from",
+        "ua": ""
+    },
+    {
+        "ru": "Власти встретили сопротивление людей тем переменам",
+        "en": "The authorities met people's resistance to those changes",
+        "ua": ""
+    },
+   {
+        "ru": "Она страдает от постоянных головных болей",
+        "en": "She suffers from constant headaches",
+        "ua": ""
+    },
+    {
+        "ru": "Мы надеемся на дальнейшее сотрудничество",
+        "en": "We hope for further cooperation",
+        "ua": ""
+    },
+   {
+        "ru": "Она одержима своей новой игрушкой",
+        "en": "She is obsessed with her new toy",
+        "ua": ""
+    },
+    {
+        "ru": "Певец помахал своим поклонникам",
+        "en": "The singer waved to his fans",
+        "ua": ""
+    },
+   {
+        "ru": "Он больше не хочет зависеть от своих родителей",
+        "en": "He doesn't want to depend on his parents any longer",
+        "ua": ""
+    },
+    {
+        "ru": "Я надеюсь, что у меня не будет никаких серьезных проблем с этим",
+        "en": "I hope I won't have any serious problems with it",
+        "ua": ""
+    },
+   {
+        "ru": "Он часто страдает от депрессии",
+        "en": "He often suffers from depression",
+        "ua": ""
+    },
+    {
+        "ru": "Он вложил свои деньги в очень рискованный проект",
+        "en": "He invested his money in a very risky project",
+        "ua": ""
+    },
+   {
+        "ru": "Он часто гордится собой",
+        "en": "He is often proud of himselfs",
+        "ua": ""
+    },
+    {
+        "ru": "Он одержим завистью",
+        "en": "He is obsessed with envy",
+        "ua": ""
+    },
+   {
+        "ru": "Нас разделили на группы",
+        "en": "We were divided into groups",
+        "ua": ""
+    },
+    {
+        "ru": "Это привело компанию к банкротству",
+        "en": "It led the company to bankruptcy",
+        "ua": ""
+    },
+   {
+        "ru": "Это разрушило ее отношения с ним",
+        "en": "It ruined her relationship with him",
+        "ua": ""
+    },
+    {
+        "ru": "Он полностью занят работой",
+        "en": "He is fully occupied with work",
+        "ua": ""
+    },
+   {
+        "ru": "Блогер помахал толпе",
+        "en": "The blogger waved to the crowd",
+        "ua": ""
+    },
+    {
+        "ru": "Я пришлю тебе приглашение на встречу",
+        "en": "I will send you an invitation to the meeting",
+        "ua": ""
+    },
+   {
+        "ru": "Мы предпочитаем надеяться на лучшее",
+        "en": "We prefer to hope for the best",
+        "ua": ""
+    },
+    {
+        "ru": "Я больше не могу на него полагаться",
+        "en": "I can't rely on him anymore",
+        "ua": ""
+    },
+   {
+        "ru": "Она заплатила за еду",
+        "en": "She paid for the meal",
+        "ua": ""
+    },
+    {
+        "ru": "Он попросил чашку кофе",
+        "en": "He asked for a cup of coffee",
+        "ua": ""
+    },
+   {
+        "ru": "Я получил новую информацию об этом",
+        "en": "I got new information on it",
+        "ua": ""
+    },
+    {
+        "ru": "Я бы не стал полагаться на его помощь",
+        "en": "I wouldn't rely on his assistance",
+        "ua": ""
+    },
+   {
+        "ru": "Она очень плохо разбирается в цифрах",
+        "en": "She is very bad at figures",
+        "ua": ""
+    },
+    {
+        "ru": "Я разделил свою презентацию на несколько частей",
+        "en": "I divided my presentation into several parts",
+        "ua": ""
+    },
+   {
+        "ru": "Он сделал очень значительный вклад в наше общество",
+        "en": "He made a very significant contribution to our society",
+        "ua": ""
+    },
+    {
+        "ru": "Он был несправедливо обвинен в том преступлении",
+        "en": "He was unjustly accused of that crime",
+        "ua": ""
+    },
+   {
+        "ru": "Они заняты очень важным проектом",
+        "en": "They are occupied with a very important project",
+        "ua": ""
+    },
+    {
+        "ru": "У него нет сочувствия к таким людям",
+        "en": "He has no sympathy for such people",
+        "ua": ""
+    },
+   {
+        "ru": "Он предпочитает инвестировать в акции",
+        "en": "He prefers to invest in shares",
+        "ua": ""
+    },
+    {
+        "ru": "Я хотел бы попросить тебя о помощи",
+        "en": "I'd like to ask you for your help",
+        "ua": ""
+    },
+   {
+        "ru": "Эта страна славится своей кухней",
+        "en": "The country is famous for its cuisine",
+        "ua": ""
+    },
+    {
+        "ru": "Он никогда никого не слушает",
+        "en": "He never listens to anybody",
+        "ua": ""
+    },
 ]
