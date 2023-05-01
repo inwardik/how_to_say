@@ -1,112 +1,3 @@
-sentences_tenses = [
-    {
-        "ru": "Она работает медсестрой",
-        "en": "She works as a nurse",
-        "comment": "(PRESENT SIMPLE)",
-    },
-    {
-        "ru": "Она владеет большим магазином",
-        "en": "She owns a large shop",
-        "comment": "(PRESENT SIMPLE)",
-    },
-    {
-        "ru": "деньги не приносят счастья",
-        "en": "money doesn't by happiness",
-        "comment": "(PRESENT SIMPLE)",
-    },
-    {
-        "ru": "Самолет вылетает в 6.05",
-        "en": "The plane leaves at 6.05",
-        "comment": "(PRESENT SIMPLE)",
-    },
-    {
-        "ru": "В настоящее время они проживают в гостинице",
-        "en": "They are staying at the Hotel at present",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Она ищет работу получше",
-        "en": "She is looking for a better job",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Она всегда меня перебивает!",
-        "en": "She is always interrupting me!",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Они приезжают к нам сегодня вечером.",
-        "en": "They are visiting us tonight",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Его английский становится лучше",
-        "en": "His English is getting better",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Она убралась в своей комнате",
-        "en": "She has tidied her room",
-        "comment": "(PRESENT PERFECT)",
-    },
-    {
-        "ru": "Он потерял ключи. Он все еще ищет их.",
-        "en": "He has lost his keys. He is still looking for them.",
-        "comment": "(PRESENT PERFECT, PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Я потерял 10 килограммов",
-        "en": "I have lost 10 kilos",
-        "comment": "(PRESENT PERFECT)",
-    },
-    {
-        "ru": "Она написала три письма с сегодняшнего утра",
-        "en": "She has written three letters since this morning",
-        "comment": "(PRESENT PERFECT)",
-    },
-    {
-        "ru": "С 12 часов она обзвонила двух клиентов.",
-        "en": "She has called on two clients since 12 o'clock",
-        "comment": "(PRESENT PERFECT)",
-    },
-    {
-        "ru": "Он пишет письмо уже два часа. Он начал два часа назад и все еще пишет его.",
-        "en": "He has been writing a letter for two hours. He started two hours ago and he is still writing it.",
-        "comment": "(PRESENT PERFECT CONTINUOUS, PAST SIMPLE, PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Она плакала. У нее красные глаза.",
-        "en": "She has been crying. Her eyes are red.",
-        "comment": "(PRESENT PERFECT CONTINUOUS, PRESENT SIMPLE)",
-    },
-    {
-        "ru": "Кто пользовался моей зубной щеткой? Я раздражен!",
-        "en": "Who has been using my toothbrush? I am annoyed!",
-        "comment": "(PRESENT PERFECT CONTINUOUS, PRESENT SIMPLE)"
-    },
-    {
-        "ru": "Она обзванивает клиентов с самого утра.",
-        "en": "She has been calling on clients since this morning.",
-        "comment": "(PRESENT PERFECT CONTINUOUS)"
-    },
-    {
-        "ru": "Я работаю в компании SoftServe уже два года",
-        "en": "I have been working (I have worked) for SoftServe for two years",
-        "comment": "[PRESENT PERFECT CONTINUOUS (PRESENT PERFECT). For 'live', 'feel' and 'work']"
-    },
-    {
-        "ru": "Я ничего не ел с завтрака",
-        "en": "I haven't eaten anything since breakfast",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-    {
-        "ru": "Я никогда не был во Франции",
-        "en": "I have never been to France",
-        "comment": "(PRESENT CONTINUOUS)",
-    },
-
-]
-
 sentences = [
     {
         "ru": "Компания два раза увеличивала цену",
@@ -18900,4 +18791,161 @@ sentences = [
         "ru": "Все уставились на нее",
         "en": "Everyone was staring at her",
     },
+    {
+        "ru": "Ты действительно серьезно к этому относишься?",
+        "en": "Are you really serious about it?",
+    },
+    {
+        "ru": "Иди и извинись перед ним!",
+        "en": "Go and apologize to him!",
+    },
+    {
+        "ru": "Какие преимущества и недостатки онлайн-образования?",
+        "en": "What are the advantages and disadvantages of online education?",
+    },
+    {
+        "ru": "Его лечили антибиотиками",
+        "en": "He was cured with antibiotics",
+    },
+    {
+        "ru": "На него пялился незнакомец",
+        "en": "A stranger was staring at him",
+    },
+    {
+        "ru": "Он пошел и извинился перед ней",
+        "en": "He went and apologized to her",
+    },
+    {
+        "ru": "Этот босс превосходит своих сотрудников",
+        "en": "This boss is superior to his employees",
+    },
+    {
+        "ru": "Он был вылечен от этой болезни",
+        "en": "He was cured of this disease",
+    },
+    {
+        "ru": "Мы видим увеличение спроса",
+        "en": "We see an increase in demand",
+    },
+    {
+        "ru": "Это одно из главных преимуществ этой профессии",
+        "en": "It is one of the main advantages of this profession",
+    },
+    {
+        "ru": "Я думаю, что ты слишком сильно беспокоишься об этом",
+        "en": "I think you worry about it too much",
+    },
+    {
+        "ru": "Как он объяснил свое отсутствие на работе?",
+        "en": "How did he explain his absence from work?",
+    },
+    {
+        "ru": "Мой компьютер превосходит их",
+        "en": "My computer is superior to theirs",
+    },
+    {
+        "ru": "Лекарства от этой болезни не существует",
+        "en": "A cure for this disease doesn't exist",
+    },
+    {
+        "ru": "Ожидается, что такого рода меры приведут к беспрецедентно высокому уровню безработицы",
+        "en": "It is expected that this sort of measures will lead to an unprecedentedly high level of unemployment",
+    },
+    {
+        "ru": "Я думаю, что будет существенное увеличение в числе людей, которые поддержат эту идею",
+        "en": "I think there will be a significant increase in the number of people who will support this idea",
+    },
+    {
+        "ru": "Если мы посмотрим на текущую ситуацию, то можно увидеть, что растет спрос на дешевое жилье",
+        "en": "If we look at the current situation, we can see that there is a growing demand for cheap housing",
+    },
+    {
+        "ru": "Я полагаю, что мы продолжим видеть растущий спрос на эти товары",
+        "en": "I suppose we will continue to see an increasing demand for these goods",
+    },
+    {
+        "ru": "Произошло значительное увеличение в числе людей, которые были недовольны этой политикой",
+        "en": "There was a significant increase in the number of people who were dissatisfied with this policy",
+    },
+    {
+        "ru": "Я полностью убежден, что об этом совсем не нужно беспокоиться",
+        "en": "I am totally convinced that there is no need to worry about it at all",
+    },
+    {
+        "ru": "Уменьшается количество людей, которые в настоящее время являются безработными",
+        "en": "There is a decrease in the number of people who are currently uneployed",
+    },
+    {
+        "ru": "Это может привести к беспрецедентно высокому уровню безработицы",
+        "en": "It can lead to an unprecedentedly high level of unemployment",
+    },
+    {
+        "ru": "Он извинился за то, что вышел из себя",
+        "en": "He apologized for losing his temper",
+    },
+    {
+        "ru": "До сих пор не существует чудесного лекарства от этих болезней",
+        "en": "There is still no miraculous cure for these diseases",
+    },
+    {
+        "ru": "У меня было преимущество в получении хорошего образования",
+        "en": "I had an advantage of getting a good education",
+    },
+    {
+        "ru": "Студент извинился перед учителем за свое поведение",
+        "en": "The student apologized to the teacher for his behaviour",
+    },
+    {
+        "ru": "На что она уставилась?",
+        "en": "What is she staring at?",
+    },
+    {
+        "ru": "К чему это может привести?",
+        "en": "What can it lead to?",
+    },
+    {
+        "ru": "Я думаю, что ему не следует вмешиваться в дела других людей",
+        "en": "I think he shouldn't interfere with other people's affairs",
+    },
+    {
+        "ru": "Ты можешь достичь следующего уровня довольно скоро, если ты действительно серьезно относишься к этому",
+        "en": "You can reach the next level quite soon if you are really serious about it",
+    },
+    {
+        "ru": "Качество нашего продукта превосходит их",
+        "en": "The quality of our product is superior to theirs",
+    },
+    {
+        "ru": "Я хочу сказать, что я прошу прощения за опоздание",
+        "en": "I want to say that I apologize for being late",
+    },
+    {
+        "ru": "Если ты вмешаешься в это, ты только ухудшишь ситуацию",
+        "en": "If you interfere in it, you will only make things worse",
+    },
+    {
+        "ru": "Мой друг не хочет вмешиваться в их проблемы",
+        "en": "My friend is unwilling to interfere in their problems",
+    },
+    {
+        "ru": "Лекарство от этой болезни еще не было изобретено",
+        "en": "A cure for this disease hasn't been invented yet",
+    },
+    {
+        "ru": "Это одно из главных преимуществ жизни в этом городе",
+        "en": "It is one of the main advantages of living in this city",
+    },
+    {
+        "ru": "Легко заметить значительное снижение спроса на этот тип товаров",
+        "en": "It is easy to notice a great decrease in demand for this type of goods",
+    },
+    {
+        "ru": "Кто компенсирует нам потерю заработка?",
+        "en": "Who will compensate us for our loss of earnings?",
+    },
+    {
+        "ru": "Она извинилась передо мной за опоздание",
+        "en": "She apologised to me for being late",
+    },
+
 ]

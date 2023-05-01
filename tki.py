@@ -1,7 +1,9 @@
+import copy
 import random
 import tkinter as tk
 
-from content import sentences, sentences_tenses
+from content import sentences
+from custom_content import contents
 lesson_sentences = sentences
 
 
@@ -13,9 +15,9 @@ class HTS:
             global lesson_sentences
             lesson_sentences = sentences
 
-        def set_sentences_tenses():
+        def set_custom_sentences(param):
             global lesson_sentences
-            lesson_sentences = sentences_tenses
+            lesson_sentences = contents.get(param)
 
         self.window = tk.Tk()
         self.menubar = tk.Menu(self.window)
@@ -29,7 +31,11 @@ class HTS:
         self.about_menu.add_command(label="About", command=exit)
         self.lessons_menu = tk.Menu(self.menubar, tearoff=0)
         self.lessons_menu.add_command(label="basic", command=set_sentences)
-        self.lessons_menu.add_command(label="tenses", command=set_sentences_tenses)
+
+        for key in contents:
+            def new_command(tag=key):
+                self.lessons_menu.add_command(label=tag, command=lambda: set_custom_sentences(tag))
+            new_command(key)
 
         self.menubar.add_cascade(menu=self.file_menu, label="File")
         self.menubar.add_cascade(menu=self.about_menu, label="?")
@@ -105,6 +111,9 @@ class HTS:
 
 def wrapped(long_string, line_length=40):
     from textwrap import wrap
+
+    if not long_string:
+        return long_string
 
     return '\n'.join(wrap(long_string, line_length))
 
