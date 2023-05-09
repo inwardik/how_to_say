@@ -18900,4 +18900,520 @@ sentences = [
         "ru": "Все уставились на нее",
         "en": "Everyone was staring at her",
     },
+    {
+        "ru": "Это место не кажется мне знакомым",
+        "en": "This place doesn't seem familiar to me",
+    },
+    {
+        "ru": "Я был в восторге от такого результата",
+        "en": "I was delighted by this result",
+    },
+    {
+        "ru": "Он говорит, что ему наскучила его нынешняя работа",
+        "en": "He says that he got bored with his present job",
+    },
+    {
+        "ru": "Эта программа подходт как для детей, так и для взрослых",
+        "en": "This program is suitable for both children and adults",
+    },
+    {
+        "ru": "Этот документальный фильм также подходит для молодых зрителей",
+        "en": "This documentary is also suitable for young viewers",
+    },
+    {
+        "ru": "Эта квартира подходит для небольшой семьи",
+        "en": "This apartment is suitable for a small family",
+    },
+    {
+        "ru": "Они ограничивают свободу слова и самовыражения",
+        "en": "They restrict freedom of speech and expression",
+    },
+    {
+        "ru": "Эта одежда подходит для холодной погоды?",
+        "en": "Are these clothes suitable for cold weather?",
+    },
+    {
+        "ru": "Я действительно сожалею о беспорядке",
+        "en": "I am really sorry about the mess",
+    },
+    {
+        "ru": "Все были так доброжелательны к нам",
+        "en": "Everyone was so friendly towards us",
+    },
+    {
+        "ru": "Они обеспечивают эту страну нефтью и газом",
+        "en": "They provide this country with oil and gas",
+    },
+    {
+        "ru": "Он очень оптимистичен насчет будущего компании",
+        "en": "He is very optimistic about the future of the company",
+    },
+    {
+        "ru": "Он предоставляет нам очень ценную информацию",
+        "en": "He provides us with very valuable information",
+    },
+    {
+        "ru": "Этот парень действительно без ума от футбола",
+        "en": "this guy is really crazy about football",
+    },
+    {
+        "ru": "Он действительно в восторге от новостей",
+        "en": "He is really delighted by the news",
+    },
+    {
+        "ru": "Дом не подходит для такой большой семьи",
+        "en": "The house isn't suitable for such a large family",
+    },
+    {
+        "ru": "Эта песня кажется мне знакомой",
+        "en": "This song seems familiar to me",
+    },
+    {
+        "ru": "Он действительно без ума от нее",
+        "en": "He is really crazy about her",
+    },
+    {
+        "ru": "Я был действительно раздражен его замечаниями",
+        "en": "I was really annoyed with his remarks",
+    },
+    {
+        "ru": "Мне наскучил фильм",
+        "en": "I was bored with the movie",
+    },
+    {
+        "ru": "Он в ужасе от этой мысли",
+        "en": "He is terrified at this thought",
+    },
+    {
+        "ru": "Есть опасность новых протестов",
+        "en": "There is a danger of new protests",
+    },
+    {
+        "ru": "Она в ужасе от пауков",
+        "en": "She is terrified of spiders",
+    },
+    {
+        "ru": "Ты знаком с этой теорией?",
+        "en": "Are you familiar with this theory?",
+    },
+    {
+        "ru": "Извини, что пришел позже",
+        "en": "I'm sorry for coming later",
+    },
+    {
+        "ru": "Есть опасность пожара",
+        "en": "There is danger of fire",
+    },
+    {
+        "ru": "Я абсолютно уверен в этом",
+        "en": "I am absolutely certain about it",
+    },
+    {
+        "ru": "Они за свободу слова",
+        "en": "They are for freedom of speach",
+    },
+    {
+        "ru": "Мне очень быстро надоел тот урок",
+        "en": "I got bored with that lesson very quickly",
+    },
+    {
+        "ru": "Этот фильм не подходит для детей",
+        "en": "This movie isn't suitable for children",
+    },
+    {
+        "ru": "Он известен своей честностью",
+        "en": "He is known for his honesty",
+    },
+    {
+        "ru": "I feel very optimistic about this project",
+        "en": "Я очень оптимистично настроен по поводу этого проекта",
+    },
+    {
+        "ru": "Эта страна известна своими обычаями и традициями",
+        "en": "This country is known for its customs and traditions",
+    },
+    {
+        "ru": "Я абсолютно рад это слышать",
+        "en": "I am absolutely delighted to hear it",
+    },
+    {
+        "ru": "Я знаю, что мне не хватает уверенности в себе, но я стараюсь работать над этой проблемой",
+        "en": "I know that I have a lack of confidence but I try to work on this problem",
+    },
+    {
+        "ru": "Этот документальный фильм идеально подходит для людей всех возрастов",
+        "en": "This documentary is perfectly suitable for people of all ages",
+    },
+    {
+        "ru": "Я действительно сожалею о причиненных тебе неудобствах",
+        "en": "I am really sorry for the inconvenience caused to you",
+    },
+    {
+        "ru": "Он был в ужасе от мысли потерять все свои деньги",
+        "en": "He was terrified at the thought of losing all his money",
+    },
+    {
+        "ru": "Он действительно сожалеет о причиненных мне неудобствах",
+        "en": "He is really sorry about the inconvenience caused to me",
+    },
+    {
+        "ru": "Эта страна сильно зависит от своих природных ресурсов",
+        "en": "This country is heavily dependent on its natural resources",
+    },
+    {
+        "ru": "Мне бы не хотелось быть сильно зависимым от этого",
+        "en": "I wouldn't like to be heavily dependent on it",
+    },
+    {
+        "ru": "Он всегда был очень дружелюбен к нам, когда мы останавливались там",
+        "en": "He was always very friendly to us when we were staying there",
+    },
+    {
+        "ru": "Компания предоставляет очень хорошие условия для своих сотрудников",
+        "en": "The company provides very good conditions for its employees",
+    },
+    {
+        "ru": "Мне действительно жаль, что я тебя расстроил",
+        "en": "I'm really sorry for upsetting you",
+    },
+    {
+        "ru": "Я абсолютно рад быть здесь",
+        "en": "I am absolutely delighted to be here",
+    },
+    {
+        "ru": "У тебя никогда не бывает нехватки энтузиазма",
+        "en": "You never have a lack of enthusiasm",
+    },
+    {
+        "ru": "Я никогда в жизни не был так уверен",
+        "en": "I have never been so certain in my life",
+    },
+    {
+        "ru": "Их свобода передвижения ограничена",
+        "en": "Their freedom of movement is resticted",
+    },
+    {
+        "ru": "Его родители стараются предоставить ему очень хорошее образование",
+        "en": "His parents try to provide him with a very good education",
+    },
+    {
+        "ru": "Что тебе наскучило?",
+        "en": "What are you bored with?",
+    },
+    {
+        "ru": "Свобода слова и самовыражения ограничена",
+        "en": "Freedom of speech and expression is restricted",
+    },
+    {
+        "ru": "Детям наскучила игра",
+        "en": "The kids got bored with the game",
+    },
+    {
+        "ru": "Его отец старался предоставить ей самое лучшее образование",
+        "en": "His father tried to provide her with the best education",
+    },
+    {
+        "ru": "Мне действительно жаль, что я ранил твои чувства",
+        "en": "I am really sorry for hurting your feelings",
+    },
+    {
+        "ru": "Ей наскучило заниматься домашним хозяйством",
+        "en": "She got bored with doing housework",
+    },
+    {
+        "ru": "Я уверен, что он будет очень рад видеть тебя",
+        "en": "I'm sure that he will be absolutely delighted to see you",
+    },
+    {
+        "ru": "Чем она так раздражена?",
+        "en": "What is she so annoyed with?",
+    },
+    {
+        "ru": "Что кажется тебе знакомым?",
+        "en": "What seems familiar to you?",
+    },
+    {
+        "ru": "Эта компания предоставляет своим сотрудникам идеальные условия",
+        "en": "This company provides its employees with perfect conditions",
+    },
+    {
+        "ru": "Они предоставляют нам все необходимое оборудование",
+        "en": "They provide us with all the necessary equipment",
+    },
+    {
+        "ru": "Он известен своей добротой",
+        "en": "He is known for his kindness",
+    },
+    {
+        "ru": "Я в ужасе от этой мысли",
+        "en": "I am terrified at this thought",
+    },
+    {
+        "ru": "I'd like to book a room with a view of the ocean",
+        "en": "Я хотел бы забронировать номер с видом на океан",
+    },
+    {
+        "ru": "Какие преимущества домашнего образования?",
+        "en": "What are the benefits of home education?",
+    },
+    {
+        "ru": "Мне нужно написать ему письмо",
+        "en": "I need to write him a letter",
+    },
+    {
+        "ru": "У нас разные взгляды на этот вопрос",
+        "en": "We have different views on this matter",
+    },
+    {
+        "ru": "Ему блестяще даются иностранные языки",
+        "en": "He is brilliant at foreign languages",
+    },
+    {
+        "ru": "Мы должны защитить ее от этих возможных рисков",
+        "en": "We need to protect her from these possible risks",
+    },
+    {
+        "ru": "Я впечатлен их профессионализмом",
+        "en": "I am impressed with their professionalism",
+    },
+    {
+        "ru": "У меня и моих друзей схожий взгляд на онлайн образование",
+        "en": "My friends and I have a similar view on (of) online education",
+    },
+    {
+        "ru": "Она отправила ему очень важное письмо",
+        "en": "She sent a very important letter to him",
+    },
+    {
+        "ru": "Тот аромат имеет запах цветов",
+        "en": "That fragrance ahs a smell of flowers",
+    },
+    {
+        "ru": "Он всегда во всем винит ее",
+        "en": "He always blames her for everything",
+    },
+    {
+        "ru": "Мы все поражены твоим большим энтузиазмом",
+        "en": "We are all impressed by your great enthusiasm",
+    },
+    {
+        "ru": "Какое впечатление он произвел на тебя?",
+        "en": "What impression did he make on you?",
+    },
+    {
+        "ru": "His beliefs are quite similar to hers",
+        "en": "Его убеждения вполне похожи на ее",
+    },
+    {
+        "ru": "Не вини ее за это!",
+        "en": "Don't blame her for it!",
+    },
+    {
+        "ru": "Остерегайся собаки!",
+        "en": "Beware of the dog!",
+    },
+    {
+        "ru": "Его мысли схожи с моими",
+        "en": "His thoughts are similar to mine",
+    },
+    {
+        "ru": "Они обвиняют его в этой аварии",
+        "en": "They blame him for this accident",
+    },
+    {
+        "ru": "Мне нужна комната с видом на океан",
+        "en": "I need a room with a view of the ocean",
+    },
+    {
+        "ru": "Они дали ему эту сумму денег",
+        "en": "They gave him this sum of money",
+    },
+    {
+        "ru": "Эти духи пахнут малиной",
+        "en": "This pefrume smells of raspberry",
+    },
+    {
+        "ru": "Этот аромат пахнет розами",
+        "en": "This fragrance smells of roses",
+    },
+    {
+        "ru": "Многие люди не уверены в своем будущем",
+        "en": "Many people aren't confident about their future",
+    },
+    {
+        "ru": "Это защищает нас от холода",
+        "en": "It protects us from cold",
+    },
+    {
+        "ru": "От него пахнет чесноком",
+        "en": "He smells of garlic",
+    },
+    {
+        "ru": "Кто от этого выиграет?",
+        "en": "Who will benefit from it?",
+    },
+    {
+        "ru": "Это защищает их от экстремальной жары",
+        "en": "It protects them from extreme heat",
+    },
+    {
+        "ru": "Он прислал ей конфиденциальное письмо",
+        "en": "He sent her a confidential letter",
+    },
+    {
+        "ru": "Они обвиняют ее в той аварии",
+        "en": "They blame that accident on her",
+    },
+    {
+        "ru": "Они были поражены его огромной силой",
+        "en": "They were impressed by his great strength",
+    },
+    {
+        "ru": "Я одолжил ему эту сумму денег",
+        "en": "I have lent this sum of money to him",
+    },
+    {
+        "ru": "Кто выиграет от этих реформ?",
+        "en": "Who will benefit from these reforms?",
+    },
+    {
+        "ru": "Эти проблемы тесно связаны друг с другом",
+        "en": "These problems are closely connected with each other",
+    },
+    {
+        "ru": "Эти вещи связаны друг с другом?",
+        "en": "Are these thiings connected with each other?",
+    },
+    {
+        "ru": "Он никого не винит в этом",
+        "en": "He doesn't blame anyone for it",
+    },
+    {
+        "ru": "Что ты думаешь по этой теме?",
+        "en": "What's your view on this subject?",
+    },
+    {
+        "ru": "Остерегайся скользких дорог!",
+        "en": "Beware of slippery roads!",
+    },
+    {
+        "ru": "Не вини его в этом!",
+        "en": "Don't blame it on him!",
+    },
+    {
+        "ru": "Кто отсутствовал на собрании?",
+        "en": "Who was absent from the meeting?",
+    },
+    {
+        "ru": "Какое впечатление она произвела на тебя?",
+        "en": "What kind of impression did she make on you?",
+    },
+    {
+        "ru": "Она заметила запах газа, но не обратила на это внимания",
+        "en": "She noticed a smell of gas but she didn't pay attention to it",
+    },
+    {
+        "ru": "Мы были особенно впечатлены глубиной ее знаний и большой эрудицией",
+        "en": "We were particularly impressed by the depth of her knowledge and great erudition",
+    },
+    {
+        "ru": "Эта вещь произвела на меня незабываемое впечатление",
+        "en": "This thing made an unforgettable impression on me",
+    },
+    {
+        "ru": "Я склонен думать, что тебе следует остерегаться принимать слишком поспешные решения",
+        "en": "I tend to think that you should beware of making too hasty decisions",
+    },
+    {
+        "ru": "Ему часто говорят остерегаться принимать поспешные решения, но он не хочет это слушать",
+        "en": "He is often told to beware of making hasty decisions but he doesn't want to listen to it",
+    },
+    {
+        "ru": "Если ты продолжишь делать такого рода упражнения, то начнешь чувствовать себя гораздо увереннее в английском",
+        "en": "If you go on doing this kind of exercises, you will start feeling much more confident in English",
+    },
+    {
+        "ru": "Ей блестяще дается изучение иностранных языков",
+        "en": "She is brilliant at learning foreign languages",
+    },
+    {
+        "ru": "Они не хотели заключать ту сделку, но потом начали рассматривать ее потенциальную выгоду",
+        "en": "They didn't want to make that deal but then they started considering its potential benefits",
+    },
+    {
+        "ru": "Она решила написать ему очень длинное письмо, чтобы он мог лучше понять ситуацию",
+        "en": "She decided to write him a very long letter so that he could understand the situation better",
+    },
+    {
+        "ru": "Что заставляет тебя чувствовать себя уверенным в успехе?",
+        "en": "What makes you feel confident of success?",
+    },
+    {
+        "ru": "Это произвело очень негативное впечатление на меня",
+        "en": "It made a very negative impression on me",
+    },
+    {
+        "ru": "Он уверен в победе",
+        "en": "He is confident of winning",
+    },
+    {
+        "ru": "Тебе нужно быть более уверенным в себе",
+        "en": "You need to be more self-confident",
+    },
+    {
+        "ru": "Чем пахнет этот суп",
+        "en": "What does this soup smell of?",
+    },
+    {
+        "ru": "Его замечания не произвели на него впечатления",
+        "en": "He remarks made no impression on him",
+    },
+    {
+        "ru": "Он произвел на меня очень благоприятное впечатление",
+        "en": "He made a very favorable impression on me",
+    },
+    {
+        "ru": "Я не виню их в том, что они пытаются это сделать",
+        "en": "I don't blame them for trying to do it",
+    },
+    {
+        "ru": "Каково твое мнение по следующему вопросу?",
+        "en": "What is your view on the following issue?",
+    },
+    {
+        "ru": "Она отказалась одолжить ему такую большую сумму денег",
+        "en": "She refused to lend him such a big sum of money",
+    },
+    {
+        "ru": "Я действительно впечатлен глубиной его знаний",
+        "en": "I am really impressed by the depth of his knowledge",
+    },
+    {
+        "ru": "Чем пахнет этот парфюм?",
+        "en": "What does this perfume smell of?",
+    },
+    {
+        "ru": "Он сказал ей остерегаться незнакомцев",
+        "en": "He told her to eware of strangers",
+    },
+    {
+        "ru": "Мы все впечатлены его непрестанным энтузиазмом",
+        "en": "We are all impressed by his ceaseless enthusiasm",
+    },
+    {
+        "ru": "Я довольно уверен в успехе",
+        "en": "I am pretty confident in success",
+    },
+    {
+        "ru": "Этот вид на океан просто невероятен",
+        "en": "This view of the ocean is just incredible",
+    },
+    {
+        "ru": "Никто не заметил ее отсутствия на работе",
+        "en": "No one noticed her absence from work",
+    },
+    {
+        "ru": "Они не обвиняют его в этой аварии",
+        "en": "They don't blame him for this accident",
+    },
 ]
